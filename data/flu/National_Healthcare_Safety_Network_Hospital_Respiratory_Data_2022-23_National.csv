@@ -1,0 +1,419 @@
+"National Healthcare Safety Network (NHSN) Hospital Respiratory Data (downloaded on "Mar-06-2025)
+Influenza Division - Centers for Disease Control and Prevention.
+Week,Season,Measure,Region,RegionDescription,Measure_Value
+202312,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.39
+202336,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.24
+202336,2022-23,Influenza Hospital Admissions,,National,787
+202336,2022-23,Influenza Hospitalization (Avg 7 Day),,National,718.71
+202336,2022-23,Average patients with influenza in ICU,,National,153
+202337,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.25
+202337,2022-23,Influenza Hospital Admissions,,National,815
+202337,2022-23,Influenza Hospitalization (Avg 7 Day),,National,741.29
+202337,2022-23,Average patients with influenza in ICU,,National,155.29
+202338,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.26
+202338,2022-23,Influenza Hospital Admissions,,National,873
+202338,2022-23,Influenza Hospitalization (Avg 7 Day),,National,747
+202338,2022-23,Average patients with influenza in ICU,,National,153.43
+202243,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,1.22
+202243,2022-23,Influenza Hospital Admissions,,National,4032
+202243,2022-23,Influenza Hospitalization (Avg 7 Day),,National,2137.57
+202243,2022-23,Average patients with influenza in ICU,,National,321.43
+202302,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,2.16
+202302,2022-23,Influenza Hospital Admissions,,National,7158
+202302,2022-23,Influenza Hospitalization (Avg 7 Day),,National,7386.71
+202302,2022-23,Average patients with influenza in ICU,,National,1246.86
+202303,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,1.34
+202303,2022-23,Influenza Hospital Admissions,,National,4427
+202303,2022-23,Influenza Hospitalization (Avg 7 Day),,National,4524.57
+202303,2022-23,Average patients with influenza in ICU,,National,801.86
+202312,2022-23,Influenza Hospital Admissions,,National,1281
+202312,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1012.43
+202312,2022-23,Average patients with influenza in ICU,,National,197.57
+202313,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.38
+202313,2022-23,Influenza Hospital Admissions,,National,1268
+202313,2022-23,Influenza Hospitalization (Avg 7 Day),,National,999.29
+202313,2022-23,Average patients with influenza in ICU,,National,201.14
+202324,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.25
+202324,2022-23,Influenza Hospital Admissions,,National,837
+202324,2022-23,Influenza Hospitalization (Avg 7 Day),,National,737.29
+202324,2022-23,Average patients with influenza in ICU,,National,154.86
+202325,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.24
+202325,2022-23,Influenza Hospital Admissions,,National,811
+202325,2022-23,Influenza Hospitalization (Avg 7 Day),,National,723.43
+202325,2022-23,Average patients with influenza in ICU,,National,153.71
+202339,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.31
+202339,2022-23,Influenza Hospital Admissions,,National,1015
+202339,2022-23,Influenza Hospitalization (Avg 7 Day),,National,808.43
+202339,2022-23,Average patients with influenza in ICU,,National,159.86
+202314,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.36
+202314,2022-23,Influenza Hospital Admissions,,National,1184
+202314,2022-23,Influenza Hospitalization (Avg 7 Day),,National,985.43
+202314,2022-23,Average patients with influenza in ICU,,National,187.29
+202326,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.24
+202326,2022-23,Influenza Hospital Admissions,,National,796
+202326,2022-23,Influenza Hospitalization (Avg 7 Day),,National,707.29
+202326,2022-23,Average patients with influenza in ICU,,National,155.29
+202244,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,1.87
+202244,2022-23,Influenza Hospital Admissions,,National,6202
+202244,2022-23,Influenza Hospitalization (Avg 7 Day),,National,3291.43
+202244,2022-23,Average patients with influenza in ICU,,National,475.14
+202245,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,2.51
+202245,2022-23,Influenza Hospital Admissions,,National,8329
+202245,2022-23,Influenza Hospitalization (Avg 7 Day),,National,4636.14
+202245,2022-23,Average patients with influenza in ICU,,National,644
+202304,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.92
+202304,2022-23,Influenza Hospital Admissions,,National,3038
+202304,2022-23,Influenza Hospitalization (Avg 7 Day),,National,3034.29
+202304,2022-23,Average patients with influenza in ICU,,National,536.86
+202315,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.32
+202315,2022-23,Influenza Hospital Admissions,,National,1049
+202315,2022-23,Influenza Hospitalization (Avg 7 Day),,National,872.29
+202315,2022-23,Average patients with influenza in ICU,,National,178.14
+202316,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.29
+202316,2022-23,Influenza Hospital Admissions,,National,975
+202316,2022-23,Influenza Hospitalization (Avg 7 Day),,National,814.57
+202316,2022-23,Average patients with influenza in ICU,,National,172.57
+202327,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202327,2022-23,Influenza Hospital Admissions,,National,662
+202327,2022-23,Influenza Hospitalization (Avg 7 Day),,National,699.57
+202327,2022-23,Average patients with influenza in ICU,,National,151
+202328,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.21
+202246,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,3.2
+202246,2022-23,Influenza Hospital Admissions,,National,10593
+202246,2022-23,Influenza Hospitalization (Avg 7 Day),,National,5890.57
+202246,2022-23,Average patients with influenza in ICU,,National,832.29
+202305,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.72
+202305,2022-23,Influenza Hospital Admissions,,National,2392
+202305,2022-23,Influenza Hospitalization (Avg 7 Day),,National,2307.57
+202305,2022-23,Average patients with influenza in ICU,,National,397.29
+202306,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.65
+202306,2022-23,Influenza Hospital Admissions,,National,2162
+202306,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1885.29
+202306,2022-23,Average patients with influenza in ICU,,National,338.29
+202317,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.27
+202317,2022-23,Influenza Hospital Admissions,,National,901
+202317,2022-23,Influenza Hospitalization (Avg 7 Day),,National,754.71
+202317,2022-23,Average patients with influenza in ICU,,National,168.14
+202328,2022-23,Influenza Hospital Admissions,,National,700
+202328,2022-23,Influenza Hospitalization (Avg 7 Day),,National,628.14
+202328,2022-23,Average patients with influenza in ICU,,National,147.57
+202329,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.18
+202329,2022-23,Influenza Hospital Admissions,,National,600
+202329,2022-23,Influenza Hospitalization (Avg 7 Day),,National,620
+202329,2022-23,Average patients with influenza in ICU,,National,148.14
+202247,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,5.31
+202247,2022-23,Influenza Hospital Admissions,,National,17601
+202247,2022-23,Influenza Hospitalization (Avg 7 Day),,National,8737
+202247,2022-23,Average patients with influenza in ICU,,National,1175.14
+202248,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,7.81
+202248,2022-23,Influenza Hospital Admissions,,National,25882
+202248,2022-23,Influenza Hospitalization (Avg 7 Day),,National,15268.14
+202248,2022-23,Average patients with influenza in ICU,,National,2108.14
+202249,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,7.06
+202249,2022-23,Influenza Hospital Admissions,,National,23389
+202249,2022-23,Influenza Hospitalization (Avg 7 Day),,National,15926
+202249,2022-23,Average patients with influenza in ICU,,National,2296.71
+202307,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.57
+202307,2022-23,Influenza Hospital Admissions,,National,1874
+202307,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1617
+202307,2022-23,Average patients with influenza in ICU,,National,292.29
+202318,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.27
+202318,2022-23,Influenza Hospital Admissions,,National,897
+202318,2022-23,Influenza Hospitalization (Avg 7 Day),,National,727.14
+202318,2022-23,Average patients with influenza in ICU,,National,162
+202319,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.29
+202319,2022-23,Influenza Hospital Admissions,,National,966
+202319,2022-23,Influenza Hospitalization (Avg 7 Day),,National,748.71
+202319,2022-23,Average patients with influenza in ICU,,National,146.86
+202330,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202330,2022-23,Influenza Hospital Admissions,,National,647
+202330,2022-23,Influenza Hospitalization (Avg 7 Day),,National,599
+202330,2022-23,Average patients with influenza in ICU,,National,146.29
+202250,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,6.37
+202250,2022-23,Influenza Hospital Admissions,,National,21128
+202250,2022-23,Influenza Hospitalization (Avg 7 Day),,National,14636.29
+202250,2022-23,Average patients with influenza in ICU,,National,2224
+202308,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.49
+202308,2022-23,Influenza Hospital Admissions,,National,1636
+202308,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1440.86
+202308,2022-23,Average patients with influenza in ICU,,National,267.43
+202309,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.45
+202309,2022-23,Influenza Hospital Admissions,,National,1485
+202309,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1265.57
+202309,2022-23,Average patients with influenza in ICU,,National,227.14
+202320,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.27
+202320,2022-23,Influenza Hospital Admissions,,National,893
+202320,2022-23,Influenza Hospitalization (Avg 7 Day),,National,723
+202320,2022-23,Average patients with influenza in ICU,,National,143.43
+202331,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202331,2022-23,Influenza Hospital Admissions,,National,671
+202331,2022-23,Influenza Hospitalization (Avg 7 Day),,National,615.14
+202331,2022-23,Average patients with influenza in ICU,,National,143.29
+202332,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.21
+202332,2022-23,Influenza Hospital Admissions,,National,699
+202332,2022-23,Influenza Hospitalization (Avg 7 Day),,National,613
+202332,2022-23,Average patients with influenza in ICU,,National,138.14
+202240,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.38
+202240,2022-23,Influenza Hospital Admissions,,National,1261
+202240,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1231.14
+202240,2022-23,Average patients with influenza in ICU,,National,177.57
+202251,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,5.85
+202251,2022-23,Influenza Hospital Admissions,,National,19390
+202251,2022-23,Influenza Hospitalization (Avg 7 Day),,National,13480.43
+202251,2022-23,Average patients with influenza in ICU,,National,2054
+202252,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,5.81
+202252,2022-23,Influenza Hospital Admissions,,National,19267
+202252,2022-23,Influenza Hospitalization (Avg 7 Day),,National,13384.43
+202252,2022-23,Average patients with influenza in ICU,,National,2061.14
+202310,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.41
+202310,2022-23,Influenza Hospital Admissions,,National,1360
+202310,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1139.29
+202310,2022-23,Average patients with influenza in ICU,,National,218
+202321,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.28
+202321,2022-23,Influenza Hospital Admissions,,National,933
+202321,2022-23,Influenza Hospitalization (Avg 7 Day),,National,756.29
+202321,2022-23,Average patients with influenza in ICU,,National,166.14
+202322,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.28
+202322,2022-23,Influenza Hospital Admissions,,National,920
+202322,2022-23,Influenza Hospitalization (Avg 7 Day),,National,805.57
+202322,2022-23,Average patients with influenza in ICU,,National,163.71
+202333,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.22
+202333,2022-23,Influenza Hospital Admissions,,National,736
+202333,2022-23,Influenza Hospitalization (Avg 7 Day),,National,647.43
+202333,2022-23,Average patients with influenza in ICU,,National,142.14
+202247,2022-23,Influenza Hospital Admissions,,National,17601
+202321,2022-23,Influenza Hospitalization (Avg 7 Day),,National,756.29
+202331,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202311,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.43
+202311,2022-23,Influenza Hospital Admissions,,National,1414
+202311,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1089.43
+202311,2022-23,Average patients with influenza in ICU,,National,201
+202312,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.39
+202312,2022-23,Influenza Hospital Admissions,,National,1281
+202312,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1012.43
+202312,2022-23,Average patients with influenza in ICU,,National,197.57
+202317,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.27
+202317,2022-23,Influenza Hospital Admissions,,National,901
+202317,2022-23,Influenza Hospitalization (Avg 7 Day),,National,754.71
+202317,2022-23,Average patients with influenza in ICU,,National,168.14
+202318,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.27
+202318,2022-23,Influenza Hospital Admissions,,National,897
+202318,2022-23,Influenza Hospitalization (Avg 7 Day),,National,727.14
+202318,2022-23,Average patients with influenza in ICU,,National,162
+202321,2022-23,Average patients with influenza in ICU,,National,166.14
+202322,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.28
+202322,2022-23,Influenza Hospital Admissions,,National,920
+202322,2022-23,Influenza Hospitalization (Avg 7 Day),,National,805.57
+202322,2022-23,Average patients with influenza in ICU,,National,163.71
+202327,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202327,2022-23,Influenza Hospital Admissions,,National,662
+202327,2022-23,Influenza Hospitalization (Avg 7 Day),,National,699.57
+202327,2022-23,Average patients with influenza in ICU,,National,151
+202328,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.21
+202328,2022-23,Influenza Hospital Admissions,,National,700
+202328,2022-23,Influenza Hospitalization (Avg 7 Day),,National,628.14
+202328,2022-23,Average patients with influenza in ICU,,National,147.57
+202339,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.31
+202339,2022-23,Influenza Hospital Admissions,,National,1015
+202339,2022-23,Influenza Hospitalization (Avg 7 Day),,National,808.43
+202339,2022-23,Average patients with influenza in ICU,,National,159.86
+202242,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.66
+202242,2022-23,Influenza Hospital Admissions,,National,2191
+202242,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1366.71
+202242,2022-23,Average patients with influenza in ICU,,National,225.71
+202247,2022-23,Influenza Hospitalization (Avg 7 Day),,National,8737
+202247,2022-23,Average patients with influenza in ICU,,National,1175.14
+202248,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,7.81
+202248,2022-23,Influenza Hospital Admissions,,National,25882
+202248,2022-23,Influenza Hospitalization (Avg 7 Day),,National,15268.14
+202248,2022-23,Average patients with influenza in ICU,,National,2108.14
+202252,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,5.81
+202252,2022-23,Influenza Hospital Admissions,,National,19267
+202252,2022-23,Influenza Hospitalization (Avg 7 Day),,National,13384.43
+202252,2022-23,Average patients with influenza in ICU,,National,2061.14
+202306,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.65
+202306,2022-23,Influenza Hospital Admissions,,National,2162
+202306,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1885.29
+202306,2022-23,Average patients with influenza in ICU,,National,338.29
+202313,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.38
+202313,2022-23,Influenza Hospital Admissions,,National,1268
+202313,2022-23,Influenza Hospitalization (Avg 7 Day),,National,999.29
+202313,2022-23,Average patients with influenza in ICU,,National,201.14
+202337,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.25
+202337,2022-23,Influenza Hospital Admissions,,National,815
+202337,2022-23,Influenza Hospitalization (Avg 7 Day),,National,741.29
+202337,2022-23,Average patients with influenza in ICU,,National,155.29
+202319,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.29
+202319,2022-23,Influenza Hospital Admissions,,National,966
+202319,2022-23,Influenza Hospitalization (Avg 7 Day),,National,748.71
+202319,2022-23,Average patients with influenza in ICU,,National,146.86
+202323,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.27
+202323,2022-23,Influenza Hospital Admissions,,National,908
+202323,2022-23,Influenza Hospitalization (Avg 7 Day),,National,793.14
+202323,2022-23,Average patients with influenza in ICU,,National,151.86
+202321,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.28
+202321,2022-23,Influenza Hospital Admissions,,National,933
+202338,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.26
+202338,2022-23,Influenza Hospital Admissions,,National,873
+202338,2022-23,Influenza Hospitalization (Avg 7 Day),,National,747
+202338,2022-23,Average patients with influenza in ICU,,National,153.43
+202324,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.25
+202324,2022-23,Influenza Hospital Admissions,,National,837
+202324,2022-23,Influenza Hospitalization (Avg 7 Day),,National,737.29
+202324,2022-23,Average patients with influenza in ICU,,National,154.86
+202325,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.24
+202325,2022-23,Influenza Hospital Admissions,,National,811
+202325,2022-23,Influenza Hospitalization (Avg 7 Day),,National,723.43
+202325,2022-23,Average patients with influenza in ICU,,National,153.71
+202329,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.18
+202329,2022-23,Influenza Hospital Admissions,,National,600
+202329,2022-23,Influenza Hospitalization (Avg 7 Day),,National,620
+202329,2022-23,Average patients with influenza in ICU,,National,148.14
+202334,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.23
+202334,2022-23,Influenza Hospital Admissions,,National,768
+202334,2022-23,Influenza Hospitalization (Avg 7 Day),,National,674.43
+202334,2022-23,Average patients with influenza in ICU,,National,143.86
+202335,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.26
+202335,2022-23,Influenza Hospital Admissions,,National,864
+202335,2022-23,Influenza Hospitalization (Avg 7 Day),,National,690
+202335,2022-23,Average patients with influenza in ICU,,National,157.43
+202336,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.24
+202336,2022-23,Influenza Hospital Admissions,,National,787
+202336,2022-23,Influenza Hospitalization (Avg 7 Day),,National,718.71
+202336,2022-23,Average patients with influenza in ICU,,National,153
+202243,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,1.22
+202243,2022-23,Influenza Hospital Admissions,,National,4032
+202243,2022-23,Influenza Hospitalization (Avg 7 Day),,National,2137.57
+202243,2022-23,Average patients with influenza in ICU,,National,321.43
+202244,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,1.87
+202244,2022-23,Influenza Hospital Admissions,,National,6202
+202244,2022-23,Influenza Hospitalization (Avg 7 Day),,National,3291.43
+202244,2022-23,Average patients with influenza in ICU,,National,475.14
+202247,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,5.31
+202333,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.22
+202333,2022-23,Influenza Hospital Admissions,,National,736
+202333,2022-23,Influenza Hospitalization (Avg 7 Day),,National,647.43
+202333,2022-23,Average patients with influenza in ICU,,National,142.14
+202249,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,7.06
+202249,2022-23,Influenza Hospital Admissions,,National,23389
+202249,2022-23,Influenza Hospitalization (Avg 7 Day),,National,15926
+202249,2022-23,Average patients with influenza in ICU,,National,2296.71
+202301,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,4.22
+202301,2022-23,Influenza Hospital Admissions,,National,13973
+202301,2022-23,Influenza Hospitalization (Avg 7 Day),,National,11963.57
+202301,2022-23,Average patients with influenza in ICU,,National,1880
+202302,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,2.16
+202302,2022-23,Influenza Hospital Admissions,,National,7158
+202302,2022-23,Influenza Hospitalization (Avg 7 Day),,National,7386.71
+202302,2022-23,Average patients with influenza in ICU,,National,1246.86
+202331,2022-23,Influenza Hospital Admissions,,National,671
+202331,2022-23,Influenza Hospitalization (Avg 7 Day),,National,615.14
+202331,2022-23,Average patients with influenza in ICU,,National,143.29
+202332,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.21
+202332,2022-23,Influenza Hospital Admissions,,National,699
+202332,2022-23,Influenza Hospitalization (Avg 7 Day),,National,613
+202332,2022-23,Average patients with influenza in ICU,,National,138.14
+202303,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,1.34
+202303,2022-23,Influenza Hospital Admissions,,National,4427
+202303,2022-23,Influenza Hospitalization (Avg 7 Day),,National,4524.57
+202303,2022-23,Average patients with influenza in ICU,,National,801.86
+202307,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.57
+202307,2022-23,Influenza Hospital Admissions,,National,1874
+202307,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1617
+202307,2022-23,Average patients with influenza in ICU,,National,292.29
+202308,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.49
+202308,2022-23,Influenza Hospital Admissions,,National,1636
+202308,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1440.86
+202314,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.36
+202314,2022-23,Influenza Hospital Admissions,,National,1184
+202314,2022-23,Influenza Hospitalization (Avg 7 Day),,National,985.43
+202314,2022-23,Average patients with influenza in ICU,,National,187.29
+202315,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.32
+202315,2022-23,Influenza Hospital Admissions,,National,1049
+202315,2022-23,Influenza Hospitalization (Avg 7 Day),,National,872.29
+202315,2022-23,Average patients with influenza in ICU,,National,178.14
+202305,2022-23,Influenza Hospitalization (Avg 7 Day),,National,2307.57
+202305,2022-23,Average patients with influenza in ICU,,National,397.29
+202308,2022-23,Average patients with influenza in ICU,,National,267.43
+202330,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202330,2022-23,Influenza Hospital Admissions,,National,647
+202330,2022-23,Influenza Hospitalization (Avg 7 Day),,National,599
+202330,2022-23,Average patients with influenza in ICU,,National,146.29
+202309,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.45
+202309,2022-23,Influenza Hospital Admissions,,National,1485
+202309,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1265.57
+202309,2022-23,Average patients with influenza in ICU,,National,227.14
+202326,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.24
+202326,2022-23,Influenza Hospital Admissions,,National,796
+202326,2022-23,Influenza Hospitalization (Avg 7 Day),,National,707.29
+202326,2022-23,Average patients with influenza in ICU,,National,155.29
+202320,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.27
+202320,2022-23,Influenza Hospital Admissions,,National,893
+202320,2022-23,Influenza Hospitalization (Avg 7 Day),,National,723
+202320,2022-23,Average patients with influenza in ICU,,National,143.43
+202316,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.29
+202316,2022-23,Influenza Hospital Admissions,,National,975
+202316,2022-23,Influenza Hospitalization (Avg 7 Day),,National,814.57
+202316,2022-23,Average patients with influenza in ICU,,National,172.57
+202245,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,2.51
+202245,2022-23,Influenza Hospital Admissions,,National,8329
+202245,2022-23,Influenza Hospitalization (Avg 7 Day),,National,4636.14
+202245,2022-23,Average patients with influenza in ICU,,National,644
+202310,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.41
+202310,2022-23,Influenza Hospital Admissions,,National,1360
+202310,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1139.29
+202310,2022-23,Average patients with influenza in ICU,,National,218
+202304,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.92
+202304,2022-23,Influenza Hospital Admissions,,National,3038
+202304,2022-23,Influenza Hospitalization (Avg 7 Day),,National,3034.29
+202304,2022-23,Average patients with influenza in ICU,,National,536.86
+202305,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.72
+202305,2022-23,Influenza Hospital Admissions,,National,2392
+202250,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,6.37
+202250,2022-23,Influenza Hospital Admissions,,National,21128
+202250,2022-23,Influenza Hospitalization (Avg 7 Day),,National,14636.29
+202250,2022-23,Average patients with influenza in ICU,,National,2224
+202251,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,5.85
+202251,2022-23,Influenza Hospital Admissions,,National,19390
+202251,2022-23,Influenza Hospitalization (Avg 7 Day),,National,13480.43
+202251,2022-23,Average patients with influenza in ICU,,National,2054
+202246,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,3.2
+202246,2022-23,Influenza Hospital Admissions,,National,10593
+202246,2022-23,Influenza Hospitalization (Avg 7 Day),,National,5890.57
+202246,2022-23,Average patients with influenza in ICU,,National,832.29
+202240,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.38
+202240,2022-23,Influenza Hospital Admissions,,National,1261
+202240,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1231.14
+202240,2022-23,Average patients with influenza in ICU,,National,177.57
+202241,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.48
+202241,2022-23,Influenza Hospital Admissions,,National,1599
+202241,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1311.14
+202241,2022-23,Average patients with influenza in ICU,,National,213
+202241,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.48
+202241,2022-23,Influenza Hospital Admissions,,National,1599
+202241,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1311.14
+202241,2022-23,Average patients with influenza in ICU,,National,213
+202242,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.66
+202242,2022-23,Influenza Hospital Admissions,,National,2191
+202242,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1366.71
+202242,2022-23,Average patients with influenza in ICU,,National,225.71
+202301,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,4.22
+202301,2022-23,Influenza Hospital Admissions,,National,13973
+202301,2022-23,Influenza Hospitalization (Avg 7 Day),,National,11963.57
+202301,2022-23,Average patients with influenza in ICU,,National,1880
+202311,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.43
+202311,2022-23,Influenza Hospital Admissions,,National,1414
+202311,2022-23,Influenza Hospitalization (Avg 7 Day),,National,1089.43
+202311,2022-23,Average patients with influenza in ICU,,National,201
+202323,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.27
+202323,2022-23,Influenza Hospital Admissions,,National,908
+202323,2022-23,Influenza Hospitalization (Avg 7 Day),,National,793.14
+202323,2022-23,Average patients with influenza in ICU,,National,151.86
+202334,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.23
+202334,2022-23,Influenza Hospital Admissions,,National,768
+202334,2022-23,Influenza Hospitalization (Avg 7 Day),,National,674.43
+202334,2022-23,Average patients with influenza in ICU,,National,143.86
+202335,2022-23,Influenza Hospital Admissions Rate Per 100k,,National,0.26
+202335,2022-23,Influenza Hospital Admissions,,National,864
+202335,2022-23,Influenza Hospitalization (Avg 7 Day),,National,690
+202335,2022-23,Average patients with influenza in ICU,,National,157.43

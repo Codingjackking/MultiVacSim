@@ -1,0 +1,728 @@
+Characteristics of Influenza-Associated Pediatric Deaths (data downloaded on 3/7/2025)
+SEASON,CHARACTERISTIC,GROUP,COUNT,PERCENT
+2004-05,AgeGroup,0-5 mo,9,19.1
+2004-05,AgeGroup,6-23 mo,5,10.6
+2004-05,AgeGroup,2-4 yr,8,17
+2004-05,AgeGroup,5-11 yr,15,31.9
+2004-05,AgeGroup,12-17 yr,10,21.3
+2004-05,Sex,Male,26,55.3
+2004-05,Sex,Female,21,44.7
+2004-05,Conditions,Yes       ,30,66.7
+2004-05,Conditions,No        ,15,33.3
+2004-05,Bacterial Coinfectio,Yes       ,4,100
+2004-05,OnsetToDeath,0,6,12.8
+2004-05,OnsetToDeath,1,1,2.1
+2004-05,OnsetToDeath,2,6,12.8
+2004-05,OnsetToDeath,3,7,14.9
+2004-05,OnsetToDeath,4,4,8.5
+2004-05,OnsetToDeath,5,4,8.5
+2004-05,OnsetToDeath,6,1,2.1
+2004-05,OnsetToDeath,7,4,8.5
+2004-05,OnsetToDeath,9,2,4.3
+2004-05,OnsetToDeath,10,1,2.1
+2004-05,OnsetToDeath,13,2,4.3
+2004-05,OnsetToDeath,14,1,2.1
+2004-05,OnsetToDeath,15,1,2.1
+2004-05,OnsetToDeath,16,1,2.1
+2004-05,OnsetToDeath,18,1,2.1
+2004-05,OnsetToDeath,19,3,6.4
+2004-05,OnsetToDeath,30+,2,4.3
+2004-05,Location of Death,Outside Hospital,8,17
+2004-05,Location of Death,Emergency Department,8,17
+2004-05,Location of Death,Hospital Admitted,31,66
+2005-06,AgeGroup,0-5 mo,8,17.4
+2005-06,AgeGroup,6-23 mo,13,28.3
+2005-06,AgeGroup,2-4 yr,5,10.9
+2005-06,AgeGroup,5-11 yr,13,28.3
+2005-06,AgeGroup,12-17 yr,7,15.2
+2005-06,Sex,Male,27,58.7
+2005-06,Sex,Female,19,41.3
+2005-06,Conditions,Yes       ,20,52.6
+2005-06,Conditions,No        ,18,47.4
+2005-06,Bacterial Coinfectio,Yes       ,4,80
+2005-06,Bacterial Coinfectio,No        ,1,20
+2005-06,OnsetToDeath,0,5,10.9
+2005-06,OnsetToDeath,1,8,17.4
+2005-06,OnsetToDeath,2,8,17.4
+2005-06,OnsetToDeath,3,4,8.7
+2005-06,OnsetToDeath,4,3,6.5
+2005-06,OnsetToDeath,5,3,6.5
+2005-06,OnsetToDeath,6,3,6.5
+2005-06,OnsetToDeath,7,1,2.2
+2005-06,OnsetToDeath,11,2,4.3
+2005-06,OnsetToDeath,12,1,2.2
+2005-06,OnsetToDeath,13,1,2.2
+2005-06,OnsetToDeath,14,2,4.3
+2005-06,OnsetToDeath,15,1,2.2
+2005-06,OnsetToDeath,20,1,2.2
+2005-06,OnsetToDeath,27,1,2.2
+2005-06,OnsetToDeath,30+,2,4.3
+2005-06,Location of Death,Outside Hospital,9,20
+2005-06,Location of Death,Emergency Department,12,26.7
+2005-06,Location of Death,Hospital Admitted,24,53.3
+2006-07,AgeGroup,0-5 mo,11,14.3
+2006-07,AgeGroup,6-23 mo,10,13
+2006-07,AgeGroup,2-4 yr,11,14.3
+2006-07,AgeGroup,5-11 yr,30,39
+2006-07,AgeGroup,12-17 yr,15,19.5
+2006-07,Sex,Male,41,53.2
+2006-07,Sex,Female,36,46.8
+2006-07,Conditions,Yes       ,27,38
+2006-07,Conditions,No        ,44,62
+2006-07,Bacterial Coinfectio,Yes       ,25,75.8
+2006-07,Bacterial Coinfectio,No        ,8,24.2
+2006-07,OnsetToDeath,0,6,7.8
+2006-07,OnsetToDeath,1,5,6.5
+2006-07,OnsetToDeath,2,11,14.3
+2006-07,OnsetToDeath,3,8,10.4
+2006-07,OnsetToDeath,4,10,13
+2006-07,OnsetToDeath,5,9,11.7
+2006-07,OnsetToDeath,6,3,3.9
+2006-07,OnsetToDeath,7,4,5.2
+2006-07,OnsetToDeath,8,4,5.2
+2006-07,OnsetToDeath,9,2,2.6
+2006-07,OnsetToDeath,10,1,1.3
+2006-07,OnsetToDeath,14,2,2.6
+2006-07,OnsetToDeath,15,1,1.3
+2006-07,OnsetToDeath,18,1,1.3
+2006-07,OnsetToDeath,19,2,2.6
+2006-07,OnsetToDeath,22,2,2.6
+2006-07,OnsetToDeath,23,1,1.3
+2006-07,OnsetToDeath,24,1,1.3
+2006-07,OnsetToDeath,30+,4,5.2
+2006-07,Location of Death,Outside Hospital,19,24.7
+2006-07,Location of Death,Emergency Department,14,18.2
+2006-07,Location of Death,Hospital Admitted,44,57.1
+2007-08,AgeGroup,0-5 mo,10,11.4
+2007-08,AgeGroup,6-23 mo,14,15.9
+2007-08,AgeGroup,2-4 yr,18,20.5
+2007-08,AgeGroup,5-11 yr,27,30.7
+2007-08,AgeGroup,12-17 yr,19,21.6
+2007-08,Sex,Male,47,53.4
+2007-08,Sex,Female,41,46.6
+2007-08,Conditions,Yes       ,42,51.2
+2007-08,Conditions,No        ,40,48.8
+2007-08,Bacterial Coinfectio,Yes       ,15,32.6
+2007-08,Bacterial Coinfectio,No        ,31,67.4
+2007-08,OnsetToDeath,0,3,3.4
+2007-08,OnsetToDeath,1,10,11.4
+2007-08,OnsetToDeath,2,12,13.6
+2007-08,OnsetToDeath,3,10,11.4
+2007-08,OnsetToDeath,4,11,12.5
+2007-08,OnsetToDeath,5,6,6.8
+2007-08,OnsetToDeath,6,5,5.7
+2007-08,OnsetToDeath,7,6,6.8
+2007-08,OnsetToDeath,8,4,4.5
+2007-08,OnsetToDeath,9,2,2.3
+2007-08,OnsetToDeath,10,1,1.1
+2007-08,OnsetToDeath,11,1,1.1
+2007-08,OnsetToDeath,12,1,1.1
+2007-08,OnsetToDeath,14,2,2.3
+2007-08,OnsetToDeath,17,2,2.3
+2007-08,OnsetToDeath,18,1,1.1
+2007-08,OnsetToDeath,21,1,1.1
+2007-08,OnsetToDeath,22,1,1.1
+2007-08,OnsetToDeath,23,2,2.3
+2007-08,OnsetToDeath,25,1,1.1
+2007-08,OnsetToDeath,28,1,1.1
+2007-08,OnsetToDeath,29,1,1.1
+2007-08,OnsetToDeath,30+,4,4.5
+2007-08,Location of Death,Outside Hospital,15,17
+2007-08,Location of Death,Emergency Department,19,21.6
+2007-08,Location of Death,Hospital Admitted,54,61.4
+2008-09,AgeGroup,0-5 mo,12,8.8
+2008-09,AgeGroup,6-23 mo,19,13.9
+2008-09,AgeGroup,2-4 yr,14,10.2
+2008-09,AgeGroup,5-11 yr,43,31.4
+2008-09,AgeGroup,12-17 yr,49,35.8
+2008-09,Sex,Male,69,50.4
+2008-09,Sex,Female,68,49.6
+2008-09,Conditions,Yes       ,70,53.4
+2008-09,Conditions,No        ,61,46.6
+2008-09,Bacterial Coinfectio,Yes       ,29,42
+2008-09,Bacterial Coinfectio,No        ,40,58
+2008-09,OnsetToDeath,0,4,2.9
+2008-09,OnsetToDeath,1,6,4.4
+2008-09,OnsetToDeath,2,14,10.3
+2008-09,OnsetToDeath,3,10,7.4
+2008-09,OnsetToDeath,4,18,13.2
+2008-09,OnsetToDeath,5,13,9.6
+2008-09,OnsetToDeath,6,12,8.8
+2008-09,OnsetToDeath,7,8,5.9
+2008-09,OnsetToDeath,8,6,4.4
+2008-09,OnsetToDeath,9,3,2.2
+2008-09,OnsetToDeath,10,2,1.5
+2008-09,OnsetToDeath,11,6,4.4
+2008-09,OnsetToDeath,12,4,2.9
+2008-09,OnsetToDeath,13,2,1.5
+2008-09,OnsetToDeath,14,1,0.7
+2008-09,OnsetToDeath,15,3,2.2
+2008-09,OnsetToDeath,16,1,0.7
+2008-09,OnsetToDeath,17,2,1.5
+2008-09,OnsetToDeath,19,2,1.5
+2008-09,OnsetToDeath,20,1,0.7
+2008-09,OnsetToDeath,21,2,1.5
+2008-09,OnsetToDeath,24,2,1.5
+2008-09,OnsetToDeath,26,1,0.7
+2008-09,OnsetToDeath,27,2,1.5
+2008-09,OnsetToDeath,28,2,1.5
+2008-09,OnsetToDeath,30+,9,6.6
+2008-09,Location of Death,Outside Hospital,15,11.3
+2008-09,Location of Death,Emergency Department,19,14.3
+2008-09,Location of Death,Hospital Admitted,99,74.4
+2009-10,AgeGroup,0-5 mo,21,7.3
+2009-10,AgeGroup,6-23 mo,35,12.2
+2009-10,AgeGroup,2-4 yr,31,10.8
+2009-10,AgeGroup,5-11 yr,105,36.5
+2009-10,AgeGroup,12-17 yr,96,33.3
+2009-10,Sex,Male,141,49
+2009-10,Sex,Female,147,51
+2009-10,Conditions,Yes       ,194,68.8
+2009-10,Conditions,No        ,88,31.2
+2009-10,Bacterial Coinfectio,Yes       ,44,29.7
+2009-10,Bacterial Coinfectio,No        ,104,70.3
+2009-10,OnsetToDeath,0,7,2.5
+2009-10,OnsetToDeath,1,23,8.2
+2009-10,OnsetToDeath,2,26,9.3
+2009-10,OnsetToDeath,3,26,9.3
+2009-10,OnsetToDeath,4,22,7.9
+2009-10,OnsetToDeath,5,18,6.5
+2009-10,OnsetToDeath,6,13,4.7
+2009-10,OnsetToDeath,7,10,3.6
+2009-10,OnsetToDeath,8,15,5.4
+2009-10,OnsetToDeath,9,10,3.6
+2009-10,OnsetToDeath,10,4,1.4
+2009-10,OnsetToDeath,11,6,2.2
+2009-10,OnsetToDeath,12,5,1.8
+2009-10,OnsetToDeath,13,3,1.1
+2009-10,OnsetToDeath,14,3,1.1
+2009-10,OnsetToDeath,15,5,1.8
+2009-10,OnsetToDeath,16,4,1.4
+2009-10,OnsetToDeath,17,7,2.5
+2009-10,OnsetToDeath,18,4,1.4
+2009-10,OnsetToDeath,19,6,2.2
+2009-10,OnsetToDeath,20,7,2.5
+2009-10,OnsetToDeath,21,3,1.1
+2009-10,OnsetToDeath,22,5,1.8
+2009-10,OnsetToDeath,23,1,0.4
+2009-10,OnsetToDeath,24,2,0.7
+2009-10,OnsetToDeath,25,7,2.5
+2009-10,OnsetToDeath,27,2,0.7
+2009-10,OnsetToDeath,28,1,0.4
+2009-10,OnsetToDeath,30+,34,12.2
+2009-10,Location of Death,Outside Hospital,38,13.6
+2009-10,Location of Death,Emergency Department,48,17.2
+2009-10,Location of Death,Hospital Admitted,193,69.2
+2010-11,AgeGroup,0-5 mo,17,13.7
+2010-11,AgeGroup,6-23 mo,20,16.1
+2010-11,AgeGroup,2-4 yr,24,19.4
+2010-11,AgeGroup,5-11 yr,34,27.4
+2010-11,AgeGroup,12-17 yr,29,23.4
+2010-11,Sex,Male,77,62.1
+2010-11,Sex,Female,47,37.9
+2010-11,Conditions,Yes       ,61,50
+2010-11,Conditions,No        ,61,50
+2010-11,Bacterial Coinfectio,Yes       ,27,41.5
+2010-11,Bacterial Coinfectio,No        ,38,58.5
+2010-11,OnsetToDeath,0,7,6.1
+2010-11,OnsetToDeath,1,7,6.1
+2010-11,OnsetToDeath,2,8,7
+2010-11,OnsetToDeath,3,14,12.3
+2010-11,OnsetToDeath,4,10,8.8
+2010-11,OnsetToDeath,5,10,8.8
+2010-11,OnsetToDeath,6,10,8.8
+2010-11,OnsetToDeath,7,8,7
+2010-11,OnsetToDeath,8,5,4.4
+2010-11,OnsetToDeath,9,8,7
+2010-11,OnsetToDeath,10,4,3.5
+2010-11,OnsetToDeath,11,3,2.6
+2010-11,OnsetToDeath,12,1,0.9
+2010-11,OnsetToDeath,13,2,1.8
+2010-11,OnsetToDeath,14,2,1.8
+2010-11,OnsetToDeath,15,1,0.9
+2010-11,OnsetToDeath,17,2,1.8
+2010-11,OnsetToDeath,18,1,0.9
+2010-11,OnsetToDeath,19,1,0.9
+2010-11,OnsetToDeath,20,2,1.8
+2010-11,OnsetToDeath,21,1,0.9
+2010-11,OnsetToDeath,23,1,0.9
+2010-11,OnsetToDeath,24,2,1.8
+2010-11,OnsetToDeath,30+,4,3.5
+2010-11,Location of Death,Outside Hospital,22,17.9
+2010-11,Location of Death,Emergency Department,22,17.9
+2010-11,Location of Death,Hospital Admitted,79,64.2
+2011-12,AgeGroup,0-5 mo,7,18.9
+2011-12,AgeGroup,6-23 mo,2,5.4
+2011-12,AgeGroup,2-4 yr,8,21.6
+2011-12,AgeGroup,5-11 yr,15,40.5
+2011-12,AgeGroup,12-17 yr,5,13.5
+2011-12,Sex,Male,18,48.6
+2011-12,Sex,Female,19,51.4
+2011-12,Conditions,Yes       ,18,52.9
+2011-12,Conditions,No        ,16,47.1
+2011-12,Bacterial Coinfectio,Yes       ,6,31.6
+2011-12,Bacterial Coinfectio,No        ,13,68.4
+2011-12,OnsetToDeath,0,1,2.9
+2011-12,OnsetToDeath,1,3,8.6
+2011-12,OnsetToDeath,2,5,14.3
+2011-12,OnsetToDeath,3,3,8.6
+2011-12,OnsetToDeath,4,2,5.7
+2011-12,OnsetToDeath,5,3,8.6
+2011-12,OnsetToDeath,6,1,2.9
+2011-12,OnsetToDeath,7,3,8.6
+2011-12,OnsetToDeath,8,2,5.7
+2011-12,OnsetToDeath,9,1,2.9
+2011-12,OnsetToDeath,10,1,2.9
+2011-12,OnsetToDeath,11,1,2.9
+2011-12,OnsetToDeath,12,1,2.9
+2011-12,OnsetToDeath,14,1,2.9
+2011-12,OnsetToDeath,15,1,2.9
+2011-12,OnsetToDeath,16,1,2.9
+2011-12,OnsetToDeath,18,1,2.9
+2011-12,OnsetToDeath,22,1,2.9
+2011-12,OnsetToDeath,24,1,2.9
+2011-12,OnsetToDeath,25,1,2.9
+2011-12,OnsetToDeath,30+,1,2.9
+2011-12,Location of Death,Outside Hospital,7,20
+2011-12,Location of Death,Emergency Department,10,28.6
+2011-12,Location of Death,Hospital Admitted,18,51.4
+2012-13,AgeGroup,0-5 mo,17,9.9
+2012-13,AgeGroup,6-23 mo,24,14
+2012-13,AgeGroup,2-4 yr,21,12.3
+2012-13,AgeGroup,5-11 yr,58,33.9
+2012-13,AgeGroup,12-17 yr,51,29.8
+2012-13,Sex,Male,87,50.9
+2012-13,Sex,Female,84,49.1
+2012-13,Conditions,Yes       ,91,55.5
+2012-13,Conditions,No        ,73,44.5
+2012-13,Bacterial Coinfectio,Yes       ,44,45.8
+2012-13,Bacterial Coinfectio,No        ,52,54.2
+2012-13,OnsetToDeath,0,4,2.5
+2012-13,OnsetToDeath,1,16,9.9
+2012-13,OnsetToDeath,2,21,13
+2012-13,OnsetToDeath,3,27,16.7
+2012-13,OnsetToDeath,4,13,8
+2012-13,OnsetToDeath,5,11,6.8
+2012-13,OnsetToDeath,6,10,6.2
+2012-13,OnsetToDeath,7,11,6.8
+2012-13,OnsetToDeath,8,7,4.3
+2012-13,OnsetToDeath,9,1,0.6
+2012-13,OnsetToDeath,10,4,2.5
+2012-13,OnsetToDeath,11,2,1.2
+2012-13,OnsetToDeath,12,1,0.6
+2012-13,OnsetToDeath,13,2,1.2
+2012-13,OnsetToDeath,14,5,3.1
+2012-13,OnsetToDeath,15,2,1.2
+2012-13,OnsetToDeath,16,5,3.1
+2012-13,OnsetToDeath,18,2,1.2
+2012-13,OnsetToDeath,20,1,0.6
+2012-13,OnsetToDeath,21,1,0.6
+2012-13,OnsetToDeath,23,1,0.6
+2012-13,OnsetToDeath,24,1,0.6
+2012-13,OnsetToDeath,28,1,0.6
+2012-13,OnsetToDeath,29,1,0.6
+2012-13,OnsetToDeath,30+,12,7.4
+2012-13,Location of Death,Outside Hospital,28,17.9
+2012-13,Location of Death,Emergency Department,39,25
+2012-13,Location of Death,Hospital Admitted,89,57.1
+2013-14,AgeGroup,0-5 mo,19,17.1
+2013-14,AgeGroup,6-23 mo,30,27
+2013-14,AgeGroup,2-4 yr,8,7.2
+2013-14,AgeGroup,5-11 yr,32,28.8
+2013-14,AgeGroup,12-17 yr,22,19.8
+2013-14,Sex,Male,56,50.5
+2013-14,Sex,Female,55,49.5
+2013-14,Conditions,Yes       ,57,52.8
+2013-14,Conditions,No        ,51,47.2
+2013-14,Bacterial Coinfectio,Yes       ,23,37.1
+2013-14,Bacterial Coinfectio,No        ,39,62.9
+2013-14,OnsetToDeath,0,5,5.1
+2013-14,OnsetToDeath,1,10,10.1
+2013-14,OnsetToDeath,2,15,15.2
+2013-14,OnsetToDeath,3,8,8.1
+2013-14,OnsetToDeath,4,6,6.1
+2013-14,OnsetToDeath,5,7,7.1
+2013-14,OnsetToDeath,6,4,4
+2013-14,OnsetToDeath,7,5,5.1
+2013-14,OnsetToDeath,8,4,4
+2013-14,OnsetToDeath,9,3,3
+2013-14,OnsetToDeath,10,1,1
+2013-14,OnsetToDeath,11,5,5.1
+2013-14,OnsetToDeath,12,1,1
+2013-14,OnsetToDeath,13,3,3
+2013-14,OnsetToDeath,14,1,1
+2013-14,OnsetToDeath,15,3,3
+2013-14,OnsetToDeath,16,1,1
+2013-14,OnsetToDeath,18,3,3
+2013-14,OnsetToDeath,21,2,2
+2013-14,OnsetToDeath,22,1,1
+2013-14,OnsetToDeath,26,1,1
+2013-14,OnsetToDeath,28,1,1
+2013-14,OnsetToDeath,29,2,2
+2013-14,OnsetToDeath,30+,7,7.1
+2013-14,Location of Death,Outside Hospital,15,14.2
+2013-14,Location of Death,Emergency Department,26,24.5
+2013-14,Location of Death,Hospital Admitted,65,61.3
+2014-15,AgeGroup,0-5 mo,14,9.5
+2014-15,AgeGroup,6-23 mo,27,18.2
+2014-15,AgeGroup,2-4 yr,23,15.5
+2014-15,AgeGroup,5-11 yr,46,31.1
+2014-15,AgeGroup,12-17 yr,38,25.7
+2014-15,Sex,Male,77,52
+2014-15,Sex,Female,71,48
+2014-15,Conditions,Yes       ,59,41
+2014-15,Conditions,No        ,85,59
+2014-15,Bacterial Coinfectio,Yes       ,39,48.1
+2014-15,Bacterial Coinfectio,No        ,42,51.9
+2014-15,OnsetToDeath,0,6,4.3
+2014-15,OnsetToDeath,1,18,13
+2014-15,OnsetToDeath,2,21,15.2
+2014-15,OnsetToDeath,3,13,9.4
+2014-15,OnsetToDeath,4,8,5.8
+2014-15,OnsetToDeath,5,11,8
+2014-15,OnsetToDeath,6,12,8.7
+2014-15,OnsetToDeath,7,6,4.3
+2014-15,OnsetToDeath,8,3,2.2
+2014-15,OnsetToDeath,9,2,1.4
+2014-15,OnsetToDeath,10,3,2.2
+2014-15,OnsetToDeath,11,5,3.6
+2014-15,OnsetToDeath,12,1,0.7
+2014-15,OnsetToDeath,13,1,0.7
+2014-15,OnsetToDeath,14,2,1.4
+2014-15,OnsetToDeath,15,1,0.7
+2014-15,OnsetToDeath,16,1,0.7
+2014-15,OnsetToDeath,18,3,2.2
+2014-15,OnsetToDeath,19,2,1.4
+2014-15,OnsetToDeath,20,1,0.7
+2014-15,OnsetToDeath,23,2,1.4
+2014-15,OnsetToDeath,29,3,2.2
+2014-15,OnsetToDeath,30+,13,9.4
+2014-15,Location of Death,Outside Hospital,30,21.7
+2014-15,Location of Death,Emergency Department,25,18.1
+2014-15,Location of Death,Hospital Admitted,83,60.1
+2015-16,AgeGroup,0-5 mo,6,6.3
+2015-16,AgeGroup,6-23 mo,17,17.9
+2015-16,AgeGroup,2-4 yr,20,21.1
+2015-16,AgeGroup,5-11 yr,30,31.6
+2015-16,AgeGroup,12-17 yr,22,23.2
+2015-16,Sex,Male,38,40
+2015-16,Sex,Female,57,60
+2015-16,Conditions,Yes       ,47,51.6
+2015-16,Conditions,No        ,44,48.4
+2015-16,Bacterial Coinfectio,Yes       ,20,44.4
+2015-16,Bacterial Coinfectio,No        ,25,55.6
+2015-16,OnsetToDeath,0,4,4.5
+2015-16,OnsetToDeath,1,7,7.9
+2015-16,OnsetToDeath,2,6,6.7
+2015-16,OnsetToDeath,3,7,7.9
+2015-16,OnsetToDeath,4,13,14.6
+2015-16,OnsetToDeath,5,8,9
+2015-16,OnsetToDeath,6,5,5.6
+2015-16,OnsetToDeath,7,4,4.5
+2015-16,OnsetToDeath,8,5,5.6
+2015-16,OnsetToDeath,9,2,2.2
+2015-16,OnsetToDeath,10,3,3.4
+2015-16,OnsetToDeath,11,1,1.1
+2015-16,OnsetToDeath,12,4,4.5
+2015-16,OnsetToDeath,13,1,1.1
+2015-16,OnsetToDeath,14,2,2.2
+2015-16,OnsetToDeath,15,3,3.4
+2015-16,OnsetToDeath,16,1,1.1
+2015-16,OnsetToDeath,18,1,1.1
+2015-16,OnsetToDeath,20,2,2.2
+2015-16,OnsetToDeath,22,2,2.2
+2015-16,OnsetToDeath,28,1,1.1
+2015-16,OnsetToDeath,30+,7,7.9
+2015-16,Location of Death,Outside Hospital,16,17
+2015-16,Location of Death,Emergency Department,21,22.3
+2015-16,Location of Death,Hospital Admitted,57,60.6
+2016-17,AgeGroup,0-5 mo,7,6.4
+2016-17,AgeGroup,6-23 mo,15,13.6
+2016-17,AgeGroup,2-4 yr,16,14.5
+2016-17,AgeGroup,5-11 yr,40,36.4
+2016-17,AgeGroup,12-17 yr,32,29.1
+2016-17,Sex,Male,52,47.3
+2016-17,Sex,Female,58,52.7
+2016-17,Conditions,Yes       ,44,44.4
+2016-17,Conditions,No        ,55,55.6
+2016-17,Bacterial Coinfectio,Yes       ,26,44.8
+2016-17,Bacterial Coinfectio,No        ,32,55.2
+2016-17,OnsetToDeath,0,5,4.7
+2016-17,OnsetToDeath,1,9,8.5
+2016-17,OnsetToDeath,2,7,6.6
+2016-17,OnsetToDeath,3,18,17
+2016-17,OnsetToDeath,4,9,8.5
+2016-17,OnsetToDeath,5,7,6.6
+2016-17,OnsetToDeath,6,8,7.5
+2016-17,OnsetToDeath,7,6,5.7
+2016-17,OnsetToDeath,8,1,0.9
+2016-17,OnsetToDeath,9,3,2.8
+2016-17,OnsetToDeath,10,3,2.8
+2016-17,OnsetToDeath,11,2,1.9
+2016-17,OnsetToDeath,12,2,1.9
+2016-17,OnsetToDeath,13,3,2.8
+2016-17,OnsetToDeath,16,1,0.9
+2016-17,OnsetToDeath,19,2,1.9
+2016-17,OnsetToDeath,20,1,0.9
+2016-17,OnsetToDeath,21,2,1.9
+2016-17,OnsetToDeath,22,1,0.9
+2016-17,OnsetToDeath,30+,16,15.1
+2016-17,Location of Death,Outside Hospital,19,17.6
+2016-17,Location of Death,Emergency Department,17,15.7
+2016-17,Location of Death,Hospital Admitted,72,66.7
+2017-18,AgeGroup,0-5 mo,12,6.4
+2017-18,AgeGroup,6-23 mo,33,17.6
+2017-18,AgeGroup,2-4 yr,33,17.6
+2017-18,AgeGroup,5-11 yr,66,35.1
+2017-18,AgeGroup,12-17 yr,44,23.4
+2017-18,Sex,Male,86,45.7
+2017-18,Sex,Female,102,54.3
+2017-18,Conditions,Yes       ,83,49.1
+2017-18,Conditions,No        ,86,50.9
+2017-18,Bacterial Coinfectio,Yes       ,33,50
+2017-18,Bacterial Coinfectio,No        ,33,50
+2017-18,OnsetToDeath,0,9,5.4
+2017-18,OnsetToDeath,1,12,7.2
+2017-18,OnsetToDeath,2,24,14.5
+2017-18,OnsetToDeath,3,18,10.8
+2017-18,OnsetToDeath,4,13,7.8
+2017-18,OnsetToDeath,5,11,6.6
+2017-18,OnsetToDeath,6,12,7.2
+2017-18,OnsetToDeath,7,12,7.2
+2017-18,OnsetToDeath,8,5,3
+2017-18,OnsetToDeath,9,6,3.6
+2017-18,OnsetToDeath,10,5,3
+2017-18,OnsetToDeath,11,3,1.8
+2017-18,OnsetToDeath,12,5,3
+2017-18,OnsetToDeath,14,4,2.4
+2017-18,OnsetToDeath,16,1,0.6
+2017-18,OnsetToDeath,17,1,0.6
+2017-18,OnsetToDeath,18,3,1.8
+2017-18,OnsetToDeath,20,1,0.6
+2017-18,OnsetToDeath,22,1,0.6
+2017-18,OnsetToDeath,24,4,2.4
+2017-18,OnsetToDeath,25,1,0.6
+2017-18,OnsetToDeath,26,1,0.6
+2017-18,OnsetToDeath,27,3,1.8
+2017-18,OnsetToDeath,30+,11,6.6
+2017-18,Location of Death,Outside Hospital,32,17
+2017-18,Location of Death,Emergency Department,53,28.2
+2017-18,Location of Death,Hospital Admitted,103,54.8
+2018-19,AgeGroup,0-5 mo,12,8.3
+2018-19,AgeGroup,6-23 mo,24,16.6
+2018-19,AgeGroup,2-4 yr,33,22.8
+2018-19,AgeGroup,5-11 yr,52,35.9
+2018-19,AgeGroup,12-17 yr,24,16.6
+2018-19,Sex,Male,62,43.4
+2018-19,Sex,Female,81,56.6
+2018-19,Conditions,Yes       ,71,53.4
+2018-19,Conditions,No        ,62,46.6
+2018-19,Bacterial Coinfectio,Yes       ,29,48.3
+2018-19,Bacterial Coinfectio,No        ,31,51.7
+2018-19,OnsetToDeath,0,2,1.6
+2018-19,OnsetToDeath,1,14,10.9
+2018-19,OnsetToDeath,2,14,10.9
+2018-19,OnsetToDeath,3,15,11.7
+2018-19,OnsetToDeath,4,8,6.3
+2018-19,OnsetToDeath,5,13,10.2
+2018-19,OnsetToDeath,6,9,7
+2018-19,OnsetToDeath,7,9,7
+2018-19,OnsetToDeath,8,7,5.5
+2018-19,OnsetToDeath,9,4,3.1
+2018-19,OnsetToDeath,10,1,0.8
+2018-19,OnsetToDeath,11,3,2.3
+2018-19,OnsetToDeath,12,2,1.6
+2018-19,OnsetToDeath,13,3,2.3
+2018-19,OnsetToDeath,14,3,2.3
+2018-19,OnsetToDeath,15,3,2.3
+2018-19,OnsetToDeath,17,1,0.8
+2018-19,OnsetToDeath,19,1,0.8
+2018-19,OnsetToDeath,20,2,1.6
+2018-19,OnsetToDeath,21,1,0.8
+2018-19,OnsetToDeath,25,3,2.3
+2018-19,OnsetToDeath,27,1,0.8
+2018-19,OnsetToDeath,30+,9,7
+2018-19,Location of Death,Outside Hospital,19,13.4
+2018-19,Location of Death,Emergency Department,32,22.5
+2018-19,Location of Death,Hospital Admitted,91,64.1
+2019-20,AgeGroup,0-5 mo,11,5.5
+2019-20,AgeGroup,6-23 mo,34,17.1
+2019-20,AgeGroup,2-4 yr,41,20.6
+2019-20,AgeGroup,5-11 yr,72,36.2
+2019-20,AgeGroup,12-17 yr,41,20.6
+2019-20,Sex,Male,110,55.8
+2019-20,Sex,Female,87,44.2
+2019-20,Conditions,Yes       ,78,42.6
+2019-20,Conditions,No        ,105,57.4
+2019-20,Bacterial Coinfectio,Yes       ,36,50.7
+2019-20,Bacterial Coinfectio,No        ,35,49.3
+2019-20,OnsetToDeath,0,4,2.3
+2019-20,OnsetToDeath,1,14,8.1
+2019-20,OnsetToDeath,2,19,11
+2019-20,OnsetToDeath,3,20,11.6
+2019-20,OnsetToDeath,4,12,6.9
+2019-20,OnsetToDeath,5,28,16.2
+2019-20,OnsetToDeath,6,15,8.7
+2019-20,OnsetToDeath,7,6,3.5
+2019-20,OnsetToDeath,8,8,4.6
+2019-20,OnsetToDeath,9,7,4
+2019-20,OnsetToDeath,10,4,2.3
+2019-20,OnsetToDeath,11,3,1.7
+2019-20,OnsetToDeath,12,3,1.7
+2019-20,OnsetToDeath,13,4,2.3
+2019-20,OnsetToDeath,14,1,0.6
+2019-20,OnsetToDeath,15,1,0.6
+2019-20,OnsetToDeath,16,2,1.2
+2019-20,OnsetToDeath,17,1,0.7
+2019-20,OnsetToDeath,18,2,1.2
+2019-20,OnsetToDeath,20,1,0.6
+2019-20,OnsetToDeath,21,3,1.7
+2019-20,OnsetToDeath,23,1,0.6
+2019-20,OnsetToDeath,24,2,1.2
+2019-20,OnsetToDeath,28,1,0.6
+2019-20,OnsetToDeath,30+,12,6.9
+2019-20,Location of Death,Outside Hospital,36,19.1
+2019-20,Location of Death,Emergency Department,35,18.6
+2019-20,Location of Death,Hospital Admitted,117,62.2
+2021-22,AgeGroup,0-5 mo,4,8.2
+2021-22,AgeGroup,6-23 mo,11,22.4
+2021-22,AgeGroup,2-4 yr,12,24.5
+2021-22,AgeGroup,5-11 yr,13,26.5
+2021-22,AgeGroup,12-17 yr,9,18.4
+2021-22,Sex,Male,23,46.9
+2021-22,Sex,Female,26,53.1
+2021-22,Conditions,Yes       ,28,60.9
+2021-22,Conditions,No        ,18,39.1
+2021-22,Bacterial Coinfectio,Yes       ,7,53.8
+2021-22,Bacterial Coinfectio,No        ,6,46.2
+2021-22,OnsetToDeath,0,2,5
+2021-22,OnsetToDeath,1,4,10
+2021-22,OnsetToDeath,2,7,17.5
+2021-22,OnsetToDeath,3,3,7.5
+2021-22,OnsetToDeath,4,6,15
+2021-22,OnsetToDeath,5,3,7.5
+2021-22,OnsetToDeath,6,3,7.5
+2021-22,OnsetToDeath,7,2,5
+2021-22,OnsetToDeath,9,1,2.5
+2021-22,OnsetToDeath,14,1,2.5
+2021-22,OnsetToDeath,15,1,2.5
+2021-22,OnsetToDeath,16,1,2.5
+2021-22,OnsetToDeath,18,1,2.5
+2021-22,OnsetToDeath,20,1,2.5
+2021-22,OnsetToDeath,24,1,2.5
+2021-22,OnsetToDeath,30+,3,7.5
+2021-22,Location of Death,Outside Hospital,12,24.5
+2021-22,Location of Death,Emergency Department,11,22.4
+2021-22,Location of Death,Hospital Admitted,26,53.1
+2022-23,AgeGroup,0-5 mo,10,5.3
+2022-23,AgeGroup,6-23 mo,31,16.6
+2022-23,AgeGroup,2-4 yr,43,23
+2022-23,AgeGroup,5-11 yr,65,34.8
+2022-23,AgeGroup,12-17 yr,38,20.3
+2022-23,Sex,Male,103,55.1
+2022-23,Sex,Female,84,44.9
+2022-23,Conditions,Yes       ,81,46.6
+2022-23,Conditions,No        ,93,53.4
+2022-23,Bacterial Coinfectio,Yes       ,36,51.4
+2022-23,Bacterial Coinfectio,No        ,34,48.6
+2022-23,OnsetToDeath,0,14,9.4
+2022-23,OnsetToDeath,1,15,10.1
+2022-23,OnsetToDeath,2,16,10.7
+2022-23,OnsetToDeath,3,16,10.7
+2022-23,OnsetToDeath,4,14,9.4
+2022-23,OnsetToDeath,5,10,6.7
+2022-23,OnsetToDeath,6,6,4
+2022-23,OnsetToDeath,7,12,8.1
+2022-23,OnsetToDeath,8,5,3.4
+2022-23,OnsetToDeath,9,4,2.7
+2022-23,OnsetToDeath,11,1,0.7
+2022-23,OnsetToDeath,12,3,2
+2022-23,OnsetToDeath,13,1,0.7
+2022-23,OnsetToDeath,14,2,1.3
+2022-23,OnsetToDeath,15,1,0.7
+2022-23,OnsetToDeath,16,1,0.7
+2022-23,OnsetToDeath,17,3,2
+2022-23,OnsetToDeath,18,3,2
+2022-23,OnsetToDeath,19,1,0.7
+2022-23,OnsetToDeath,21,3,2
+2022-23,OnsetToDeath,22,3,2
+2022-23,OnsetToDeath,23,1,0.7
+2022-23,OnsetToDeath,26,1,0.7
+2022-23,OnsetToDeath,27,3,2
+2022-23,OnsetToDeath,30+,10,6.7
+2022-23,Location of Death,Outside Hospital,35,19
+2022-23,Location of Death,Emergency Department,61,33.2
+2022-23,Location of Death,Hospital Admitted,88,47.8
+2023-24,AgeGroup,0-5 mo,9,4.3
+2023-24,AgeGroup,6-23 mo,29,14
+2023-24,AgeGroup,2-4 yr,38,18.4
+2023-24,AgeGroup,5-11 yr,87,42
+2023-24,AgeGroup,12-17 yr,44,21.3
+2023-24,Sex,Male,94,45.4
+2023-24,Sex,Female,113,54.6
+2023-24,Conditions,Yes       ,96,49
+2023-24,Conditions,No        ,100,51
+2023-24,Bacterial Coinfectio,Yes       ,47,48
+2023-24,Bacterial Coinfectio,No        ,51,52
+2023-24,OnsetToDeath,0,9,5.3
+2023-24,OnsetToDeath,1,10,5.9
+2023-24,OnsetToDeath,2,11,6.5
+2023-24,OnsetToDeath,3,15,8.9
+2023-24,OnsetToDeath,4,12,7.1
+2023-24,OnsetToDeath,5,17,10.1
+2023-24,OnsetToDeath,6,14,8.3
+2023-24,OnsetToDeath,7,12,7.1
+2023-24,OnsetToDeath,8,7,4.1
+2023-24,OnsetToDeath,9,6,3.6
+2023-24,OnsetToDeath,10,2,1.2
+2023-24,OnsetToDeath,11,2,1.2
+2023-24,OnsetToDeath,12,4,2.4
+2023-24,OnsetToDeath,13,1,0.6
+2023-24,OnsetToDeath,14,4,2.4
+2023-24,OnsetToDeath,15,4,2.4
+2023-24,OnsetToDeath,16,2,1.2
+2023-24,OnsetToDeath,17,1,0.6
+2023-24,OnsetToDeath,18,3,1.8
+2023-24,OnsetToDeath,19,3,1.8
+2023-24,OnsetToDeath,22,1,0.6
+2023-24,OnsetToDeath,24,1,0.6
+2023-24,OnsetToDeath,25,3,1.8
+2023-24,OnsetToDeath,27,2,1.2
+2023-24,OnsetToDeath,29,2,1.2
+2023-24,OnsetToDeath,30+,21,12.4
+2023-24,Location of Death,Outside Hospital,33,15.9
+2023-24,Location of Death,Emergency Department,60,29
+2023-24,Location of Death,Hospital Admitted,114,55.1
+2024-25,AgeGroup,0-5 mo,5,5.1
+2024-25,AgeGroup,6-23 mo,18,18.4
+2024-25,AgeGroup,2-4 yr,19,19.4
+2024-25,AgeGroup,5-11 yr,32,32.7
+2024-25,AgeGroup,12-17 yr,24,24.5
+2024-25,Sex,Male,44,45.4
+2024-25,Sex,Female,53,54.6
+2024-25,Conditions,Yes       ,53,56.4
+2024-25,Conditions,No        ,41,43.6
+2024-25,Bacterial Coinfectio,Yes       ,13,35.1
+2024-25,Bacterial Coinfectio,No        ,24,64.9
+2024-25,OnsetToDeath,0,3,3.7
+2024-25,OnsetToDeath,1,12,14.6
+2024-25,OnsetToDeath,2,16,19.5
+2024-25,OnsetToDeath,3,8,9.8
+2024-25,OnsetToDeath,4,8,9.8
+2024-25,OnsetToDeath,5,6,7.3
+2024-25,OnsetToDeath,6,7,8.5
+2024-25,OnsetToDeath,7,4,4.9
+2024-25,OnsetToDeath,8,2,2.4
+2024-25,OnsetToDeath,9,2,2.4
+2024-25,OnsetToDeath,10,1,1.2
+2024-25,OnsetToDeath,11,2,2.4
+2024-25,OnsetToDeath,12,1,1.2
+2024-25,OnsetToDeath,13,1,1.2
+2024-25,OnsetToDeath,18,2,2.4
+2024-25,OnsetToDeath,19,1,1.2
+2024-25,OnsetToDeath,21,1,1.2
+2024-25,OnsetToDeath,24,1,1.2
+2024-25,OnsetToDeath,30+,4,4.9
+2024-25,Location of Death,Outside Hospital,13,13.5
+2024-25,Location of Death,Emergency Department,31,32.3
+2024-25,Location of Death,Hospital Admitted,52,54.2

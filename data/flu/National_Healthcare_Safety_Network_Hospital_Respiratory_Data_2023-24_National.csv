@@ -1,0 +1,411 @@
+"National Healthcare Safety Network (NHSN) Hospital Respiratory Data (downloaded on "Mar-06-2025)
+Influenza Division - Centers for Disease Control and Prevention.
+Week,Season,Measure,Region,RegionDescription,Measure_Value
+202346,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.01
+202346,2023-24,Influenza Hospital Admissions,,National,3357
+202346,2023-24,Influenza Hospitalization (Avg 7 Day),,National,2161
+202346,2023-24,Average patients with influenza in ICU,,National,366.43
+202404,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.7
+202404,2023-24,Influenza Hospital Admissions,,National,12276
+202404,2023-24,Influenza Hospitalization (Avg 7 Day),,National,9582
+202404,2023-24,Average patients with influenza in ICU,,National,1614.86
+202405,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.35
+202405,2023-24,Influenza Hospital Admissions,,National,11118
+202405,2023-24,Influenza Hospitalization (Avg 7 Day),,National,8645.57
+202405,2023-24,Average patients with influenza in ICU,,National,1498.57
+202417,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.7
+202417,2023-24,Influenza Hospital Admissions,,National,2329
+202417,2023-24,Influenza Hospitalization (Avg 7 Day),,National,2232.43
+202417,2023-24,Average patients with influenza in ICU,,National,367.29
+202418,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.44
+202418,2023-24,Influenza Hospital Admissions,,National,1461
+202418,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1421
+202418,2023-24,Average patients with influenza in ICU,,National,179.57
+202430,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202430,2023-24,Influenza Hospital Admissions,,National,268
+202430,2023-24,Influenza Hospitalization (Avg 7 Day),,National,257.57
+202430,2023-24,Average patients with influenza in ICU,,National,36.86
+202431,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202431,2023-24,Influenza Hospital Admissions,,National,274
+202431,2023-24,Influenza Hospitalization (Avg 7 Day),,National,229.57
+202431,2023-24,Average patients with influenza in ICU,,National,31.71
+202406,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.27
+202406,2023-24,Influenza Hospital Admissions,,National,10849
+202406,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7873
+202406,2023-24,Average patients with influenza in ICU,,National,1340.71
+202419,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.25
+202419,2023-24,Influenza Hospital Admissions,,National,832
+202419,2023-24,Influenza Hospitalization (Avg 7 Day),,National,915.29
+202419,2023-24,Average patients with influenza in ICU,,National,101.29
+202432,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202432,2023-24,Influenza Hospital Admissions,,National,270
+202432,2023-24,Influenza Hospitalization (Avg 7 Day),,National,222
+202432,2023-24,Average patients with influenza in ICU,,National,27.86
+202347,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.26
+202347,2023-24,Influenza Hospital Admissions,,National,4169
+202347,2023-24,Influenza Hospitalization (Avg 7 Day),,National,2715.71
+202347,2023-24,Average patients with influenza in ICU,,National,423.14
+202348,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.7
+202348,2023-24,Influenza Hospital Admissions,,National,5646
+202348,2023-24,Influenza Hospitalization (Avg 7 Day),,National,3617.14
+202348,2023-24,Average patients with influenza in ICU,,National,574.43
+202407,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.18
+202407,2023-24,Influenza Hospital Admissions,,National,10548
+202407,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7840.14
+202407,2023-24,Average patients with influenza in ICU,,National,1275.71
+202420,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202420,2023-24,Influenza Hospital Admissions,,National,671
+202420,2023-24,Influenza Hospitalization (Avg 7 Day),,National,620.86
+202420,2023-24,Average patients with influenza in ICU,,National,73.71
+202408,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.11
+202408,2023-24,Influenza Hospital Admissions,,National,10320
+202408,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7659.71
+202408,2023-24,Average patients with influenza in ICU,,National,1230.43
+202409,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.12
+202409,2023-24,Influenza Hospital Admissions,,National,10338
+202409,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7674.14
+202409,2023-24,Average patients with influenza in ICU,,National,1221.29
+202349,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,2.12
+202349,2023-24,Influenza Hospital Admissions,,National,7029
+202349,2023-24,Influenza Hospitalization (Avg 7 Day),,National,4648
+202349,2023-24,Average patients with influenza in ICU,,National,750.57
+202421,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.18
+202340,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.33
+202340,2023-24,Influenza Hospital Admissions,,National,1087
+202340,2023-24,Influenza Hospitalization (Avg 7 Day),,National,875.86
+202340,2023-24,Average patients with influenza in ICU,,National,164.86
+202341,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.36
+202433,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202433,2023-24,Influenza Hospital Admissions,,National,274
+202433,2023-24,Influenza Hospitalization (Avg 7 Day),,National,231.57
+202433,2023-24,Average patients with influenza in ICU,,National,27.57
+202421,2023-24,Influenza Hospital Admissions,,National,607
+202421,2023-24,Influenza Hospitalization (Avg 7 Day),,National,555.86
+202421,2023-24,Average patients with influenza in ICU,,National,77.71
+202422,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.18
+202422,2023-24,Influenza Hospital Admissions,,National,584
+202422,2023-24,Influenza Hospitalization (Avg 7 Day),,National,494.29
+202422,2023-24,Average patients with influenza in ICU,,National,60.43
+202410,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,2.71
+202410,2023-24,Influenza Hospital Admissions,,National,8983
+202410,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7117.86
+202410,2023-24,Average patients with influenza in ICU,,National,1142.43
+202341,2023-24,Influenza Hospital Admissions,,National,1192
+202341,2023-24,Influenza Hospitalization (Avg 7 Day),,National,944.57
+202341,2023-24,Average patients with influenza in ICU,,National,179.71
+202342,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.43
+202342,2023-24,Influenza Hospital Admissions,,National,1440
+202342,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1112.71
+202342,2023-24,Average patients with influenza in ICU,,National,216.86
+202350,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,2.93
+202350,2023-24,Influenza Hospital Admissions,,National,9715
+202350,2023-24,Influenza Hospitalization (Avg 7 Day),,National,6193.29
+202350,2023-24,Average patients with influenza in ICU,,National,955.71
+202351,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,4.5
+202351,2023-24,Influenza Hospital Admissions,,National,14907
+202351,2023-24,Influenza Hospitalization (Avg 7 Day),,National,9057
+202351,2023-24,Average patients with influenza in ICU,,National,1385
+202352,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,6.19
+202352,2023-24,Influenza Hospital Admissions,,National,20534
+202352,2023-24,Influenza Hospitalization (Avg 7 Day),,National,12977
+202352,2023-24,Average patients with influenza in ICU,,National,2014.71
+202411,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,2.12
+202411,2023-24,Influenza Hospital Admissions,,National,7029
+202411,2023-24,Influenza Hospitalization (Avg 7 Day),,National,5965.71
+202411,2023-24,Average patients with influenza in ICU,,National,968.14
+202412,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.74
+202412,2023-24,Influenza Hospital Admissions,,National,5784
+202412,2023-24,Influenza Hospitalization (Avg 7 Day),,National,4850.57
+202412,2023-24,Average patients with influenza in ICU,,National,807.86
+202423,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.15
+202423,2023-24,Influenza Hospital Admissions,,National,503
+202423,2023-24,Influenza Hospitalization (Avg 7 Day),,National,427.43
+202423,2023-24,Average patients with influenza in ICU,,National,47.14
+202434,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202434,2023-24,Influenza Hospital Admissions,,National,270
+202434,2023-24,Influenza Hospitalization (Avg 7 Day),,National,208.29
+202434,2023-24,Average patients with influenza in ICU,,National,27.29
+202435,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202435,2023-24,Influenza Hospital Admissions,,National,253
+202435,2023-24,Influenza Hospitalization (Avg 7 Day),,National,182.29
+202435,2023-24,Average patients with influenza in ICU,,National,16.14
+202343,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.47
+202343,2023-24,Influenza Hospital Admissions,,National,1570
+202343,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1215.14
+202343,2023-24,Average patients with influenza in ICU,,National,191.29
+202401,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,5.6
+202401,2023-24,Influenza Hospital Admissions,,National,18577
+202401,2023-24,Influenza Hospitalization (Avg 7 Day),,National,14647.86
+202401,2023-24,Average patients with influenza in ICU,,National,2333.71
+202402,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,4.54
+202402,2023-24,Influenza Hospital Admissions,,National,15038
+202402,2023-24,Influenza Hospitalization (Avg 7 Day),,National,12663
+202402,2023-24,Average patients with influenza in ICU,,National,2063.57
+202436,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202436,2023-24,Influenza Hospital Admissions,,National,219
+202436,2023-24,Influenza Hospitalization (Avg 7 Day),,National,180.86
+202436,2023-24,Average patients with influenza in ICU,,National,23.86
+202413,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.61
+202413,2023-24,Influenza Hospital Admissions,,National,5346
+202413,2023-24,Influenza Hospitalization (Avg 7 Day),,National,4430.86
+202413,2023-24,Average patients with influenza in ICU,,National,716.29
+202424,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.15
+202424,2023-24,Influenza Hospital Admissions,,National,512
+202424,2023-24,Influenza Hospitalization (Avg 7 Day),,National,392
+202424,2023-24,Average patients with influenza in ICU,,National,50.29
+202425,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202425,2023-24,Influenza Hospital Admissions,,National,429
+202425,2023-24,Influenza Hospitalization (Avg 7 Day),,National,384.14
+202425,2023-24,Average patients with influenza in ICU,,National,46.71
+202426,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202426,2023-24,Influenza Hospital Admissions,,National,350
+202426,2023-24,Influenza Hospitalization (Avg 7 Day),,National,332
+202426,2023-24,Average patients with influenza in ICU,,National,41
+202340,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.33
+202340,2023-24,Influenza Hospital Admissions,,National,1087
+202340,2023-24,Influenza Hospitalization (Avg 7 Day),,National,875.86
+202340,2023-24,Average patients with influenza in ICU,,National,164.86
+202344,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.58
+202344,2023-24,Influenza Hospital Admissions,,National,1923
+202344,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1362.71
+202344,2023-24,Average patients with influenza in ICU,,National,226.14
+202341,2023-24,Influenza Hospital Admissions,,National,1192
+202345,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.8
+202345,2023-24,Influenza Hospital Admissions,,National,2659
+202345,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1738.57
+202345,2023-24,Average patients with influenza in ICU,,National,285.86
+202348,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.7
+202348,2023-24,Influenza Hospital Admissions,,National,5646
+202348,2023-24,Influenza Hospitalization (Avg 7 Day),,National,3617.14
+202348,2023-24,Average patients with influenza in ICU,,National,574.43
+202349,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,2.12
+202349,2023-24,Influenza Hospital Admissions,,National,7029
+202349,2023-24,Influenza Hospitalization (Avg 7 Day),,National,4648
+202349,2023-24,Average patients with influenza in ICU,,National,750.57
+202350,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,2.93
+202350,2023-24,Influenza Hospital Admissions,,National,9715
+202350,2023-24,Influenza Hospitalization (Avg 7 Day),,National,6193.29
+202350,2023-24,Average patients with influenza in ICU,,National,955.71
+202341,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.36
+202341,2023-24,Influenza Hospitalization (Avg 7 Day),,National,944.57
+202341,2023-24,Average patients with influenza in ICU,,National,179.71
+202346,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.01
+202346,2023-24,Influenza Hospital Admissions,,National,3357
+202346,2023-24,Influenza Hospitalization (Avg 7 Day),,National,2161
+202346,2023-24,Average patients with influenza in ICU,,National,366.43
+202347,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.26
+202347,2023-24,Influenza Hospital Admissions,,National,4169
+202347,2023-24,Influenza Hospitalization (Avg 7 Day),,National,2715.71
+202347,2023-24,Average patients with influenza in ICU,,National,423.14
+202342,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.43
+202342,2023-24,Influenza Hospital Admissions,,National,1440
+202342,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1112.71
+202342,2023-24,Average patients with influenza in ICU,,National,216.86
+202343,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.47
+202343,2023-24,Influenza Hospital Admissions,,National,1570
+202343,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1215.14
+202343,2023-24,Average patients with influenza in ICU,,National,191.29
+202414,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.47
+202414,2023-24,Influenza Hospital Admissions,,National,4887
+202414,2023-24,Influenza Hospitalization (Avg 7 Day),,National,4083
+202414,2023-24,Average patients with influenza in ICU,,National,672.29
+202415,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.18
+202415,2023-24,Influenza Hospital Admissions,,National,3899
+202415,2023-24,Influenza Hospitalization (Avg 7 Day),,National,3442.86
+202415,2023-24,Average patients with influenza in ICU,,National,549.14
+202427,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.1
+202427,2023-24,Influenza Hospital Admissions,,National,328
+202427,2023-24,Influenza Hospitalization (Avg 7 Day),,National,277.86
+202427,2023-24,Average patients with influenza in ICU,,National,31.71
+202428,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202428,2023-24,Influenza Hospital Admissions,,National,352
+202428,2023-24,Influenza Hospitalization (Avg 7 Day),,National,288.71
+202428,2023-24,Average patients with influenza in ICU,,National,34.14
+202437,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202437,2023-24,Influenza Hospital Admissions,,National,298
+202437,2023-24,Influenza Hospitalization (Avg 7 Day),,National,205
+202437,2023-24,Average patients with influenza in ICU,,National,27.14
+202438,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202438,2023-24,Influenza Hospital Admissions,,National,192
+202438,2023-24,Influenza Hospitalization (Avg 7 Day),,National,127.71
+202438,2023-24,Average patients with influenza in ICU,,National,18
+202344,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.58
+202344,2023-24,Influenza Hospital Admissions,,National,1923
+202344,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1362.71
+202344,2023-24,Average patients with influenza in ICU,,National,226.14
+202345,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.8
+202345,2023-24,Influenza Hospital Admissions,,National,2659
+202345,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1738.57
+202345,2023-24,Average patients with influenza in ICU,,National,285.86
+202403,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.8
+202403,2023-24,Influenza Hospital Admissions,,National,12609
+202403,2023-24,Influenza Hospitalization (Avg 7 Day),,National,10668.86
+202403,2023-24,Average patients with influenza in ICU,,National,1767.57
+202416,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.85
+202416,2023-24,Influenza Hospital Admissions,,National,2823
+202416,2023-24,Influenza Hospitalization (Avg 7 Day),,National,2838.14
+202416,2023-24,Average patients with influenza in ICU,,National,456
+202429,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202429,2023-24,Influenza Hospital Admissions,,National,313
+202429,2023-24,Influenza Hospitalization (Avg 7 Day),,National,268.43
+202429,2023-24,Average patients with influenza in ICU,,National,39.71
+202351,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,4.5
+202351,2023-24,Influenza Hospital Admissions,,National,14907
+202351,2023-24,Influenza Hospitalization (Avg 7 Day),,National,9057
+202351,2023-24,Average patients with influenza in ICU,,National,1385
+202352,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,6.19
+202352,2023-24,Influenza Hospital Admissions,,National,20534
+202352,2023-24,Influenza Hospitalization (Avg 7 Day),,National,12977
+202352,2023-24,Average patients with influenza in ICU,,National,2014.71
+202401,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,5.6
+202401,2023-24,Influenza Hospital Admissions,,National,18577
+202401,2023-24,Influenza Hospitalization (Avg 7 Day),,National,14647.86
+202401,2023-24,Average patients with influenza in ICU,,National,2333.71
+202402,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,4.54
+202402,2023-24,Influenza Hospital Admissions,,National,15038
+202402,2023-24,Influenza Hospitalization (Avg 7 Day),,National,12663
+202402,2023-24,Average patients with influenza in ICU,,National,2063.57
+202403,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.8
+202403,2023-24,Influenza Hospital Admissions,,National,12609
+202403,2023-24,Influenza Hospitalization (Avg 7 Day),,National,10668.86
+202403,2023-24,Average patients with influenza in ICU,,National,1767.57
+202404,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.7
+202404,2023-24,Influenza Hospital Admissions,,National,12276
+202404,2023-24,Influenza Hospitalization (Avg 7 Day),,National,9582
+202404,2023-24,Average patients with influenza in ICU,,National,1614.86
+202405,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.35
+202405,2023-24,Influenza Hospital Admissions,,National,11118
+202405,2023-24,Influenza Hospitalization (Avg 7 Day),,National,8645.57
+202405,2023-24,Average patients with influenza in ICU,,National,1498.57
+202406,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.27
+202406,2023-24,Influenza Hospital Admissions,,National,10849
+202406,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7873
+202406,2023-24,Average patients with influenza in ICU,,National,1340.71
+202407,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.18
+202407,2023-24,Influenza Hospital Admissions,,National,10548
+202407,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7840.14
+202407,2023-24,Average patients with influenza in ICU,,National,1275.71
+202408,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.11
+202408,2023-24,Influenza Hospital Admissions,,National,10320
+202408,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7659.71
+202408,2023-24,Average patients with influenza in ICU,,National,1230.43
+202409,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,3.12
+202409,2023-24,Influenza Hospital Admissions,,National,10338
+202409,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7674.14
+202409,2023-24,Average patients with influenza in ICU,,National,1221.29
+202410,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,2.71
+202410,2023-24,Influenza Hospital Admissions,,National,8983
+202410,2023-24,Influenza Hospitalization (Avg 7 Day),,National,7117.86
+202410,2023-24,Average patients with influenza in ICU,,National,1142.43
+202411,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,2.12
+202411,2023-24,Influenza Hospital Admissions,,National,7029
+202411,2023-24,Influenza Hospitalization (Avg 7 Day),,National,5965.71
+202411,2023-24,Average patients with influenza in ICU,,National,968.14
+202412,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.74
+202412,2023-24,Influenza Hospital Admissions,,National,5784
+202412,2023-24,Influenza Hospitalization (Avg 7 Day),,National,4850.57
+202412,2023-24,Average patients with influenza in ICU,,National,807.86
+202413,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.61
+202413,2023-24,Influenza Hospital Admissions,,National,5346
+202413,2023-24,Influenza Hospitalization (Avg 7 Day),,National,4430.86
+202413,2023-24,Average patients with influenza in ICU,,National,716.29
+202414,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.47
+202414,2023-24,Influenza Hospital Admissions,,National,4887
+202414,2023-24,Influenza Hospitalization (Avg 7 Day),,National,4083
+202414,2023-24,Average patients with influenza in ICU,,National,672.29
+202415,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,1.18
+202415,2023-24,Influenza Hospital Admissions,,National,3899
+202415,2023-24,Influenza Hospitalization (Avg 7 Day),,National,3442.86
+202415,2023-24,Average patients with influenza in ICU,,National,549.14
+202416,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.85
+202416,2023-24,Influenza Hospital Admissions,,National,2823
+202416,2023-24,Influenza Hospitalization (Avg 7 Day),,National,2838.14
+202416,2023-24,Average patients with influenza in ICU,,National,456
+202417,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.7
+202417,2023-24,Influenza Hospital Admissions,,National,2329
+202417,2023-24,Influenza Hospitalization (Avg 7 Day),,National,2232.43
+202417,2023-24,Average patients with influenza in ICU,,National,367.29
+202418,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.44
+202418,2023-24,Influenza Hospital Admissions,,National,1461
+202418,2023-24,Influenza Hospitalization (Avg 7 Day),,National,1421
+202418,2023-24,Average patients with influenza in ICU,,National,179.57
+202419,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.25
+202419,2023-24,Influenza Hospital Admissions,,National,832
+202419,2023-24,Influenza Hospitalization (Avg 7 Day),,National,915.29
+202419,2023-24,Average patients with influenza in ICU,,National,101.29
+202420,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202420,2023-24,Influenza Hospital Admissions,,National,671
+202420,2023-24,Influenza Hospitalization (Avg 7 Day),,National,620.86
+202420,2023-24,Average patients with influenza in ICU,,National,73.71
+202421,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.18
+202421,2023-24,Influenza Hospital Admissions,,National,607
+202421,2023-24,Influenza Hospitalization (Avg 7 Day),,National,555.86
+202421,2023-24,Average patients with influenza in ICU,,National,77.71
+202422,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.18
+202422,2023-24,Influenza Hospital Admissions,,National,584
+202422,2023-24,Influenza Hospitalization (Avg 7 Day),,National,494.29
+202422,2023-24,Average patients with influenza in ICU,,National,60.43
+202423,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.15
+202423,2023-24,Influenza Hospital Admissions,,National,503
+202423,2023-24,Influenza Hospitalization (Avg 7 Day),,National,427.43
+202423,2023-24,Average patients with influenza in ICU,,National,47.14
+202424,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.15
+202424,2023-24,Influenza Hospital Admissions,,National,512
+202424,2023-24,Influenza Hospitalization (Avg 7 Day),,National,392
+202424,2023-24,Average patients with influenza in ICU,,National,50.29
+202425,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202425,2023-24,Influenza Hospital Admissions,,National,429
+202425,2023-24,Influenza Hospitalization (Avg 7 Day),,National,384.14
+202425,2023-24,Average patients with influenza in ICU,,National,46.71
+202426,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202426,2023-24,Influenza Hospital Admissions,,National,350
+202426,2023-24,Influenza Hospitalization (Avg 7 Day),,National,332
+202426,2023-24,Average patients with influenza in ICU,,National,41
+202427,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.1
+202427,2023-24,Influenza Hospital Admissions,,National,328
+202427,2023-24,Influenza Hospitalization (Avg 7 Day),,National,277.86
+202427,2023-24,Average patients with influenza in ICU,,National,31.71
+202428,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202428,2023-24,Influenza Hospital Admissions,,National,352
+202428,2023-24,Influenza Hospitalization (Avg 7 Day),,National,288.71
+202428,2023-24,Average patients with influenza in ICU,,National,34.14
+202429,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202429,2023-24,Influenza Hospital Admissions,,National,313
+202429,2023-24,Influenza Hospitalization (Avg 7 Day),,National,268.43
+202429,2023-24,Average patients with influenza in ICU,,National,39.71
+202430,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202430,2023-24,Influenza Hospital Admissions,,National,268
+202430,2023-24,Influenza Hospitalization (Avg 7 Day),,National,257.57
+202430,2023-24,Average patients with influenza in ICU,,National,36.86
+202431,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202431,2023-24,Influenza Hospital Admissions,,National,274
+202431,2023-24,Influenza Hospitalization (Avg 7 Day),,National,229.57
+202431,2023-24,Average patients with influenza in ICU,,National,31.71
+202432,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202432,2023-24,Influenza Hospital Admissions,,National,270
+202432,2023-24,Influenza Hospitalization (Avg 7 Day),,National,222
+202432,2023-24,Average patients with influenza in ICU,,National,27.86
+202433,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202433,2023-24,Influenza Hospital Admissions,,National,274
+202433,2023-24,Influenza Hospitalization (Avg 7 Day),,National,231.57
+202433,2023-24,Average patients with influenza in ICU,,National,27.57
+202434,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202434,2023-24,Influenza Hospital Admissions,,National,270
+202434,2023-24,Influenza Hospitalization (Avg 7 Day),,National,208.29
+202434,2023-24,Average patients with influenza in ICU,,National,27.29
+202435,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202435,2023-24,Influenza Hospital Admissions,,National,253
+202435,2023-24,Influenza Hospitalization (Avg 7 Day),,National,182.29
+202435,2023-24,Average patients with influenza in ICU,,National,16.14
+202436,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202436,2023-24,Influenza Hospital Admissions,,National,219
+202436,2023-24,Influenza Hospitalization (Avg 7 Day),,National,180.86
+202436,2023-24,Average patients with influenza in ICU,,National,23.86
+202437,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202437,2023-24,Influenza Hospital Admissions,,National,298
+202437,2023-24,Influenza Hospitalization (Avg 7 Day),,National,205
+202437,2023-24,Average patients with influenza in ICU,,National,27.14
+202438,2023-24,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202438,2023-24,Influenza Hospital Admissions,,National,192
+202438,2023-24,Influenza Hospitalization (Avg 7 Day),,National,127.71
+202438,2023-24,Average patients with influenza in ICU,,National,18

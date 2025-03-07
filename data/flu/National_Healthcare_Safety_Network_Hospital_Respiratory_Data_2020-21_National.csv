@@ -1,0 +1,427 @@
+"National Healthcare Safety Network (NHSN) Hospital Respiratory Data (downloaded on "Mar-06-2025)
+Influenza Division - Centers for Disease Control and Prevention.
+Week,Season,Measure,Region,RegionDescription,Measure_Value
+202040,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0
+202113,2020-21,Influenza Hospitalization (Avg 7 Day),,National,278.57
+202040,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0
+202046,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202046,2020-21,Influenza Hospital Admissions,,National,558
+202046,2020-21,Influenza Hospitalization (Avg 7 Day),,National,408.86
+202046,2020-21,Average patients with influenza in ICU,,National,78.57
+202040,2020-21,Influenza Hospital Admissions,,National,0
+202040,2020-21,Influenza Hospitalization (Avg 7 Day),,National,0
+202040,2020-21,Average patients with influenza in ICU,,National,0
+202041,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0
+202041,2020-21,Influenza Hospital Admissions,,National,0
+202041,2020-21,Influenza Hospitalization (Avg 7 Day),,National,0
+202041,2020-21,Average patients with influenza in ICU,,National,0
+202040,2020-21,Influenza Hospital Admissions,,National,0
+202040,2020-21,Influenza Hospitalization (Avg 7 Day),,National,0
+202040,2020-21,Average patients with influenza in ICU,,National,0
+202041,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0
+202041,2020-21,Influenza Hospital Admissions,,National,0
+202041,2020-21,Influenza Hospitalization (Avg 7 Day),,National,0
+202041,2020-21,Average patients with influenza in ICU,,National,0
+202049,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202049,2020-21,Influenza Hospital Admissions,,National,573
+202049,2020-21,Influenza Hospitalization (Avg 7 Day),,National,617.86
+202049,2020-21,Average patients with influenza in ICU,,National,96.29
+202050,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202050,2020-21,Influenza Hospital Admissions,,National,571
+202050,2020-21,Influenza Hospitalization (Avg 7 Day),,National,614.57
+202050,2020-21,Average patients with influenza in ICU,,National,95.43
+202105,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202105,2020-21,Influenza Hospital Admissions,,National,433
+202105,2020-21,Influenza Hospitalization (Avg 7 Day),,National,386.57
+202105,2020-21,Average patients with influenza in ICU,,National,70.71
+202113,2020-21,Average patients with influenza in ICU,,National,53.43
+202114,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202114,2020-21,Influenza Hospital Admissions,,National,293
+202114,2020-21,Influenza Hospitalization (Avg 7 Day),,National,253
+202114,2020-21,Average patients with influenza in ICU,,National,46.43
+202122,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202122,2020-21,Influenza Hospital Admissions,,National,209
+202122,2020-21,Influenza Hospitalization (Avg 7 Day),,National,209.57
+202122,2020-21,Average patients with influenza in ICU,,National,34
+202123,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202123,2020-21,Influenza Hospital Admissions,,National,185
+202123,2020-21,Influenza Hospitalization (Avg 7 Day),,National,213.57
+202123,2020-21,Average patients with influenza in ICU,,National,31.86
+202131,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202131,2020-21,Influenza Hospital Admissions,,National,308
+202131,2020-21,Influenza Hospitalization (Avg 7 Day),,National,344.29
+202131,2020-21,Average patients with influenza in ICU,,National,52.71
+202047,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.16
+202047,2020-21,Influenza Hospital Admissions,,National,538
+202047,2020-21,Influenza Hospitalization (Avg 7 Day),,National,481.29
+202047,2020-21,Average patients with influenza in ICU,,National,74.57
+202048,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202048,2020-21,Influenza Hospital Admissions,,National,576
+202048,2020-21,Influenza Hospitalization (Avg 7 Day),,National,519.57
+202048,2020-21,Average patients with influenza in ICU,,National,93
+202042,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0
+202042,2020-21,Influenza Hospital Admissions,,National,6
+202042,2020-21,Influenza Hospitalization (Avg 7 Day),,National,4.29
+202042,2020-21,Average patients with influenza in ICU,,National,1
+202051,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.21
+202051,2020-21,Influenza Hospital Admissions,,National,685
+202051,2020-21,Influenza Hospitalization (Avg 7 Day),,National,643.57
+202051,2020-21,Average patients with influenza in ICU,,National,108.57
+202106,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202106,2020-21,Influenza Hospital Admissions,,National,375
+202106,2020-21,Influenza Hospitalization (Avg 7 Day),,National,389.43
+202106,2020-21,Average patients with influenza in ICU,,National,67.43
+202107,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.12
+202107,2020-21,Influenza Hospital Admissions,,National,388
+202107,2020-21,Influenza Hospitalization (Avg 7 Day),,National,374.29
+202107,2020-21,Average patients with influenza in ICU,,National,75.57
+202115,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202115,2020-21,Influenza Hospital Admissions,,National,310
+202115,2020-21,Influenza Hospitalization (Avg 7 Day),,National,252.71
+202115,2020-21,Average patients with influenza in ICU,,National,44.29
+202124,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.05
+202124,2020-21,Influenza Hospital Admissions,,National,178
+202124,2020-21,Influenza Hospitalization (Avg 7 Day),,National,194.57
+202124,2020-21,Average patients with influenza in ICU,,National,22.86
+202132,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202132,2020-21,Influenza Hospital Admissions,,National,250
+202132,2020-21,Influenza Hospitalization (Avg 7 Day),,National,274.29
+202132,2020-21,Average patients with influenza in ICU,,National,40.29
+202133,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202133,2020-21,Influenza Hospital Admissions,,National,253
+202133,2020-21,Influenza Hospitalization (Avg 7 Day),,National,251.14
+202133,2020-21,Average patients with influenza in ICU,,National,35.43
+202043,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202043,2020-21,Influenza Hospital Admissions,,National,192
+202043,2020-21,Influenza Hospitalization (Avg 7 Day),,National,147.14
+202043,2020-21,Average patients with influenza in ICU,,National,33.57
+202044,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.12
+202044,2020-21,Influenza Hospital Admissions,,National,403
+202044,2020-21,Influenza Hospitalization (Avg 7 Day),,National,265.43
+202044,2020-21,Average patients with influenza in ICU,,National,50
+202052,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202052,2020-21,Influenza Hospital Admissions,,National,670
+202052,2020-21,Influenza Hospitalization (Avg 7 Day),,National,714.86
+202052,2020-21,Average patients with influenza in ICU,,National,127.71
+202053,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202108,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.1
+202108,2020-21,Influenza Hospital Admissions,,National,343
+202108,2020-21,Influenza Hospitalization (Avg 7 Day),,National,359.14
+202108,2020-21,Average patients with influenza in ICU,,National,70.43
+202116,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.12
+202116,2020-21,Influenza Hospital Admissions,,National,408
+202116,2020-21,Influenza Hospitalization (Avg 7 Day),,National,266.86
+202116,2020-21,Average patients with influenza in ICU,,National,50
+202117,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.12
+202117,2020-21,Influenza Hospital Admissions,,National,390
+202117,2020-21,Influenza Hospitalization (Avg 7 Day),,National,278.14
+202117,2020-21,Average patients with influenza in ICU,,National,47.57
+202125,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202125,2020-21,Influenza Hospital Admissions,,National,189
+202125,2020-21,Influenza Hospitalization (Avg 7 Day),,National,194.29
+202125,2020-21,Average patients with influenza in ICU,,National,26.43
+202126,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202126,2020-21,Influenza Hospital Admissions,,National,198
+202126,2020-21,Influenza Hospitalization (Avg 7 Day),,National,200.71
+202134,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202134,2020-21,Influenza Hospital Admissions,,National,217
+202134,2020-21,Influenza Hospitalization (Avg 7 Day),,National,251.86
+202134,2020-21,Average patients with influenza in ICU,,National,43
+202053,2020-21,Influenza Hospital Admissions,,National,654
+202126,2020-21,Average patients with influenza in ICU,,National,24.71
+202135,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202135,2020-21,Influenza Hospital Admissions,,National,235
+202135,2020-21,Influenza Hospitalization (Avg 7 Day),,National,287.29
+202135,2020-21,Average patients with influenza in ICU,,National,49
+202136,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202042,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0
+202042,2020-21,Influenza Hospital Admissions,,National,6
+202042,2020-21,Influenza Hospitalization (Avg 7 Day),,National,4.29
+202042,2020-21,Average patients with influenza in ICU,,National,1
+202049,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202049,2020-21,Influenza Hospital Admissions,,National,573
+202049,2020-21,Influenza Hospitalization (Avg 7 Day),,National,617.86
+202049,2020-21,Average patients with influenza in ICU,,National,96.29
+202122,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202122,2020-21,Influenza Hospital Admissions,,National,209
+202122,2020-21,Influenza Hospitalization (Avg 7 Day),,National,209.57
+202122,2020-21,Average patients with influenza in ICU,,National,34
+202128,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202128,2020-21,Influenza Hospital Admissions,,National,264
+202128,2020-21,Influenza Hospitalization (Avg 7 Day),,National,220.86
+202128,2020-21,Average patients with influenza in ICU,,National,25.71
+202101,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.15
+202101,2020-21,Influenza Hospital Admissions,,National,513
+202101,2020-21,Influenza Hospitalization (Avg 7 Day),,National,615.29
+202101,2020-21,Average patients with influenza in ICU,,National,130.43
+202102,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202102,2020-21,Influenza Hospital Admissions,,National,553
+202102,2020-21,Influenza Hospitalization (Avg 7 Day),,National,532.29
+202102,2020-21,Average patients with influenza in ICU,,National,134.86
+202106,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202106,2020-21,Influenza Hospital Admissions,,National,375
+202106,2020-21,Influenza Hospitalization (Avg 7 Day),,National,389.43
+202106,2020-21,Average patients with influenza in ICU,,National,67.43
+202110,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202110,2020-21,Influenza Hospital Admissions,,National,364
+202110,2020-21,Influenza Hospitalization (Avg 7 Day),,National,304.86
+202110,2020-21,Average patients with influenza in ICU,,National,56.14
+202111,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202111,2020-21,Influenza Hospital Admissions,,National,308
+202111,2020-21,Influenza Hospitalization (Avg 7 Day),,National,294
+202111,2020-21,Average patients with influenza in ICU,,National,47.86
+202116,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.12
+202116,2020-21,Influenza Hospital Admissions,,National,408
+202116,2020-21,Influenza Hospitalization (Avg 7 Day),,National,266.86
+202116,2020-21,Average patients with influenza in ICU,,National,50
+202117,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.12
+202117,2020-21,Influenza Hospital Admissions,,National,390
+202117,2020-21,Influenza Hospitalization (Avg 7 Day),,National,278.14
+202117,2020-21,Average patients with influenza in ICU,,National,47.57
+202045,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202045,2020-21,Influenza Hospital Admissions,,National,428
+202045,2020-21,Influenza Hospitalization (Avg 7 Day),,National,351.57
+202045,2020-21,Average patients with influenza in ICU,,National,72.43
+202053,2020-21,Influenza Hospitalization (Avg 7 Day),,National,708
+202053,2020-21,Average patients with influenza in ICU,,National,122.57
+202101,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.15
+202101,2020-21,Influenza Hospital Admissions,,National,513
+202101,2020-21,Influenza Hospitalization (Avg 7 Day),,National,615.29
+202101,2020-21,Average patients with influenza in ICU,,National,130.43
+202109,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202109,2020-21,Influenza Hospital Admissions,,National,379
+202109,2020-21,Influenza Hospitalization (Avg 7 Day),,National,329.43
+202109,2020-21,Average patients with influenza in ICU,,National,65.86
+202110,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202110,2020-21,Influenza Hospital Admissions,,National,364
+202110,2020-21,Influenza Hospitalization (Avg 7 Day),,National,304.86
+202110,2020-21,Average patients with influenza in ICU,,National,56.14
+202118,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202118,2020-21,Influenza Hospital Admissions,,National,299
+202118,2020-21,Influenza Hospitalization (Avg 7 Day),,National,265.86
+202118,2020-21,Average patients with influenza in ICU,,National,46.43
+202127,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202127,2020-21,Influenza Hospital Admissions,,National,233
+202127,2020-21,Influenza Hospitalization (Avg 7 Day),,National,212.29
+202127,2020-21,Average patients with influenza in ICU,,National,25.86
+202135,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202135,2020-21,Influenza Hospital Admissions,,National,235
+202135,2020-21,Influenza Hospitalization (Avg 7 Day),,National,287.29
+202135,2020-21,Average patients with influenza in ICU,,National,49
+202136,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202136,2020-21,Influenza Hospital Admissions,,National,213
+202136,2020-21,Influenza Hospitalization (Avg 7 Day),,National,264.43
+202136,2020-21,Average patients with influenza in ICU,,National,44.43
+202046,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202046,2020-21,Influenza Hospital Admissions,,National,558
+202046,2020-21,Influenza Hospitalization (Avg 7 Day),,National,408.86
+202046,2020-21,Average patients with influenza in ICU,,National,78.57
+202047,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.16
+202047,2020-21,Influenza Hospital Admissions,,National,538
+202047,2020-21,Influenza Hospitalization (Avg 7 Day),,National,481.29
+202047,2020-21,Average patients with influenza in ICU,,National,74.57
+202102,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202102,2020-21,Influenza Hospital Admissions,,National,553
+202102,2020-21,Influenza Hospitalization (Avg 7 Day),,National,532.29
+202102,2020-21,Average patients with influenza in ICU,,National,134.86
+202111,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202111,2020-21,Influenza Hospital Admissions,,National,308
+202111,2020-21,Influenza Hospitalization (Avg 7 Day),,National,294
+202111,2020-21,Average patients with influenza in ICU,,National,47.86
+202119,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202119,2020-21,Influenza Hospital Admissions,,National,237
+202119,2020-21,Influenza Hospitalization (Avg 7 Day),,National,245.14
+202119,2020-21,Average patients with influenza in ICU,,National,38.14
+202120,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202120,2020-21,Influenza Hospital Admissions,,National,258
+202120,2020-21,Influenza Hospitalization (Avg 7 Day),,National,236.43
+202120,2020-21,Average patients with influenza in ICU,,National,35.86
+202128,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202128,2020-21,Influenza Hospital Admissions,,National,264
+202128,2020-21,Influenza Hospitalization (Avg 7 Day),,National,220.86
+202128,2020-21,Average patients with influenza in ICU,,National,25.71
+202137,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202137,2020-21,Influenza Hospital Admissions,,National,214
+202137,2020-21,Influenza Hospitalization (Avg 7 Day),,National,252.43
+202137,2020-21,Average patients with influenza in ICU,,National,48.14
+202123,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202136,2020-21,Influenza Hospital Admissions,,National,213
+202118,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202118,2020-21,Influenza Hospital Admissions,,National,299
+202118,2020-21,Influenza Hospitalization (Avg 7 Day),,National,265.86
+202118,2020-21,Average patients with influenza in ICU,,National,46.43
+202123,2020-21,Influenza Hospital Admissions,,National,185
+202123,2020-21,Influenza Hospitalization (Avg 7 Day),,National,213.57
+202123,2020-21,Average patients with influenza in ICU,,National,31.86
+202124,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.05
+202124,2020-21,Influenza Hospital Admissions,,National,178
+202124,2020-21,Influenza Hospitalization (Avg 7 Day),,National,194.57
+202124,2020-21,Average patients with influenza in ICU,,National,22.86
+202129,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202129,2020-21,Influenza Hospital Admissions,,National,254
+202129,2020-21,Influenza Hospitalization (Avg 7 Day),,National,240.57
+202129,2020-21,Average patients with influenza in ICU,,National,29
+202130,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202130,2020-21,Influenza Hospital Admissions,,National,247
+202130,2020-21,Influenza Hospitalization (Avg 7 Day),,National,248.86
+202130,2020-21,Average patients with influenza in ICU,,National,29
+202136,2020-21,Influenza Hospitalization (Avg 7 Day),,National,264.43
+202136,2020-21,Average patients with influenza in ICU,,National,44.43
+202137,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202137,2020-21,Influenza Hospital Admissions,,National,214
+202137,2020-21,Influenza Hospitalization (Avg 7 Day),,National,252.43
+202137,2020-21,Average patients with influenza in ICU,,National,48.14
+202103,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202103,2020-21,Influenza Hospital Admissions,,National,441
+202103,2020-21,Influenza Hospitalization (Avg 7 Day),,National,427.29
+202103,2020-21,Average patients with influenza in ICU,,National,98.71
+202107,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.12
+202107,2020-21,Influenza Hospital Admissions,,National,388
+202107,2020-21,Influenza Hospitalization (Avg 7 Day),,National,374.29
+202107,2020-21,Average patients with influenza in ICU,,National,75.57
+202108,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.1
+202108,2020-21,Influenza Hospital Admissions,,National,343
+202108,2020-21,Influenza Hospitalization (Avg 7 Day),,National,359.14
+202108,2020-21,Average patients with influenza in ICU,,National,70.43
+202112,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202112,2020-21,Influenza Hospital Admissions,,National,307
+202112,2020-21,Influenza Hospitalization (Avg 7 Day),,National,295.14
+202112,2020-21,Average patients with influenza in ICU,,National,50.14
+202119,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202119,2020-21,Influenza Hospital Admissions,,National,237
+202119,2020-21,Influenza Hospitalization (Avg 7 Day),,National,245.14
+202119,2020-21,Average patients with influenza in ICU,,National,38.14
+202120,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202125,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202125,2020-21,Influenza Hospital Admissions,,National,189
+202125,2020-21,Influenza Hospitalization (Avg 7 Day),,National,194.29
+202125,2020-21,Average patients with influenza in ICU,,National,26.43
+202131,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202131,2020-21,Influenza Hospital Admissions,,National,308
+202131,2020-21,Influenza Hospitalization (Avg 7 Day),,National,344.29
+202131,2020-21,Average patients with influenza in ICU,,National,52.71
+202132,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202132,2020-21,Influenza Hospital Admissions,,National,250
+202132,2020-21,Influenza Hospitalization (Avg 7 Day),,National,274.29
+202132,2020-21,Average patients with influenza in ICU,,National,40.29
+202133,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202133,2020-21,Influenza Hospital Admissions,,National,253
+202133,2020-21,Influenza Hospitalization (Avg 7 Day),,National,251.14
+202133,2020-21,Average patients with influenza in ICU,,National,35.43
+202138,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202138,2020-21,Influenza Hospital Admissions,,National,210
+202138,2020-21,Influenza Hospitalization (Avg 7 Day),,National,242.29
+202138,2020-21,Average patients with influenza in ICU,,National,47.43
+202139,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202139,2020-21,Influenza Hospital Admissions,,National,222
+202139,2020-21,Influenza Hospitalization (Avg 7 Day),,National,231.71
+202139,2020-21,Average patients with influenza in ICU,,National,48
+202120,2020-21,Influenza Hospital Admissions,,National,258
+202050,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202050,2020-21,Influenza Hospital Admissions,,National,571
+202050,2020-21,Influenza Hospitalization (Avg 7 Day),,National,614.57
+202050,2020-21,Average patients with influenza in ICU,,National,95.43
+202051,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.21
+202051,2020-21,Influenza Hospital Admissions,,National,685
+202051,2020-21,Influenza Hospitalization (Avg 7 Day),,National,643.57
+202051,2020-21,Average patients with influenza in ICU,,National,108.57
+202052,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202052,2020-21,Influenza Hospital Admissions,,National,670
+202052,2020-21,Influenza Hospitalization (Avg 7 Day),,National,714.86
+202052,2020-21,Average patients with influenza in ICU,,National,127.71
+202104,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202104,2020-21,Influenza Hospital Admissions,,National,443
+202104,2020-21,Influenza Hospitalization (Avg 7 Day),,National,409.57
+202104,2020-21,Average patients with influenza in ICU,,National,91.29
+202105,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202105,2020-21,Influenza Hospital Admissions,,National,433
+202105,2020-21,Influenza Hospitalization (Avg 7 Day),,National,386.57
+202105,2020-21,Average patients with influenza in ICU,,National,70.71
+202134,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202134,2020-21,Influenza Hospital Admissions,,National,217
+202134,2020-21,Influenza Hospitalization (Avg 7 Day),,National,251.86
+202134,2020-21,Average patients with influenza in ICU,,National,43
+202109,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.11
+202109,2020-21,Influenza Hospital Admissions,,National,379
+202109,2020-21,Influenza Hospitalization (Avg 7 Day),,National,329.43
+202109,2020-21,Average patients with influenza in ICU,,National,65.86
+202113,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.1
+202113,2020-21,Influenza Hospital Admissions,,National,337
+202113,2020-21,Influenza Hospitalization (Avg 7 Day),,National,278.57
+202113,2020-21,Average patients with influenza in ICU,,National,53.43
+202114,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202114,2020-21,Influenza Hospital Admissions,,National,293
+202114,2020-21,Influenza Hospitalization (Avg 7 Day),,National,253
+202114,2020-21,Average patients with influenza in ICU,,National,46.43
+202043,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202043,2020-21,Influenza Hospital Admissions,,National,192
+202043,2020-21,Influenza Hospitalization (Avg 7 Day),,National,147.14
+202043,2020-21,Average patients with influenza in ICU,,National,33.57
+202044,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.12
+202044,2020-21,Influenza Hospital Admissions,,National,403
+202044,2020-21,Influenza Hospitalization (Avg 7 Day),,National,265.43
+202044,2020-21,Average patients with influenza in ICU,,National,50
+202126,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202126,2020-21,Influenza Hospital Admissions,,National,198
+202126,2020-21,Influenza Hospitalization (Avg 7 Day),,National,200.71
+202126,2020-21,Average patients with influenza in ICU,,National,24.71
+202127,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202127,2020-21,Influenza Hospital Admissions,,National,233
+202127,2020-21,Influenza Hospitalization (Avg 7 Day),,National,212.29
+202127,2020-21,Average patients with influenza in ICU,,National,25.86
+202115,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202115,2020-21,Influenza Hospital Admissions,,National,310
+202115,2020-21,Influenza Hospitalization (Avg 7 Day),,National,252.71
+202115,2020-21,Average patients with influenza in ICU,,National,44.29
+202120,2020-21,Influenza Hospitalization (Avg 7 Day),,National,236.43
+202120,2020-21,Average patients with influenza in ICU,,National,35.86
+202121,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202121,2020-21,Influenza Hospital Admissions,,National,211
+202121,2020-21,Influenza Hospitalization (Avg 7 Day),,National,219.57
+202121,2020-21,Average patients with influenza in ICU,,National,31.86
+202053,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.2
+202053,2020-21,Influenza Hospital Admissions,,National,654
+202053,2020-21,Influenza Hospitalization (Avg 7 Day),,National,708
+202053,2020-21,Average patients with influenza in ICU,,National,122.57
+202045,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202045,2020-21,Influenza Hospital Admissions,,National,428
+202045,2020-21,Influenza Hospitalization (Avg 7 Day),,National,351.57
+202045,2020-21,Average patients with influenza in ICU,,National,72.43
+202048,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.17
+202048,2020-21,Influenza Hospital Admissions,,National,576
+202048,2020-21,Influenza Hospitalization (Avg 7 Day),,National,519.57
+202048,2020-21,Average patients with influenza in ICU,,National,93
+202103,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202103,2020-21,Influenza Hospital Admissions,,National,441
+202103,2020-21,Influenza Hospitalization (Avg 7 Day),,National,427.29
+202103,2020-21,Average patients with influenza in ICU,,National,98.71
+202104,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.13
+202104,2020-21,Influenza Hospital Admissions,,National,443
+202104,2020-21,Influenza Hospitalization (Avg 7 Day),,National,409.57
+202104,2020-21,Average patients with influenza in ICU,,National,91.29
+202112,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.09
+202112,2020-21,Influenza Hospital Admissions,,National,307
+202112,2020-21,Influenza Hospitalization (Avg 7 Day),,National,295.14
+202112,2020-21,Average patients with influenza in ICU,,National,50.14
+202113,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.1
+202113,2020-21,Influenza Hospital Admissions,,National,337
+202121,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202121,2020-21,Influenza Hospital Admissions,,National,211
+202121,2020-21,Influenza Hospitalization (Avg 7 Day),,National,219.57
+202121,2020-21,Average patients with influenza in ICU,,National,31.86
+202129,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.08
+202129,2020-21,Influenza Hospital Admissions,,National,254
+202129,2020-21,Influenza Hospitalization (Avg 7 Day),,National,240.57
+202129,2020-21,Average patients with influenza in ICU,,National,29
+202130,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202130,2020-21,Influenza Hospital Admissions,,National,247
+202130,2020-21,Influenza Hospitalization (Avg 7 Day),,National,248.86
+202130,2020-21,Average patients with influenza in ICU,,National,29
+202138,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.06
+202138,2020-21,Influenza Hospital Admissions,,National,210
+202138,2020-21,Influenza Hospitalization (Avg 7 Day),,National,242.29
+202138,2020-21,Average patients with influenza in ICU,,National,47.43
+202139,2020-21,Influenza Hospital Admissions Rate Per 100k,,National,0.07
+202139,2020-21,Influenza Hospital Admissions,,National,222
+202139,2020-21,Influenza Hospitalization (Avg 7 Day),,National,231.71
+202139,2020-21,Average patients with influenza in ICU,,National,48

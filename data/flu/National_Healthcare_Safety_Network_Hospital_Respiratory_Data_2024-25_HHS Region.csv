@@ -1,0 +1,1293 @@
+"National Healthcare Safety Network (NHSN) Hospital Respiratory Data (downloaded on "Mar-06-2025)
+Influenza Division - Centers for Disease Control and Prevention.
+Week,Season,Measure,Region,RegionDescription,Measure_Value
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202443,2024-25,Average patients with influenza in ICU,8,HHS Region,1
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.1
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.3
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.2
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.1
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.2
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.1
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.1
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.2
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.3
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.5
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.2
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.1
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.2
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.7
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.1
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.1
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.2
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.4
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.3
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.1
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.3
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.2
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.2
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.5
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.2
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.3
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.4
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.6
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.9
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.3
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.7
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.3
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.3
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.9
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.4
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.2
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.5
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.5
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.9
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.3
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.8
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.4
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.4
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,1.4
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.5
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.4
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.6
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.7
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,1
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.5
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.9
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.5
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.5
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,2.1
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.9
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.6
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,1.5
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.6
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,1.3
+202443,2024-25,Average patients with influenza in ICU,9,HHS Region,15
+202443,2024-25,Average patients with influenza in ICU,10,HHS Region,2
+202444,2024-25,Average patients with influenza in ICU,1,HHS Region,3
+202444,2024-25,Average patients with influenza in ICU,2,HHS Region,3
+202444,2024-25,Average patients with influenza in ICU,3,HHS Region,8
+202444,2024-25,Average patients with influenza in ICU,4,HHS Region,38
+202444,2024-25,Average patients with influenza in ICU,5,HHS Region,9
+202444,2024-25,Average patients with influenza in ICU,6,HHS Region,21
+202444,2024-25,Average patients with influenza in ICU,7,HHS Region,4
+202444,2024-25,Average patients with influenza in ICU,8,HHS Region,1
+202444,2024-25,Average patients with influenza in ICU,9,HHS Region,24
+202444,2024-25,Average patients with influenza in ICU,10,HHS Region,2
+202445,2024-25,Average patients with influenza in ICU,1,HHS Region,1
+202445,2024-25,Average patients with influenza in ICU,2,HHS Region,10
+202445,2024-25,Average patients with influenza in ICU,3,HHS Region,17
+202445,2024-25,Average patients with influenza in ICU,4,HHS Region,56
+202445,2024-25,Average patients with influenza in ICU,5,HHS Region,14
+202445,2024-25,Average patients with influenza in ICU,6,HHS Region,44
+202445,2024-25,Average patients with influenza in ICU,7,HHS Region,7
+202445,2024-25,Average patients with influenza in ICU,8,HHS Region,5
+202445,2024-25,Average patients with influenza in ICU,9,HHS Region,47
+202445,2024-25,Average patients with influenza in ICU,10,HHS Region,4
+202446,2024-25,Average patients with influenza in ICU,1,HHS Region,2
+202446,2024-25,Average patients with influenza in ICU,2,HHS Region,9
+202446,2024-25,Average patients with influenza in ICU,3,HHS Region,12
+202446,2024-25,Average patients with influenza in ICU,4,HHS Region,62
+202446,2024-25,Average patients with influenza in ICU,5,HHS Region,16
+202446,2024-25,Average patients with influenza in ICU,6,HHS Region,49
+202446,2024-25,Average patients with influenza in ICU,7,HHS Region,10
+202446,2024-25,Average patients with influenza in ICU,8,HHS Region,8
+202446,2024-25,Average patients with influenza in ICU,9,HHS Region,62
+202446,2024-25,Average patients with influenza in ICU,10,HHS Region,4
+202447,2024-25,Average patients with influenza in ICU,1,HHS Region,1
+202447,2024-25,Average patients with influenza in ICU,2,HHS Region,17
+202447,2024-25,Average patients with influenza in ICU,3,HHS Region,17
+202447,2024-25,Average patients with influenza in ICU,4,HHS Region,65
+202447,2024-25,Average patients with influenza in ICU,5,HHS Region,15
+202447,2024-25,Average patients with influenza in ICU,6,HHS Region,60
+202447,2024-25,Average patients with influenza in ICU,7,HHS Region,4
+202447,2024-25,Average patients with influenza in ICU,8,HHS Region,7
+202447,2024-25,Average patients with influenza in ICU,9,HHS Region,83
+202447,2024-25,Average patients with influenza in ICU,10,HHS Region,7
+202448,2024-25,Average patients with influenza in ICU,1,HHS Region,2
+202448,2024-25,Average patients with influenza in ICU,2,HHS Region,58
+202448,2024-25,Average patients with influenza in ICU,3,HHS Region,14
+202448,2024-25,Average patients with influenza in ICU,4,HHS Region,91
+202448,2024-25,Average patients with influenza in ICU,5,HHS Region,29
+202448,2024-25,Average patients with influenza in ICU,6,HHS Region,85
+202448,2024-25,Average patients with influenza in ICU,7,HHS Region,8
+202448,2024-25,Average patients with influenza in ICU,8,HHS Region,3
+202448,2024-25,Average patients with influenza in ICU,9,HHS Region,92
+202448,2024-25,Average patients with influenza in ICU,10,HHS Region,7
+202449,2024-25,Average patients with influenza in ICU,1,HHS Region,4
+202449,2024-25,Average patients with influenza in ICU,2,HHS Region,83
+202449,2024-25,Average patients with influenza in ICU,3,HHS Region,24
+202449,2024-25,Average patients with influenza in ICU,4,HHS Region,98
+202449,2024-25,Average patients with influenza in ICU,5,HHS Region,29
+202449,2024-25,Average patients with influenza in ICU,6,HHS Region,92
+202449,2024-25,Average patients with influenza in ICU,7,HHS Region,19
+202449,2024-25,Average patients with influenza in ICU,8,HHS Region,10
+202449,2024-25,Average patients with influenza in ICU,9,HHS Region,140
+202449,2024-25,Average patients with influenza in ICU,10,HHS Region,15
+202450,2024-25,Average patients with influenza in ICU,1,HHS Region,12
+202439,2024-25,Influenza Hospital Admissions,5,HHS Region,18
+202450,2024-25,Average patients with influenza in ICU,2,HHS Region,89
+202450,2024-25,Average patients with influenza in ICU,3,HHS Region,41
+202450,2024-25,Average patients with influenza in ICU,4,HHS Region,165
+202450,2024-25,Average patients with influenza in ICU,5,HHS Region,60
+202450,2024-25,Average patients with influenza in ICU,6,HHS Region,123
+202450,2024-25,Average patients with influenza in ICU,7,HHS Region,16
+202450,2024-25,Average patients with influenza in ICU,8,HHS Region,18
+202450,2024-25,Average patients with influenza in ICU,9,HHS Region,159
+202450,2024-25,Average patients with influenza in ICU,10,HHS Region,24
+202451,2024-25,Average patients with influenza in ICU,1,HHS Region,13
+202451,2024-25,Average patients with influenza in ICU,2,HHS Region,77
+202451,2024-25,Average patients with influenza in ICU,3,HHS Region,60
+202451,2024-25,Average patients with influenza in ICU,4,HHS Region,280
+202451,2024-25,Average patients with influenza in ICU,5,HHS Region,105
+202451,2024-25,Average patients with influenza in ICU,6,HHS Region,169
+202451,2024-25,Average patients with influenza in ICU,7,HHS Region,34
+202451,2024-25,Average patients with influenza in ICU,8,HHS Region,33
+202451,2024-25,Average patients with influenza in ICU,9,HHS Region,241
+202451,2024-25,Average patients with influenza in ICU,10,HHS Region,64
+202452,2024-25,Average patients with influenza in ICU,1,HHS Region,32
+202452,2024-25,Average patients with influenza in ICU,2,HHS Region,144
+202452,2024-25,Average patients with influenza in ICU,3,HHS Region,97
+202452,2024-25,Average patients with influenza in ICU,4,HHS Region,455
+202452,2024-25,Average patients with influenza in ICU,5,HHS Region,190
+202452,2024-25,Average patients with influenza in ICU,6,HHS Region,253
+202452,2024-25,Average patients with influenza in ICU,7,HHS Region,75
+202452,2024-25,Average patients with influenza in ICU,8,HHS Region,45
+202452,2024-25,Average patients with influenza in ICU,9,HHS Region,387
+202452,2024-25,Average patients with influenza in ICU,10,HHS Region,81
+202501,2024-25,Average patients with influenza in ICU,1,HHS Region,51
+202501,2024-25,Average patients with influenza in ICU,2,HHS Region,280
+202501,2024-25,Average patients with influenza in ICU,3,HHS Region,210
+202501,2024-25,Average patients with influenza in ICU,4,HHS Region,796
+202501,2024-25,Average patients with influenza in ICU,5,HHS Region,388
+202501,2024-25,Average patients with influenza in ICU,6,HHS Region,388
+202501,2024-25,Average patients with influenza in ICU,7,HHS Region,172
+202501,2024-25,Average patients with influenza in ICU,8,HHS Region,101
+202501,2024-25,Average patients with influenza in ICU,9,HHS Region,584
+202501,2024-25,Average patients with influenza in ICU,10,HHS Region,107
+202502,2024-25,Average patients with influenza in ICU,1,HHS Region,68
+202502,2024-25,Average patients with influenza in ICU,2,HHS Region,371
+202502,2024-25,Average patients with influenza in ICU,3,HHS Region,238
+202502,2024-25,Average patients with influenza in ICU,4,HHS Region,835
+202502,2024-25,Average patients with influenza in ICU,5,HHS Region,446
+202502,2024-25,Average patients with influenza in ICU,6,HHS Region,406
+202502,2024-25,Average patients with influenza in ICU,7,HHS Region,163
+202502,2024-25,Average patients with influenza in ICU,8,HHS Region,106
+202502,2024-25,Average patients with influenza in ICU,9,HHS Region,522
+202502,2024-25,Average patients with influenza in ICU,10,HHS Region,61
+202503,2024-25,Average patients with influenza in ICU,1,HHS Region,103
+202503,2024-25,Average patients with influenza in ICU,2,HHS Region,380
+202503,2024-25,Average patients with influenza in ICU,3,HHS Region,237
+202503,2024-25,Average patients with influenza in ICU,4,HHS Region,876
+202503,2024-25,Average patients with influenza in ICU,5,HHS Region,505
+202503,2024-25,Average patients with influenza in ICU,6,HHS Region,447
+202503,2024-25,Average patients with influenza in ICU,7,HHS Region,153
+202503,2024-25,Average patients with influenza in ICU,8,HHS Region,103
+202503,2024-25,Average patients with influenza in ICU,9,HHS Region,543
+202503,2024-25,Average patients with influenza in ICU,10,HHS Region,84
+202504,2024-25,Average patients with influenza in ICU,1,HHS Region,139
+202504,2024-25,Average patients with influenza in ICU,2,HHS Region,517
+202504,2024-25,Average patients with influenza in ICU,3,HHS Region,301
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.5
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,1.5
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.5
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.8
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,2.7
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,1.3
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.8
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,2.6
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,1
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,1.7
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.8
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,2
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.8
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,1.3
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,4
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,2
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,1.4
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,3
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,1.7
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,2.7
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,1.6
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,2.6
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,1.5
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,2.1
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,5
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,3.5
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,1.6
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,4.4
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,2.5
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,4.6
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,3
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,4.4
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,3.4
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,3.2
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,8.2
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,6.9
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,3.6
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,7.1
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,5.7
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,8.5
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,6.9
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,7.4
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,7.5
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,7.6
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,11.9
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,9.8
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,7.5
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,15.2
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,10.3
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,11.3
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,10.5
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,9.2
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,10.7
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,11.4
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,14.1
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,9.3
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,7.4
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,14.2
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,8.6
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,9.1
+202504,2024-25,Average patients with influenza in ICU,4,HHS Region,1013
+202504,2024-25,Average patients with influenza in ICU,5,HHS Region,556
+202504,2024-25,Average patients with influenza in ICU,6,HHS Region,544
+202504,2024-25,Average patients with influenza in ICU,7,HHS Region,134
+202504,2024-25,Average patients with influenza in ICU,8,HHS Region,105
+202504,2024-25,Average patients with influenza in ICU,9,HHS Region,551
+202504,2024-25,Average patients with influenza in ICU,10,HHS Region,77
+202505,2024-25,Average patients with influenza in ICU,1,HHS Region,174
+202505,2024-25,Average patients with influenza in ICU,2,HHS Region,542
+202505,2024-25,Average patients with influenza in ICU,3,HHS Region,391
+202505,2024-25,Average patients with influenza in ICU,4,HHS Region,1310
+202505,2024-25,Average patients with influenza in ICU,5,HHS Region,802
+202505,2024-25,Average patients with influenza in ICU,6,HHS Region,758
+202505,2024-25,Average patients with influenza in ICU,7,HHS Region,191
+202505,2024-25,Average patients with influenza in ICU,8,HHS Region,109
+202505,2024-25,Average patients with influenza in ICU,9,HHS Region,561
+202505,2024-25,Average patients with influenza in ICU,10,HHS Region,104
+202506,2024-25,Average patients with influenza in ICU,1,HHS Region,203
+202506,2024-25,Average patients with influenza in ICU,2,HHS Region,517
+202506,2024-25,Average patients with influenza in ICU,3,HHS Region,527
+202506,2024-25,Average patients with influenza in ICU,4,HHS Region,1525
+202506,2024-25,Average patients with influenza in ICU,5,HHS Region,944
+202506,2024-25,Average patients with influenza in ICU,6,HHS Region,849
+202506,2024-25,Average patients with influenza in ICU,7,HHS Region,266
+202506,2024-25,Average patients with influenza in ICU,8,HHS Region,112
+202506,2024-25,Average patients with influenza in ICU,9,HHS Region,530
+202506,2024-25,Average patients with influenza in ICU,10,HHS Region,124
+202507,2024-25,Average patients with influenza in ICU,1,HHS Region,190
+202507,2024-25,Average patients with influenza in ICU,2,HHS Region,489
+202507,2024-25,Average patients with influenza in ICU,3,HHS Region,569
+202507,2024-25,Average patients with influenza in ICU,4,HHS Region,1251
+202507,2024-25,Average patients with influenza in ICU,5,HHS Region,1151
+202507,2024-25,Average patients with influenza in ICU,6,HHS Region,693
+202507,2024-25,Average patients with influenza in ICU,7,HHS Region,296
+202507,2024-25,Average patients with influenza in ICU,8,HHS Region,122
+202507,2024-25,Average patients with influenza in ICU,9,HHS Region,478
+202507,2024-25,Average patients with influenza in ICU,10,HHS Region,118
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,9.1
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,7.2
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,9.1
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,7.6
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,9.6
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,6.1
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,8.5
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,13.2
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,11.7
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,10.1
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,9.5
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,8.6
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,7.8
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,7.1
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,9.3
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,5.5
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,11.8
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,14.9
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,15.1
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,12.5
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,12.6
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,11.4
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,9.4
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,7.6
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,10.1
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,5.6
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,15.4
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,15.1
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,19.6
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,16
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,16.7
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,16
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,15
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,9.4
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,10.6
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,8.6
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,18.6
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,15.2
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,23
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,16
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,19.1
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,14.6
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,17.9
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,11
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,8.9
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,10.2
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,16.1
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,12.8
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,23.4
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,11
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,18.4
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,8.9
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,15
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,9.7
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,7
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,8.8
+202439,2024-25,Influenza Hospital Admissions,1,HHS Region,3
+202439,2024-25,Influenza Hospital Admissions,2,HHS Region,16
+202439,2024-25,Influenza Hospital Admissions,3,HHS Region,52
+202439,2024-25,Influenza Hospital Admissions,4,HHS Region,63
+202439,2024-25,Influenza Hospital Admissions,6,HHS Region,10
+202451,2024-25,Influenza Hospital Admissions,10,HHS Region,1005
+202439,2024-25,Influenza Hospital Admissions,7,HHS Region,7
+202439,2024-25,Influenza Hospital Admissions,8,HHS Region,5
+202439,2024-25,Influenza Hospital Admissions,9,HHS Region,42
+202439,2024-25,Influenza Hospital Admissions,10,HHS Region,7
+202440,2024-25,Influenza Hospital Admissions,1,HHS Region,4
+202440,2024-25,Influenza Hospital Admissions,2,HHS Region,27
+202440,2024-25,Influenza Hospital Admissions,3,HHS Region,68
+202440,2024-25,Influenza Hospital Admissions,4,HHS Region,69
+202440,2024-25,Influenza Hospital Admissions,5,HHS Region,19
+202440,2024-25,Influenza Hospital Admissions,6,HHS Region,11
+202440,2024-25,Influenza Hospital Admissions,7,HHS Region,1
+202440,2024-25,Influenza Hospital Admissions,8,HHS Region,5
+202440,2024-25,Influenza Hospital Admissions,9,HHS Region,72
+202440,2024-25,Influenza Hospital Admissions,10,HHS Region,11
+202441,2024-25,Influenza Hospital Admissions,1,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions,2,HHS Region,9
+202441,2024-25,Influenza Hospital Admissions,3,HHS Region,45
+202441,2024-25,Influenza Hospital Admissions,4,HHS Region,98
+202441,2024-25,Influenza Hospital Admissions,5,HHS Region,7
+202441,2024-25,Influenza Hospital Admissions,6,HHS Region,81
+202441,2024-25,Influenza Hospital Admissions,7,HHS Region,1
+202441,2024-25,Influenza Hospital Admissions,8,HHS Region,2
+202441,2024-25,Influenza Hospital Admissions,9,HHS Region,35
+202441,2024-25,Influenza Hospital Admissions,10,HHS Region,17
+202442,2024-25,Influenza Hospital Admissions,1,HHS Region,6
+202442,2024-25,Influenza Hospital Admissions,2,HHS Region,11
+202442,2024-25,Influenza Hospital Admissions,3,HHS Region,23
+202442,2024-25,Influenza Hospital Admissions,4,HHS Region,215
+202442,2024-25,Influenza Hospital Admissions,5,HHS Region,118
+202442,2024-25,Influenza Hospital Admissions,6,HHS Region,63
+202442,2024-25,Influenza Hospital Admissions,7,HHS Region,4
+202442,2024-25,Influenza Hospital Admissions,8,HHS Region,6
+202442,2024-25,Influenza Hospital Admissions,9,HHS Region,95
+202442,2024-25,Influenza Hospital Admissions,10,HHS Region,12
+202443,2024-25,Influenza Hospital Admissions,1,HHS Region,6
+202443,2024-25,Influenza Hospital Admissions,2,HHS Region,21
+202443,2024-25,Influenza Hospital Admissions,3,HHS Region,73
+202443,2024-25,Influenza Hospital Admissions,4,HHS Region,221
+202443,2024-25,Influenza Hospital Admissions,5,HHS Region,255
+202443,2024-25,Influenza Hospital Admissions,6,HHS Region,107
+202443,2024-25,Influenza Hospital Admissions,7,HHS Region,16
+202443,2024-25,Influenza Hospital Admissions,8,HHS Region,28
+202443,2024-25,Influenza Hospital Admissions,9,HHS Region,340
+202443,2024-25,Influenza Hospital Admissions,10,HHS Region,15
+202444,2024-25,Influenza Hospital Admissions,1,HHS Region,16
+202444,2024-25,Influenza Hospital Admissions,2,HHS Region,57
+202444,2024-25,Influenza Hospital Admissions,3,HHS Region,118
+202444,2024-25,Influenza Hospital Admissions,4,HHS Region,229
+202444,2024-25,Influenza Hospital Admissions,5,HHS Region,74
+202444,2024-25,Influenza Hospital Admissions,6,HHS Region,141
+202444,2024-25,Influenza Hospital Admissions,7,HHS Region,30
+202444,2024-25,Influenza Hospital Admissions,8,HHS Region,29
+202444,2024-25,Influenza Hospital Admissions,9,HHS Region,259
+202444,2024-25,Influenza Hospital Admissions,10,HHS Region,23
+202445,2024-25,Influenza Hospital Admissions,1,HHS Region,43
+202445,2024-25,Influenza Hospital Admissions,2,HHS Region,128
+202445,2024-25,Influenza Hospital Admissions,3,HHS Region,187
+202445,2024-25,Influenza Hospital Admissions,4,HHS Region,600
+202445,2024-25,Influenza Hospital Admissions,5,HHS Region,153
+202445,2024-25,Influenza Hospital Admissions,6,HHS Region,307
+202445,2024-25,Influenza Hospital Admissions,7,HHS Region,45
+202445,2024-25,Influenza Hospital Admissions,8,HHS Region,34
+202445,2024-25,Influenza Hospital Admissions,9,HHS Region,484
+202445,2024-25,Influenza Hospital Admissions,10,HHS Region,52
+202446,2024-25,Influenza Hospital Admissions,1,HHS Region,30
+202446,2024-25,Influenza Hospital Admissions,2,HHS Region,177
+202446,2024-25,Influenza Hospital Admissions,3,HHS Region,157
+202446,2024-25,Influenza Hospital Admissions,4,HHS Region,649
+202446,2024-25,Influenza Hospital Admissions,5,HHS Region,160
+202446,2024-25,Influenza Hospital Admissions,6,HHS Region,354
+202446,2024-25,Influenza Hospital Admissions,7,HHS Region,51
+202446,2024-25,Influenza Hospital Admissions,8,HHS Region,48
+202446,2024-25,Influenza Hospital Admissions,9,HHS Region,737
+202446,2024-25,Influenza Hospital Admissions,10,HHS Region,78
+202447,2024-25,Influenza Hospital Admissions,1,HHS Region,62
+202447,2024-25,Influenza Hospital Admissions,2,HHS Region,192
+202447,2024-25,Influenza Hospital Admissions,3,HHS Region,204
+202447,2024-25,Influenza Hospital Admissions,4,HHS Region,675
+202447,2024-25,Influenza Hospital Admissions,5,HHS Region,244
+202447,2024-25,Influenza Hospital Admissions,6,HHS Region,401
+202447,2024-25,Influenza Hospital Admissions,7,HHS Region,65
+202447,2024-25,Influenza Hospital Admissions,8,HHS Region,63
+202447,2024-25,Influenza Hospital Admissions,9,HHS Region,1057
+202447,2024-25,Influenza Hospital Admissions,10,HHS Region,127
+202448,2024-25,Influenza Hospital Admissions,1,HHS Region,98
+202448,2024-25,Influenza Hospital Admissions,2,HHS Region,491
+202448,2024-25,Influenza Hospital Admissions,3,HHS Region,196
+202448,2024-25,Influenza Hospital Admissions,4,HHS Region,899
+202448,2024-25,Influenza Hospital Admissions,5,HHS Region,274
+202448,2024-25,Influenza Hospital Admissions,6,HHS Region,651
+202448,2024-25,Influenza Hospital Admissions,7,HHS Region,76
+202448,2024-25,Influenza Hospital Admissions,8,HHS Region,102
+202448,2024-25,Influenza Hospital Admissions,9,HHS Region,1362
+202448,2024-25,Influenza Hospital Admissions,10,HHS Region,198
+202449,2024-25,Influenza Hospital Admissions,1,HHS Region,125
+202449,2024-25,Influenza Hospital Admissions,2,HHS Region,823
+202449,2024-25,Influenza Hospital Admissions,3,HHS Region,310
+202449,2024-25,Influenza Hospital Admissions,4,HHS Region,1199
+202449,2024-25,Influenza Hospital Admissions,5,HHS Region,419
+202449,2024-25,Influenza Hospital Admissions,6,HHS Region,864
+202449,2024-25,Influenza Hospital Admissions,7,HHS Region,112
+202449,2024-25,Influenza Hospital Admissions,8,HHS Region,164
+202449,2024-25,Influenza Hospital Admissions,9,HHS Region,2049
+202449,2024-25,Influenza Hospital Admissions,10,HHS Region,290
+202450,2024-25,Influenza Hospital Admissions,1,HHS Region,210
+202450,2024-25,Influenza Hospital Admissions,2,HHS Region,978
+202450,2024-25,Influenza Hospital Admissions,3,HHS Region,522
+202450,2024-25,Influenza Hospital Admissions,4,HHS Region,1877
+202450,2024-25,Influenza Hospital Admissions,5,HHS Region,855
+202450,2024-25,Influenza Hospital Admissions,6,HHS Region,1165
+202450,2024-25,Influenza Hospital Admissions,7,HHS Region,211
+202450,2024-25,Influenza Hospital Admissions,8,HHS Region,260
+202450,2024-25,Influenza Hospital Admissions,9,HHS Region,2548
+202450,2024-25,Influenza Hospital Admissions,10,HHS Region,515
+202451,2024-25,Influenza Hospital Admissions,1,HHS Region,243
+202451,2024-25,Influenza Hospital Admissions,2,HHS Region,1429
+202451,2024-25,Influenza Hospital Admissions,3,HHS Region,787
+202451,2024-25,Influenza Hospital Admissions,4,HHS Region,3187
+202451,2024-25,Influenza Hospital Admissions,5,HHS Region,1580
+202451,2024-25,Influenza Hospital Admissions,6,HHS Region,1953
+202451,2024-25,Influenza Hospital Admissions,7,HHS Region,482
+202451,2024-25,Influenza Hospital Admissions,8,HHS Region,404
+202451,2024-25,Influenza Hospital Admissions,9,HHS Region,4191
+202452,2024-25,Influenza Hospital Admissions,1,HHS Region,551
+202452,2024-25,Influenza Hospital Admissions,2,HHS Region,2294
+202452,2024-25,Influenza Hospital Admissions,3,HHS Region,1782
+202452,2024-25,Influenza Hospital Admissions,4,HHS Region,5867
+202452,2024-25,Influenza Hospital Admissions,5,HHS Region,3648
+202452,2024-25,Influenza Hospital Admissions,6,HHS Region,3276
+202452,2024-25,Influenza Hospital Admissions,7,HHS Region,1072
+202452,2024-25,Influenza Hospital Admissions,8,HHS Region,967
+202452,2024-25,Influenza Hospital Admissions,9,HHS Region,6100
+202452,2024-25,Influenza Hospital Admissions,10,HHS Region,1442
+202501,2024-25,Influenza Hospital Admissions,1,HHS Region,1131
+202501,2024-25,Influenza Hospital Admissions,2,HHS Region,4898
+202501,2024-25,Influenza Hospital Admissions,3,HHS Region,3200
+202501,2024-25,Influenza Hospital Admissions,4,HHS Region,7814
+202501,2024-25,Influenza Hospital Admissions,5,HHS Region,5555
+202501,2024-25,Influenza Hospital Admissions,6,HHS Region,4044
+202501,2024-25,Influenza Hospital Admissions,7,HHS Region,1525
+202501,2024-25,Influenza Hospital Admissions,8,HHS Region,1438
+202501,2024-25,Influenza Hospital Admissions,9,HHS Region,7183
+202501,2024-25,Influenza Hospital Admissions,10,HHS Region,1367
+202502,2024-25,Influenza Hospital Admissions,1,HHS Region,1118
+202502,2024-25,Influenza Hospital Admissions,2,HHS Region,4572
+202502,2024-25,Influenza Hospital Admissions,3,HHS Region,2678
+202502,2024-25,Influenza Hospital Admissions,4,HHS Region,6298
+202502,2024-25,Influenza Hospital Admissions,5,HHS Region,4819
+202502,2024-25,Influenza Hospital Admissions,6,HHS Region,3164
+202502,2024-25,Influenza Hospital Admissions,7,HHS Region,1300
+202502,2024-25,Influenza Hospital Admissions,8,HHS Region,967
+202502,2024-25,Influenza Hospital Admissions,9,HHS Region,4897
+202502,2024-25,Influenza Hospital Admissions,10,HHS Region,889
+202503,2024-25,Influenza Hospital Admissions,1,HHS Region,1293
+202503,2024-25,Influenza Hospital Admissions,2,HHS Region,4241
+202503,2024-25,Influenza Hospital Admissions,3,HHS Region,3664
+202503,2024-25,Influenza Hospital Admissions,4,HHS Region,6992
+202503,2024-25,Influenza Hospital Admissions,5,HHS Region,5006
+202503,2024-25,Influenza Hospital Admissions,6,HHS Region,3802
+202503,2024-25,Influenza Hospital Admissions,7,HHS Region,1119
+202503,2024-25,Influenza Hospital Admissions,8,HHS Region,901
+202503,2024-25,Influenza Hospital Admissions,9,HHS Region,4744
+202503,2024-25,Influenza Hospital Admissions,10,HHS Region,808
+202504,2024-25,Influenza Hospital Admissions,1,HHS Region,1786
+202504,2024-25,Influenza Hospital Admissions,2,HHS Region,4809
+202504,2024-25,Influenza Hospital Admissions,3,HHS Region,4724
+202504,2024-25,Influenza Hospital Admissions,4,HHS Region,8648
+202504,2024-25,Influenza Hospital Admissions,5,HHS Region,6659
+202504,2024-25,Influenza Hospital Admissions,6,HHS Region,5037
+202504,2024-25,Influenza Hospital Admissions,7,HHS Region,1341
+202504,2024-25,Influenza Hospital Admissions,8,HHS Region,964
+202504,2024-25,Influenza Hospital Admissions,9,HHS Region,5177
+202504,2024-25,Influenza Hospital Admissions,10,HHS Region,820
+202505,2024-25,Influenza Hospital Admissions,1,HHS Region,2335
+202505,2024-25,Influenza Hospital Admissions,2,HHS Region,4872
+202505,2024-25,Influenza Hospital Admissions,3,HHS Region,6130
+202505,2024-25,Influenza Hospital Admissions,4,HHS Region,11074
+202505,2024-25,Influenza Hospital Admissions,5,HHS Region,8820
+202505,2024-25,Influenza Hospital Admissions,6,HHS Region,7077
+202505,2024-25,Influenza Hospital Admissions,7,HHS Region,2149
+202505,2024-25,Influenza Hospital Admissions,8,HHS Region,1193
+202505,2024-25,Influenza Hospital Admissions,9,HHS Region,5414
+202505,2024-25,Influenza Hospital Admissions,10,HHS Region,1265
+202506,2024-25,Influenza Hospital Admissions,1,HHS Region,2824
+202506,2024-25,Influenza Hospital Admissions,2,HHS Region,4904
+202506,2024-25,Influenza Hospital Admissions,3,HHS Region,7169
+202506,2024-25,Influenza Hospital Admissions,4,HHS Region,11047
+202506,2024-25,Influenza Hospital Admissions,5,HHS Region,10080
+202506,2024-25,Influenza Hospital Admissions,6,HHS Region,6453
+202506,2024-25,Influenza Hospital Admissions,7,HHS Region,2559
+202506,2024-25,Influenza Hospital Admissions,8,HHS Region,1388
+202506,2024-25,Influenza Hospital Admissions,9,HHS Region,4528
+202506,2024-25,Influenza Hospital Admissions,10,HHS Region,1495
+202507,2024-25,Influenza Hospital Admissions,1,HHS Region,2433
+202507,2024-25,Influenza Hospital Admissions,2,HHS Region,4134
+202507,2024-25,Influenza Hospital Admissions,3,HHS Region,7290
+202507,2024-25,Influenza Hospital Admissions,4,HHS Region,7619
+202507,2024-25,Influenza Hospital Admissions,5,HHS Region,9746
+202507,2024-25,Influenza Hospital Admissions,6,HHS Region,3943
+202507,2024-25,Influenza Hospital Admissions,7,HHS Region,2146
+202507,2024-25,Influenza Hospital Admissions,8,HHS Region,1227
+202507,2024-25,Influenza Hospital Admissions,9,HHS Region,3581
+202507,2024-25,Influenza Hospital Admissions,10,HHS Region,1292
+202439,2024-25,Average patients with influenza in ICU,1,HHS Region,0.43
+202439,2024-25,Average patients with influenza in ICU,2,HHS Region,3.14
+202439,2024-25,Average patients with influenza in ICU,3,HHS Region,6.71
+202439,2024-25,Average patients with influenza in ICU,4,HHS Region,3.34
+202439,2024-25,Average patients with influenza in ICU,5,HHS Region,4.79
+202439,2024-25,Average patients with influenza in ICU,6,HHS Region,0
+202439,2024-25,Average patients with influenza in ICU,7,HHS Region,0
+202439,2024-25,Average patients with influenza in ICU,8,HHS Region,0.14
+202439,2024-25,Average patients with influenza in ICU,9,HHS Region,1.29
+202439,2024-25,Average patients with influenza in ICU,10,HHS Region,1.43
+202440,2024-25,Average patients with influenza in ICU,1,HHS Region,0.57
+202440,2024-25,Average patients with influenza in ICU,2,HHS Region,2.58
+202440,2024-25,Average patients with influenza in ICU,3,HHS Region,6.14
+202440,2024-25,Average patients with influenza in ICU,4,HHS Region,5.71
+202440,2024-25,Average patients with influenza in ICU,5,HHS Region,3.38
+202440,2024-25,Average patients with influenza in ICU,6,HHS Region,0.14
+202440,2024-25,Average patients with influenza in ICU,7,HHS Region,0
+202440,2024-25,Average patients with influenza in ICU,8,HHS Region,0
+202440,2024-25,Average patients with influenza in ICU,9,HHS Region,3.72
+202440,2024-25,Average patients with influenza in ICU,10,HHS Region,0.29
+202441,2024-25,Average patients with influenza in ICU,1,HHS Region,0
+202441,2024-25,Average patients with influenza in ICU,2,HHS Region,0
+202441,2024-25,Average patients with influenza in ICU,3,HHS Region,2
+202441,2024-25,Average patients with influenza in ICU,4,HHS Region,9
+202441,2024-25,Average patients with influenza in ICU,5,HHS Region,1
+202441,2024-25,Average patients with influenza in ICU,6,HHS Region,4
+202441,2024-25,Average patients with influenza in ICU,7,HHS Region,0
+202441,2024-25,Average patients with influenza in ICU,8,HHS Region,0
+202441,2024-25,Average patients with influenza in ICU,9,HHS Region,5
+202441,2024-25,Average patients with influenza in ICU,10,HHS Region,0
+202442,2024-25,Average patients with influenza in ICU,1,HHS Region,0
+202442,2024-25,Average patients with influenza in ICU,2,HHS Region,2
+202442,2024-25,Average patients with influenza in ICU,3,HHS Region,3
+202442,2024-25,Average patients with influenza in ICU,4,HHS Region,32
+202442,2024-25,Average patients with influenza in ICU,5,HHS Region,19
+202442,2024-25,Average patients with influenza in ICU,6,HHS Region,9
+202442,2024-25,Average patients with influenza in ICU,7,HHS Region,2
+202442,2024-25,Average patients with influenza in ICU,8,HHS Region,1
+202442,2024-25,Average patients with influenza in ICU,9,HHS Region,3
+202442,2024-25,Average patients with influenza in ICU,10,HHS Region,1
+202443,2024-25,Average patients with influenza in ICU,1,HHS Region,3
+202443,2024-25,Average patients with influenza in ICU,2,HHS Region,4
+202443,2024-25,Average patients with influenza in ICU,3,HHS Region,6
+202443,2024-25,Average patients with influenza in ICU,4,HHS Region,47
+202443,2024-25,Average patients with influenza in ICU,5,HHS Region,79
+202443,2024-25,Average patients with influenza in ICU,6,HHS Region,20
+202443,2024-25,Average patients with influenza in ICU,7,HHS Region,1
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.2
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.1
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.1
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.1
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.2
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.1
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.1
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.1
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.1
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.1
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.2
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.1
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.1
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.2
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.1
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.1
+202439,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.1
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.2
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.1
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.1
+202440,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.1
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.1
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.1
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.2
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.1
+202441,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.1
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.1
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.3
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.2
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.1
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.2
+202442,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.1
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.1
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.2
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.3
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.5
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.2
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.1
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.2
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.7
+202443,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.1
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.1
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.2
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.4
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.3
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.1
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.3
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.2
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.2
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.5
+202444,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.2
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.3
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.4
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.6
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.9
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.3
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.7
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.3
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.3
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,0.9
+202445,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.4
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.2
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.5
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.5
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,0.9
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.3
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.8
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.4
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.4
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,1.4
+202446,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.5
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.4
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,0.6
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.7
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,1
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.5
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,0.9
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.5
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.5
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,2.1
+202447,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,0.9
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.6
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,1.5
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,0.6
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,1.3
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.5
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,1.5
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.5
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,0.8
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,2.7
+202448,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,1.3
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,0.8
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,2.6
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,1
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,1.7
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,0.8
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,2
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,0.8
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,1.3
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,4
+202449,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,2
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,1.4
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,3
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,1.7
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,2.7
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,1.6
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,2.6
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,1.5
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,2.1
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,5
+202450,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,3.5
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,1.6
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,4.4
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,2.5
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,4.6
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,3
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,4.4
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,3.4
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,3.2
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,8.2
+202451,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,6.9
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,3.6
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,7.1
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,5.7
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,8.5
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,6.9
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,7.4
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,7.5
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,7.6
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,11.9
+202452,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,9.8
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,7.5
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,15.2
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,10.3
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,11.3
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,10.5
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,9.2
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,10.7
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,11.4
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,14.1
+202501,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,9.3
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,7.4
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,14.2
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,8.6
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,9.1
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,9.1
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,7.2
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,9.2
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,7.6
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,9.6
+202502,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,6
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,8.5
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,13.2
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,11.7
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,10.1
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,9.5
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,8.6
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,7.9
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,7.1
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,9.3
+202503,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,5.5
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,11.8
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,14.9
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,15.1
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,12.5
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,12.6
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,11.4
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,9.4
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,7.6
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,10.1
+202504,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,5.5
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,15.4
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,15.1
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,19.6
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,16
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,16.7
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,16
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,15.1
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,9.4
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,10.6
+202505,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,8.6
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,18.6
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,15.2
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,23
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,16.1
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,19.1
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,14.6
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,18
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,11
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,8.9
+202506,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,10.2
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,17.8
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,13
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,23.5
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,11.3
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,18.6
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,9.2
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,15.6
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,9.9
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,7.1
+202507,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,9.3
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,1,HHS Region,15.2
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,2,HHS Region,10.3
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,3,HHS Region,18.6
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,4,HHS Region,8.3
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,5,HHS Region,17
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,6,HHS Region,7.1
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,7,HHS Region,13.9
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,8,HHS Region,8.9
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,9,HHS Region,5.7
+202508,2024-25,Influenza Hospital Admissions Rate Per 100k,10,HHS Region,9.3
+202439,2024-25,Influenza Hospital Admissions,1,HHS Region,3
+202439,2024-25,Influenza Hospital Admissions,2,HHS Region,16
+202439,2024-25,Influenza Hospital Admissions,3,HHS Region,52
+202439,2024-25,Influenza Hospital Admissions,4,HHS Region,63
+202439,2024-25,Influenza Hospital Admissions,5,HHS Region,18
+202439,2024-25,Influenza Hospital Admissions,6,HHS Region,10
+202439,2024-25,Influenza Hospital Admissions,7,HHS Region,7
+202439,2024-25,Influenza Hospital Admissions,8,HHS Region,5
+202439,2024-25,Influenza Hospital Admissions,9,HHS Region,42
+202439,2024-25,Influenza Hospital Admissions,10,HHS Region,7
+202440,2024-25,Influenza Hospital Admissions,1,HHS Region,4
+202440,2024-25,Influenza Hospital Admissions,2,HHS Region,27
+202440,2024-25,Influenza Hospital Admissions,3,HHS Region,68
+202440,2024-25,Influenza Hospital Admissions,4,HHS Region,69
+202440,2024-25,Influenza Hospital Admissions,5,HHS Region,19
+202440,2024-25,Influenza Hospital Admissions,6,HHS Region,11
+202440,2024-25,Influenza Hospital Admissions,7,HHS Region,1
+202440,2024-25,Influenza Hospital Admissions,8,HHS Region,5
+202440,2024-25,Influenza Hospital Admissions,9,HHS Region,72
+202440,2024-25,Influenza Hospital Admissions,10,HHS Region,11
+202441,2024-25,Influenza Hospital Admissions,1,HHS Region,0
+202441,2024-25,Influenza Hospital Admissions,2,HHS Region,9
+202441,2024-25,Influenza Hospital Admissions,3,HHS Region,45
+202441,2024-25,Influenza Hospital Admissions,4,HHS Region,98
+202441,2024-25,Influenza Hospital Admissions,5,HHS Region,7
+202441,2024-25,Influenza Hospital Admissions,6,HHS Region,81
+202441,2024-25,Influenza Hospital Admissions,7,HHS Region,1
+202441,2024-25,Influenza Hospital Admissions,8,HHS Region,2
+202441,2024-25,Influenza Hospital Admissions,9,HHS Region,35
+202441,2024-25,Influenza Hospital Admissions,10,HHS Region,17
+202442,2024-25,Influenza Hospital Admissions,1,HHS Region,6
+202442,2024-25,Influenza Hospital Admissions,2,HHS Region,11
+202442,2024-25,Influenza Hospital Admissions,3,HHS Region,23
+202442,2024-25,Influenza Hospital Admissions,4,HHS Region,215
+202442,2024-25,Influenza Hospital Admissions,5,HHS Region,118
+202442,2024-25,Influenza Hospital Admissions,6,HHS Region,63
+202442,2024-25,Influenza Hospital Admissions,7,HHS Region,4
+202442,2024-25,Influenza Hospital Admissions,8,HHS Region,6
+202442,2024-25,Influenza Hospital Admissions,9,HHS Region,95
+202442,2024-25,Influenza Hospital Admissions,10,HHS Region,12
+202443,2024-25,Influenza Hospital Admissions,1,HHS Region,6
+202443,2024-25,Influenza Hospital Admissions,2,HHS Region,21
+202443,2024-25,Influenza Hospital Admissions,3,HHS Region,73
+202443,2024-25,Influenza Hospital Admissions,4,HHS Region,221
+202443,2024-25,Influenza Hospital Admissions,5,HHS Region,255
+202443,2024-25,Influenza Hospital Admissions,6,HHS Region,107
+202443,2024-25,Influenza Hospital Admissions,7,HHS Region,16
+202443,2024-25,Influenza Hospital Admissions,8,HHS Region,28
+202443,2024-25,Influenza Hospital Admissions,9,HHS Region,340
+202443,2024-25,Influenza Hospital Admissions,10,HHS Region,15
+202444,2024-25,Influenza Hospital Admissions,1,HHS Region,16
+202444,2024-25,Influenza Hospital Admissions,2,HHS Region,57
+202444,2024-25,Influenza Hospital Admissions,3,HHS Region,118
+202444,2024-25,Influenza Hospital Admissions,4,HHS Region,229
+202444,2024-25,Influenza Hospital Admissions,5,HHS Region,74
+202444,2024-25,Influenza Hospital Admissions,6,HHS Region,141
+202444,2024-25,Influenza Hospital Admissions,7,HHS Region,30
+202444,2024-25,Influenza Hospital Admissions,8,HHS Region,29
+202444,2024-25,Influenza Hospital Admissions,9,HHS Region,259
+202444,2024-25,Influenza Hospital Admissions,10,HHS Region,23
+202445,2024-25,Influenza Hospital Admissions,1,HHS Region,43
+202445,2024-25,Influenza Hospital Admissions,2,HHS Region,128
+202445,2024-25,Influenza Hospital Admissions,3,HHS Region,187
+202445,2024-25,Influenza Hospital Admissions,4,HHS Region,600
+202445,2024-25,Influenza Hospital Admissions,5,HHS Region,153
+202445,2024-25,Influenza Hospital Admissions,6,HHS Region,307
+202445,2024-25,Influenza Hospital Admissions,7,HHS Region,45
+202445,2024-25,Influenza Hospital Admissions,8,HHS Region,34
+202445,2024-25,Influenza Hospital Admissions,9,HHS Region,484
+202445,2024-25,Influenza Hospital Admissions,10,HHS Region,52
+202446,2024-25,Influenza Hospital Admissions,1,HHS Region,30
+202446,2024-25,Influenza Hospital Admissions,2,HHS Region,177
+202446,2024-25,Influenza Hospital Admissions,3,HHS Region,157
+202446,2024-25,Influenza Hospital Admissions,4,HHS Region,649
+202446,2024-25,Influenza Hospital Admissions,5,HHS Region,160
+202446,2024-25,Influenza Hospital Admissions,6,HHS Region,354
+202446,2024-25,Influenza Hospital Admissions,7,HHS Region,51
+202446,2024-25,Influenza Hospital Admissions,8,HHS Region,48
+202446,2024-25,Influenza Hospital Admissions,9,HHS Region,737
+202446,2024-25,Influenza Hospital Admissions,10,HHS Region,78
+202447,2024-25,Influenza Hospital Admissions,1,HHS Region,62
+202447,2024-25,Influenza Hospital Admissions,2,HHS Region,192
+202447,2024-25,Influenza Hospital Admissions,3,HHS Region,204
+202447,2024-25,Influenza Hospital Admissions,4,HHS Region,675
+202447,2024-25,Influenza Hospital Admissions,5,HHS Region,244
+202447,2024-25,Influenza Hospital Admissions,6,HHS Region,401
+202447,2024-25,Influenza Hospital Admissions,7,HHS Region,65
+202447,2024-25,Influenza Hospital Admissions,8,HHS Region,63
+202447,2024-25,Influenza Hospital Admissions,9,HHS Region,1057
+202447,2024-25,Influenza Hospital Admissions,10,HHS Region,127
+202448,2024-25,Influenza Hospital Admissions,1,HHS Region,98
+202448,2024-25,Influenza Hospital Admissions,2,HHS Region,491
+202448,2024-25,Influenza Hospital Admissions,3,HHS Region,196
+202448,2024-25,Influenza Hospital Admissions,4,HHS Region,899
+202448,2024-25,Influenza Hospital Admissions,5,HHS Region,274
+202448,2024-25,Influenza Hospital Admissions,6,HHS Region,651
+202448,2024-25,Influenza Hospital Admissions,7,HHS Region,76
+202448,2024-25,Influenza Hospital Admissions,8,HHS Region,102
+202448,2024-25,Influenza Hospital Admissions,9,HHS Region,1362
+202448,2024-25,Influenza Hospital Admissions,10,HHS Region,198
+202449,2024-25,Influenza Hospital Admissions,1,HHS Region,125
+202449,2024-25,Influenza Hospital Admissions,2,HHS Region,823
+202449,2024-25,Influenza Hospital Admissions,3,HHS Region,310
+202449,2024-25,Influenza Hospital Admissions,4,HHS Region,1199
+202449,2024-25,Influenza Hospital Admissions,5,HHS Region,419
+202449,2024-25,Influenza Hospital Admissions,6,HHS Region,864
+202449,2024-25,Influenza Hospital Admissions,7,HHS Region,112
+202449,2024-25,Influenza Hospital Admissions,8,HHS Region,164
+202449,2024-25,Influenza Hospital Admissions,9,HHS Region,2049
+202449,2024-25,Influenza Hospital Admissions,10,HHS Region,290
+202450,2024-25,Influenza Hospital Admissions,1,HHS Region,210
+202450,2024-25,Influenza Hospital Admissions,2,HHS Region,978
+202450,2024-25,Influenza Hospital Admissions,3,HHS Region,522
+202450,2024-25,Influenza Hospital Admissions,4,HHS Region,1877
+202450,2024-25,Influenza Hospital Admissions,5,HHS Region,855
+202450,2024-25,Influenza Hospital Admissions,6,HHS Region,1165
+202450,2024-25,Influenza Hospital Admissions,7,HHS Region,214
+202450,2024-25,Influenza Hospital Admissions,8,HHS Region,260
+202450,2024-25,Influenza Hospital Admissions,9,HHS Region,2548
+202450,2024-25,Influenza Hospital Admissions,10,HHS Region,515
+202451,2024-25,Influenza Hospital Admissions,1,HHS Region,243
+202451,2024-25,Influenza Hospital Admissions,2,HHS Region,1429
+202451,2024-25,Influenza Hospital Admissions,3,HHS Region,787
+202451,2024-25,Influenza Hospital Admissions,4,HHS Region,3187
+202451,2024-25,Influenza Hospital Admissions,5,HHS Region,1580
+202451,2024-25,Influenza Hospital Admissions,6,HHS Region,1951
+202451,2024-25,Influenza Hospital Admissions,7,HHS Region,485
+202451,2024-25,Influenza Hospital Admissions,8,HHS Region,404
+202451,2024-25,Influenza Hospital Admissions,9,HHS Region,4191
+202451,2024-25,Influenza Hospital Admissions,10,HHS Region,1005
+202452,2024-25,Influenza Hospital Admissions,1,HHS Region,551
+202452,2024-25,Influenza Hospital Admissions,2,HHS Region,2294
+202452,2024-25,Influenza Hospital Admissions,3,HHS Region,1782
+202452,2024-25,Influenza Hospital Admissions,4,HHS Region,5867
+202452,2024-25,Influenza Hospital Admissions,5,HHS Region,3647
+202452,2024-25,Influenza Hospital Admissions,6,HHS Region,3276
+202452,2024-25,Influenza Hospital Admissions,7,HHS Region,1077
+202452,2024-25,Influenza Hospital Admissions,8,HHS Region,967
+202452,2024-25,Influenza Hospital Admissions,9,HHS Region,6100
+202452,2024-25,Influenza Hospital Admissions,10,HHS Region,1442
+202501,2024-25,Influenza Hospital Admissions,1,HHS Region,1131
+202501,2024-25,Influenza Hospital Admissions,2,HHS Region,4898
+202501,2024-25,Influenza Hospital Admissions,3,HHS Region,3200
+202501,2024-25,Influenza Hospital Admissions,4,HHS Region,7814
+202501,2024-25,Influenza Hospital Admissions,5,HHS Region,5555
+202501,2024-25,Influenza Hospital Admissions,6,HHS Region,4044
+202501,2024-25,Influenza Hospital Admissions,7,HHS Region,1533
+202501,2024-25,Influenza Hospital Admissions,8,HHS Region,1439
+202501,2024-25,Influenza Hospital Admissions,9,HHS Region,7183
+202501,2024-25,Influenza Hospital Admissions,10,HHS Region,1367
+202502,2024-25,Influenza Hospital Admissions,1,HHS Region,1118
+202502,2024-25,Influenza Hospital Admissions,2,HHS Region,4572
+202502,2024-25,Influenza Hospital Admissions,3,HHS Region,2678
+202502,2024-25,Influenza Hospital Admissions,4,HHS Region,6298
+202502,2024-25,Influenza Hospital Admissions,5,HHS Region,4819
+202502,2024-25,Influenza Hospital Admissions,6,HHS Region,3164
+202502,2024-25,Influenza Hospital Admissions,7,HHS Region,1307
+202502,2024-25,Influenza Hospital Admissions,8,HHS Region,967
+202502,2024-25,Influenza Hospital Admissions,9,HHS Region,4900
+202502,2024-25,Influenza Hospital Admissions,10,HHS Region,882
+202503,2024-25,Influenza Hospital Admissions,1,HHS Region,1293
+202503,2024-25,Influenza Hospital Admissions,2,HHS Region,4241
+202503,2024-25,Influenza Hospital Admissions,3,HHS Region,3664
+202503,2024-25,Influenza Hospital Admissions,4,HHS Region,6992
+202503,2024-25,Influenza Hospital Admissions,5,HHS Region,5006
+202503,2024-25,Influenza Hospital Admissions,6,HHS Region,3802
+202503,2024-25,Influenza Hospital Admissions,7,HHS Region,1121
+202503,2024-25,Influenza Hospital Admissions,8,HHS Region,901
+202503,2024-25,Influenza Hospital Admissions,9,HHS Region,4745
+202503,2024-25,Influenza Hospital Admissions,10,HHS Region,801
+202504,2024-25,Influenza Hospital Admissions,1,HHS Region,1786
+202504,2024-25,Influenza Hospital Admissions,2,HHS Region,4809
+202504,2024-25,Influenza Hospital Admissions,3,HHS Region,4724
+202504,2024-25,Influenza Hospital Admissions,4,HHS Region,8648
+202504,2024-25,Influenza Hospital Admissions,5,HHS Region,6659
+202504,2024-25,Influenza Hospital Admissions,6,HHS Region,5037
+202504,2024-25,Influenza Hospital Admissions,7,HHS Region,1344
+202504,2024-25,Influenza Hospital Admissions,8,HHS Region,964
+202504,2024-25,Influenza Hospital Admissions,9,HHS Region,5178
+202504,2024-25,Influenza Hospital Admissions,10,HHS Region,813
+202505,2024-25,Influenza Hospital Admissions,1,HHS Region,2335
+202505,2024-25,Influenza Hospital Admissions,2,HHS Region,4872
+202505,2024-25,Influenza Hospital Admissions,3,HHS Region,6130
+202505,2024-25,Influenza Hospital Admissions,4,HHS Region,11074
+202505,2024-25,Influenza Hospital Admissions,5,HHS Region,8822
+202505,2024-25,Influenza Hospital Admissions,6,HHS Region,7080
+202505,2024-25,Influenza Hospital Admissions,7,HHS Region,2150
+202505,2024-25,Influenza Hospital Admissions,8,HHS Region,1193
+202505,2024-25,Influenza Hospital Admissions,9,HHS Region,5414
+202505,2024-25,Influenza Hospital Admissions,10,HHS Region,1261
+202506,2024-25,Influenza Hospital Admissions,1,HHS Region,2824
+202506,2024-25,Influenza Hospital Admissions,2,HHS Region,4906
+202506,2024-25,Influenza Hospital Admissions,3,HHS Region,7169
+202506,2024-25,Influenza Hospital Admissions,4,HHS Region,11120
+202506,2024-25,Influenza Hospital Admissions,5,HHS Region,10083
+202506,2024-25,Influenza Hospital Admissions,6,HHS Region,6460
+202506,2024-25,Influenza Hospital Admissions,7,HHS Region,2572
+202506,2024-25,Influenza Hospital Admissions,8,HHS Region,1391
+202506,2024-25,Influenza Hospital Admissions,9,HHS Region,4529
+202506,2024-25,Influenza Hospital Admissions,10,HHS Region,1495
+202507,2024-25,Influenza Hospital Admissions,1,HHS Region,2700
+202507,2024-25,Influenza Hospital Admissions,2,HHS Region,4204
+202507,2024-25,Influenza Hospital Admissions,3,HHS Region,7341
+202507,2024-25,Influenza Hospital Admissions,4,HHS Region,7857
+202507,2024-25,Influenza Hospital Admissions,5,HHS Region,9826
+202507,2024-25,Influenza Hospital Admissions,6,HHS Region,4078
+202507,2024-25,Influenza Hospital Admissions,7,HHS Region,2232
+202507,2024-25,Influenza Hospital Admissions,8,HHS Region,1259
+202507,2024-25,Influenza Hospital Admissions,9,HHS Region,3621
+202507,2024-25,Influenza Hospital Admissions,10,HHS Region,1360
+202508,2024-25,Influenza Hospital Admissions,1,HHS Region,2300
+202508,2024-25,Influenza Hospital Admissions,2,HHS Region,3323
+202508,2024-25,Influenza Hospital Admissions,3,HHS Region,5796
+202508,2024-25,Influenza Hospital Admissions,4,HHS Region,5721
+202508,2024-25,Influenza Hospital Admissions,5,HHS Region,8991
+202508,2024-25,Influenza Hospital Admissions,6,HHS Region,3142
+202508,2024-25,Influenza Hospital Admissions,7,HHS Region,1982
+202508,2024-25,Influenza Hospital Admissions,8,HHS Region,1125
+202508,2024-25,Influenza Hospital Admissions,9,HHS Region,2918
+202508,2024-25,Influenza Hospital Admissions,10,HHS Region,1359
+202439,2024-25,Average patients with influenza in ICU,1,HHS Region,0.43
+202439,2024-25,Average patients with influenza in ICU,2,HHS Region,3.14
+202439,2024-25,Average patients with influenza in ICU,3,HHS Region,6.71
+202439,2024-25,Average patients with influenza in ICU,4,HHS Region,3.34
+202439,2024-25,Average patients with influenza in ICU,5,HHS Region,4.79
+202439,2024-25,Average patients with influenza in ICU,6,HHS Region,0
+202439,2024-25,Average patients with influenza in ICU,7,HHS Region,0
+202439,2024-25,Average patients with influenza in ICU,8,HHS Region,0.14
+202439,2024-25,Average patients with influenza in ICU,9,HHS Region,1.29
+202439,2024-25,Average patients with influenza in ICU,10,HHS Region,1.43
+202440,2024-25,Average patients with influenza in ICU,1,HHS Region,0.57
+202440,2024-25,Average patients with influenza in ICU,2,HHS Region,2.58
+202440,2024-25,Average patients with influenza in ICU,3,HHS Region,6.14
+202440,2024-25,Average patients with influenza in ICU,4,HHS Region,5.71
+202440,2024-25,Average patients with influenza in ICU,5,HHS Region,3.38
+202440,2024-25,Average patients with influenza in ICU,6,HHS Region,0.14
+202440,2024-25,Average patients with influenza in ICU,7,HHS Region,0
+202440,2024-25,Average patients with influenza in ICU,8,HHS Region,0
+202440,2024-25,Average patients with influenza in ICU,9,HHS Region,3.72
+202440,2024-25,Average patients with influenza in ICU,10,HHS Region,0.29
+202441,2024-25,Average patients with influenza in ICU,1,HHS Region,0
+202441,2024-25,Average patients with influenza in ICU,2,HHS Region,0
+202441,2024-25,Average patients with influenza in ICU,3,HHS Region,2
+202441,2024-25,Average patients with influenza in ICU,4,HHS Region,9
+202441,2024-25,Average patients with influenza in ICU,5,HHS Region,1
+202441,2024-25,Average patients with influenza in ICU,6,HHS Region,4
+202441,2024-25,Average patients with influenza in ICU,7,HHS Region,0
+202441,2024-25,Average patients with influenza in ICU,8,HHS Region,0
+202441,2024-25,Average patients with influenza in ICU,9,HHS Region,5
+202441,2024-25,Average patients with influenza in ICU,10,HHS Region,0
+202442,2024-25,Average patients with influenza in ICU,1,HHS Region,0
+202442,2024-25,Average patients with influenza in ICU,2,HHS Region,2
+202442,2024-25,Average patients with influenza in ICU,3,HHS Region,3
+202442,2024-25,Average patients with influenza in ICU,4,HHS Region,32
+202442,2024-25,Average patients with influenza in ICU,5,HHS Region,19
+202442,2024-25,Average patients with influenza in ICU,6,HHS Region,9
+202442,2024-25,Average patients with influenza in ICU,7,HHS Region,2
+202442,2024-25,Average patients with influenza in ICU,8,HHS Region,1
+202442,2024-25,Average patients with influenza in ICU,9,HHS Region,3
+202442,2024-25,Average patients with influenza in ICU,10,HHS Region,1
+202443,2024-25,Average patients with influenza in ICU,1,HHS Region,3
+202443,2024-25,Average patients with influenza in ICU,2,HHS Region,4
+202443,2024-25,Average patients with influenza in ICU,3,HHS Region,6
+202443,2024-25,Average patients with influenza in ICU,4,HHS Region,47
+202443,2024-25,Average patients with influenza in ICU,5,HHS Region,79
+202443,2024-25,Average patients with influenza in ICU,6,HHS Region,20
+202443,2024-25,Average patients with influenza in ICU,7,HHS Region,1
+202443,2024-25,Average patients with influenza in ICU,8,HHS Region,1
+202443,2024-25,Average patients with influenza in ICU,9,HHS Region,15
+202443,2024-25,Average patients with influenza in ICU,10,HHS Region,2
+202444,2024-25,Average patients with influenza in ICU,1,HHS Region,3
+202444,2024-25,Average patients with influenza in ICU,2,HHS Region,3
+202444,2024-25,Average patients with influenza in ICU,3,HHS Region,8
+202444,2024-25,Average patients with influenza in ICU,4,HHS Region,38
+202444,2024-25,Average patients with influenza in ICU,5,HHS Region,9
+202444,2024-25,Average patients with influenza in ICU,6,HHS Region,21
+202444,2024-25,Average patients with influenza in ICU,7,HHS Region,4
+202444,2024-25,Average patients with influenza in ICU,8,HHS Region,1
+202444,2024-25,Average patients with influenza in ICU,9,HHS Region,24
+202444,2024-25,Average patients with influenza in ICU,10,HHS Region,2
+202445,2024-25,Average patients with influenza in ICU,1,HHS Region,1
+202445,2024-25,Average patients with influenza in ICU,2,HHS Region,10
+202445,2024-25,Average patients with influenza in ICU,3,HHS Region,17
+202445,2024-25,Average patients with influenza in ICU,4,HHS Region,56
+202445,2024-25,Average patients with influenza in ICU,5,HHS Region,14
+202445,2024-25,Average patients with influenza in ICU,6,HHS Region,44
+202445,2024-25,Average patients with influenza in ICU,7,HHS Region,7
+202445,2024-25,Average patients with influenza in ICU,8,HHS Region,5
+202445,2024-25,Average patients with influenza in ICU,9,HHS Region,47
+202445,2024-25,Average patients with influenza in ICU,10,HHS Region,4
+202446,2024-25,Average patients with influenza in ICU,1,HHS Region,2
+202446,2024-25,Average patients with influenza in ICU,2,HHS Region,9
+202446,2024-25,Average patients with influenza in ICU,3,HHS Region,12
+202446,2024-25,Average patients with influenza in ICU,4,HHS Region,62
+202446,2024-25,Average patients with influenza in ICU,5,HHS Region,16
+202446,2024-25,Average patients with influenza in ICU,6,HHS Region,49
+202446,2024-25,Average patients with influenza in ICU,7,HHS Region,10
+202446,2024-25,Average patients with influenza in ICU,8,HHS Region,8
+202446,2024-25,Average patients with influenza in ICU,9,HHS Region,62
+202446,2024-25,Average patients with influenza in ICU,10,HHS Region,4
+202447,2024-25,Average patients with influenza in ICU,1,HHS Region,1
+202447,2024-25,Average patients with influenza in ICU,2,HHS Region,17
+202447,2024-25,Average patients with influenza in ICU,3,HHS Region,17
+202447,2024-25,Average patients with influenza in ICU,4,HHS Region,65
+202447,2024-25,Average patients with influenza in ICU,5,HHS Region,15
+202447,2024-25,Average patients with influenza in ICU,6,HHS Region,60
+202447,2024-25,Average patients with influenza in ICU,7,HHS Region,4
+202447,2024-25,Average patients with influenza in ICU,8,HHS Region,7
+202447,2024-25,Average patients with influenza in ICU,9,HHS Region,83
+202447,2024-25,Average patients with influenza in ICU,10,HHS Region,7
+202448,2024-25,Average patients with influenza in ICU,1,HHS Region,2
+202448,2024-25,Average patients with influenza in ICU,2,HHS Region,58
+202448,2024-25,Average patients with influenza in ICU,3,HHS Region,14
+202448,2024-25,Average patients with influenza in ICU,4,HHS Region,91
+202448,2024-25,Average patients with influenza in ICU,5,HHS Region,29
+202448,2024-25,Average patients with influenza in ICU,6,HHS Region,85
+202448,2024-25,Average patients with influenza in ICU,7,HHS Region,8
+202448,2024-25,Average patients with influenza in ICU,8,HHS Region,3
+202448,2024-25,Average patients with influenza in ICU,9,HHS Region,92
+202448,2024-25,Average patients with influenza in ICU,10,HHS Region,7
+202449,2024-25,Average patients with influenza in ICU,1,HHS Region,4
+202449,2024-25,Average patients with influenza in ICU,2,HHS Region,83
+202449,2024-25,Average patients with influenza in ICU,3,HHS Region,24
+202449,2024-25,Average patients with influenza in ICU,4,HHS Region,98
+202449,2024-25,Average patients with influenza in ICU,5,HHS Region,29
+202449,2024-25,Average patients with influenza in ICU,6,HHS Region,92
+202449,2024-25,Average patients with influenza in ICU,7,HHS Region,19
+202449,2024-25,Average patients with influenza in ICU,8,HHS Region,10
+202449,2024-25,Average patients with influenza in ICU,9,HHS Region,140
+202449,2024-25,Average patients with influenza in ICU,10,HHS Region,15
+202450,2024-25,Average patients with influenza in ICU,1,HHS Region,12
+202450,2024-25,Average patients with influenza in ICU,2,HHS Region,89
+202450,2024-25,Average patients with influenza in ICU,3,HHS Region,41
+202450,2024-25,Average patients with influenza in ICU,4,HHS Region,165
+202450,2024-25,Average patients with influenza in ICU,5,HHS Region,60
+202450,2024-25,Average patients with influenza in ICU,6,HHS Region,123
+202450,2024-25,Average patients with influenza in ICU,7,HHS Region,16
+202450,2024-25,Average patients with influenza in ICU,8,HHS Region,18
+202450,2024-25,Average patients with influenza in ICU,9,HHS Region,159
+202450,2024-25,Average patients with influenza in ICU,10,HHS Region,24
+202451,2024-25,Average patients with influenza in ICU,1,HHS Region,13
+202451,2024-25,Average patients with influenza in ICU,2,HHS Region,77
+202451,2024-25,Average patients with influenza in ICU,3,HHS Region,60
+202451,2024-25,Average patients with influenza in ICU,4,HHS Region,280
+202451,2024-25,Average patients with influenza in ICU,5,HHS Region,105
+202451,2024-25,Average patients with influenza in ICU,6,HHS Region,167
+202451,2024-25,Average patients with influenza in ICU,7,HHS Region,34
+202451,2024-25,Average patients with influenza in ICU,8,HHS Region,33
+202451,2024-25,Average patients with influenza in ICU,9,HHS Region,241
+202451,2024-25,Average patients with influenza in ICU,10,HHS Region,64
+202452,2024-25,Average patients with influenza in ICU,1,HHS Region,32
+202452,2024-25,Average patients with influenza in ICU,2,HHS Region,144
+202452,2024-25,Average patients with influenza in ICU,3,HHS Region,97
+202452,2024-25,Average patients with influenza in ICU,4,HHS Region,455
+202452,2024-25,Average patients with influenza in ICU,5,HHS Region,190
+202452,2024-25,Average patients with influenza in ICU,6,HHS Region,253
+202452,2024-25,Average patients with influenza in ICU,7,HHS Region,75
+202452,2024-25,Average patients with influenza in ICU,8,HHS Region,45
+202452,2024-25,Average patients with influenza in ICU,9,HHS Region,387
+202452,2024-25,Average patients with influenza in ICU,10,HHS Region,81
+202501,2024-25,Average patients with influenza in ICU,1,HHS Region,51
+202501,2024-25,Average patients with influenza in ICU,2,HHS Region,280
+202501,2024-25,Average patients with influenza in ICU,3,HHS Region,210
+202501,2024-25,Average patients with influenza in ICU,4,HHS Region,796
+202501,2024-25,Average patients with influenza in ICU,5,HHS Region,388
+202501,2024-25,Average patients with influenza in ICU,6,HHS Region,388
+202501,2024-25,Average patients with influenza in ICU,7,HHS Region,172
+202501,2024-25,Average patients with influenza in ICU,8,HHS Region,101
+202501,2024-25,Average patients with influenza in ICU,9,HHS Region,584
+202501,2024-25,Average patients with influenza in ICU,10,HHS Region,107
+202502,2024-25,Average patients with influenza in ICU,1,HHS Region,68
+202502,2024-25,Average patients with influenza in ICU,2,HHS Region,371
+202502,2024-25,Average patients with influenza in ICU,3,HHS Region,238
+202502,2024-25,Average patients with influenza in ICU,4,HHS Region,835
+202502,2024-25,Average patients with influenza in ICU,5,HHS Region,446
+202502,2024-25,Average patients with influenza in ICU,6,HHS Region,406
+202502,2024-25,Average patients with influenza in ICU,7,HHS Region,163
+202502,2024-25,Average patients with influenza in ICU,8,HHS Region,106
+202502,2024-25,Average patients with influenza in ICU,9,HHS Region,522
+202502,2024-25,Average patients with influenza in ICU,10,HHS Region,61
+202503,2024-25,Average patients with influenza in ICU,1,HHS Region,103
+202503,2024-25,Average patients with influenza in ICU,2,HHS Region,380
+202503,2024-25,Average patients with influenza in ICU,3,HHS Region,237
+202503,2024-25,Average patients with influenza in ICU,4,HHS Region,876
+202503,2024-25,Average patients with influenza in ICU,5,HHS Region,505
+202503,2024-25,Average patients with influenza in ICU,6,HHS Region,447
+202503,2024-25,Average patients with influenza in ICU,7,HHS Region,154
+202503,2024-25,Average patients with influenza in ICU,8,HHS Region,103
+202503,2024-25,Average patients with influenza in ICU,9,HHS Region,543
+202503,2024-25,Average patients with influenza in ICU,10,HHS Region,84
+202504,2024-25,Average patients with influenza in ICU,1,HHS Region,139
+202504,2024-25,Average patients with influenza in ICU,2,HHS Region,517
+202504,2024-25,Average patients with influenza in ICU,3,HHS Region,301
+202504,2024-25,Average patients with influenza in ICU,4,HHS Region,1013
+202504,2024-25,Average patients with influenza in ICU,5,HHS Region,556
+202504,2024-25,Average patients with influenza in ICU,6,HHS Region,544
+202504,2024-25,Average patients with influenza in ICU,7,HHS Region,134
+202504,2024-25,Average patients with influenza in ICU,8,HHS Region,105
+202504,2024-25,Average patients with influenza in ICU,9,HHS Region,551
+202504,2024-25,Average patients with influenza in ICU,10,HHS Region,77
+202505,2024-25,Average patients with influenza in ICU,1,HHS Region,174
+202505,2024-25,Average patients with influenza in ICU,2,HHS Region,542
+202505,2024-25,Average patients with influenza in ICU,3,HHS Region,392
+202505,2024-25,Average patients with influenza in ICU,4,HHS Region,1310
+202505,2024-25,Average patients with influenza in ICU,5,HHS Region,802
+202505,2024-25,Average patients with influenza in ICU,6,HHS Region,758
+202505,2024-25,Average patients with influenza in ICU,7,HHS Region,192
+202505,2024-25,Average patients with influenza in ICU,8,HHS Region,109
+202505,2024-25,Average patients with influenza in ICU,9,HHS Region,561
+202505,2024-25,Average patients with influenza in ICU,10,HHS Region,104
+202506,2024-25,Average patients with influenza in ICU,1,HHS Region,203
+202506,2024-25,Average patients with influenza in ICU,2,HHS Region,517
+202506,2024-25,Average patients with influenza in ICU,3,HHS Region,528
+202506,2024-25,Average patients with influenza in ICU,4,HHS Region,1530
+202506,2024-25,Average patients with influenza in ICU,5,HHS Region,944
+202506,2024-25,Average patients with influenza in ICU,6,HHS Region,849
+202506,2024-25,Average patients with influenza in ICU,7,HHS Region,268
+202506,2024-25,Average patients with influenza in ICU,8,HHS Region,112
+202506,2024-25,Average patients with influenza in ICU,9,HHS Region,534
+202506,2024-25,Average patients with influenza in ICU,10,HHS Region,124
+202507,2024-25,Average patients with influenza in ICU,1,HHS Region,241
+202507,2024-25,Average patients with influenza in ICU,2,HHS Region,501
+202507,2024-25,Average patients with influenza in ICU,3,HHS Region,575
+202507,2024-25,Average patients with influenza in ICU,4,HHS Region,1279
+202507,2024-25,Average patients with influenza in ICU,5,HHS Region,1156
+202507,2024-25,Average patients with influenza in ICU,6,HHS Region,707
+202507,2024-25,Average patients with influenza in ICU,7,HHS Region,300
+202507,2024-25,Average patients with influenza in ICU,8,HHS Region,125
+202507,2024-25,Average patients with influenza in ICU,9,HHS Region,492
+202507,2024-25,Average patients with influenza in ICU,10,HHS Region,130
+202508,2024-25,Average patients with influenza in ICU,1,HHS Region,227
+202508,2024-25,Average patients with influenza in ICU,2,HHS Region,472
+202508,2024-25,Average patients with influenza in ICU,3,HHS Region,544
+202508,2024-25,Average patients with influenza in ICU,4,HHS Region,998
+202508,2024-25,Average patients with influenza in ICU,5,HHS Region,1151
+202508,2024-25,Average patients with influenza in ICU,6,HHS Region,577
+202508,2024-25,Average patients with influenza in ICU,7,HHS Region,292
+202508,2024-25,Average patients with influenza in ICU,8,HHS Region,115
+202508,2024-25,Average patients with influenza in ICU,9,HHS Region,405
+202508,2024-25,Average patients with influenza in ICU,10,HHS Region,148
