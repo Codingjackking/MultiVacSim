@@ -1,12 +1,4 @@
-"Respiratory Virus Laboratory Emergency Department Network Surveillance (RESP-LENS) (downloaded on "Feb-20-2025)
-Influenza Division - Centers for Disease Control and Prevention.
-Week,Season,Virus,Region,RegionDescription,Age,Number_Tested,Number_Positive,Percent_Pos
-202340,2023-24,SARS-CoV-2,,National,,4821,675,14
-202340,2023-24,Influenza,,National,,4463,82,1.84
-202340,2023-24,RSV,,National,,3724,154,4.14
-202341,2023-24,SARS-CoV-2,,National,,4715,633,13.43
-202341,2023-24,Influenza,,National,,4404,104,2.36
-202341,2023-24,RSV,,National,,3693,163,4.41
+202341,2023-24,RSV,Unnamed: 3,National,Unnamed: 5,3693,163,4.41
 202342,2023-24,SARS-CoV-2,,National,,4966,652,13.13
 202342,2023-24,Influenza,,National,,4676,141,3.02
 202342,2023-24,RSV,,National,,3987,215,5.39
@@ -81,7 +73,7 @@ Week,Season,Virus,Region,RegionDescription,Age,Number_Tested,Number_Positive,Per
 202413,2023-24,RSV,,National,,4632,113,2.44
 202414,2023-24,SARS-CoV-2,,National,,5732,332,5.79
 202414,2023-24,Influenza,,National,,5517,564,10.22
-202414,2023-24,RSV,,National,,4541,91,2
+202414,2023-24,RSV,,National,,4541,91,2.0
 202415,2023-24,SARS-CoV-2,,National,,5536,288,5.2
 202415,2023-24,Influenza,,National,,5319,468,8.8
 202415,2023-24,RSV,,National,,4383,82,1.87
@@ -122,7 +114,7 @@ Week,Season,Virus,Region,RegionDescription,Age,Number_Tested,Number_Positive,Per
 202427,2023-24,Influenza,,National,,3780,39,1.03
 202427,2023-24,RSV,,National,,3196,8,0.25
 202428,2023-24,SARS-CoV-2,,National,,4359,1030,23.63
-202428,2023-24,Influenza,,National,,3819,38,1
+202428,2023-24,Influenza,,National,,3819,38,1.0
 202428,2023-24,RSV,,National,,3183,7,0.22
 202429,2023-24,SARS-CoV-2,,National,,4537,1210,26.67
 202429,2023-24,Influenza,,National,,3933,40,1.02
