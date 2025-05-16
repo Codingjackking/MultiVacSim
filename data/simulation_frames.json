@@ -1,0 +1,1752 @@
+[
+  {
+    "step": 0,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.25456550602971345,
+        "vaccinated": 0.6609138120907176,
+        "hospitalized": 0.028153744706548422
+      },
+      {
+        "name": "South",
+        "infected": 0.18417957751525993,
+        "vaccinated": 0.7213097699979183,
+        "hospitalized": 0.0528343382727981
+      },
+      {
+        "name": "East",
+        "infected": 0.31596647699908476,
+        "vaccinated": 0.6393317839394371,
+        "hospitalized": 0.053840982329800634
+      },
+      {
+        "name": "West",
+        "infected": 0.18454417678987495,
+        "vaccinated": 0.6133540904782282,
+        "hospitalized": 0.046950603272389126
+      },
+      {
+        "name": "Central",
+        "infected": 0.23540543383442952,
+        "vaccinated": 0.6956702316794584,
+        "hospitalized": 0.03428021078984102
+      }
+    ]
+  },
+  {
+    "step": 1,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.1334383523221111,
+        "vaccinated": 0.4163794626896703,
+        "hospitalized": 0.060159826538250874
+      },
+      {
+        "name": "South",
+        "infected": 0.14483166969130634,
+        "vaccinated": 0.38471094070475165,
+        "hospitalized": 0.05777157209061928
+      },
+      {
+        "name": "East",
+        "infected": 0.3246499758716396,
+        "vaccinated": 0.5993929088460106,
+        "hospitalized": 0.06676981548903284
+      },
+      {
+        "name": "West",
+        "infected": 0.20409146792737826,
+        "vaccinated": 0.5901110346808857,
+        "hospitalized": 0.06838152965975537
+      },
+      {
+        "name": "Central",
+        "infected": 0.18548627279056745,
+        "vaccinated": 0.6267392314071902,
+        "hospitalized": 0.05643395612392028
+      }
+    ]
+  },
+  {
+    "step": 2,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.16659547731784757,
+        "vaccinated": 0.6992042349536522,
+        "hospitalized": 0.04650080486609183
+      },
+      {
+        "name": "South",
+        "infected": 0.16221274202535776,
+        "vaccinated": 0.6536509843570404,
+        "hospitalized": 0.032030640364179255
+      },
+      {
+        "name": "East",
+        "infected": 0.20140905786845642,
+        "vaccinated": 0.5990881003355796,
+        "hospitalized": 0.07171791131663156
+      },
+      {
+        "name": "West",
+        "infected": 0.22373491164399764,
+        "vaccinated": 0.5974973041254856,
+        "hospitalized": 0.06635532598400574
+      },
+      {
+        "name": "Central",
+        "infected": 0.2695103774508657,
+        "vaccinated": 0.6557810306351862,
+        "hospitalized": 0.05020705239686762
+      }
+    ]
+  },
+  {
+    "step": 3,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.13440818838249202,
+        "vaccinated": 0.4934886336924627,
+        "hospitalized": 0.04389550591290665
+      },
+      {
+        "name": "South",
+        "infected": 0.16952438989203586,
+        "vaccinated": 0.5813028697014554,
+        "hospitalized": 0.051132998497942145
+      },
+      {
+        "name": "East",
+        "infected": 0.22648463771783656,
+        "vaccinated": 0.5929501221940908,
+        "hospitalized": 0.05973003287652404
+      },
+      {
+        "name": "West",
+        "infected": 0.20322372074050601,
+        "vaccinated": 0.4024533433646128,
+        "hospitalized": 0.031213292123624916
+      },
+      {
+        "name": "Central",
+        "infected": 0.19279562221391924,
+        "vaccinated": 0.4790305257158892,
+        "hospitalized": 0.0619985745999241
+      }
+    ]
+  },
+  {
+    "step": 4,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.2765375416171849,
+        "vaccinated": 0.7218761851697316,
+        "hospitalized": 0.045731142581395844
+      },
+      {
+        "name": "South",
+        "infected": 0.27453630684249763,
+        "vaccinated": 0.6148667457202112,
+        "hospitalized": 0.04325828057763922
+      },
+      {
+        "name": "East",
+        "infected": 0.16932986682295303,
+        "vaccinated": 0.5697530313511872,
+        "hospitalized": 0.04223646362917543
+      },
+      {
+        "name": "West",
+        "infected": 0.2085208111187744,
+        "vaccinated": 0.6160573981049864,
+        "hospitalized": 0.05006092040306829
+      },
+      {
+        "name": "Central",
+        "infected": 0.2218469084873175,
+        "vaccinated": 0.7190646274786341,
+        "hospitalized": 0.06899108270882648
+      }
+    ]
+  },
+  {
+    "step": 5,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.12575510157750483,
+        "vaccinated": 0.3446078865098045,
+        "hospitalized": 0.06868639822478548
+      },
+      {
+        "name": "South",
+        "infected": 0.13165606507922895,
+        "vaccinated": 0.5775234598107316,
+        "hospitalized": 0.02659773947881281
+      },
+      {
+        "name": "East",
+        "infected": 0.10990097812099903,
+        "vaccinated": 0.6541462728204788,
+        "hospitalized": 0.06518310320605294
+      },
+      {
+        "name": "West",
+        "infected": 0.17117447996366403,
+        "vaccinated": 0.340895770785509,
+        "hospitalized": 0.039075111034950344
+      },
+      {
+        "name": "Central",
+        "infected": 0.21959020027012732,
+        "vaccinated": 0.4521088431225871,
+        "hospitalized": 0.053667198395583114
+      }
+    ]
+  },
+  {
+    "step": 6,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.19923450754135022,
+        "vaccinated": 0.6579291499601088,
+        "hospitalized": 0.05239160736828307
+      },
+      {
+        "name": "South",
+        "infected": 0.15134655295592223,
+        "vaccinated": 0.7196571501664492,
+        "hospitalized": 0.046829408539460604
+      },
+      {
+        "name": "East",
+        "infected": 0.1986347730245034,
+        "vaccinated": 0.5066732040926804,
+        "hospitalized": 0.041134354976169796
+      },
+      {
+        "name": "West",
+        "infected": 0.15575986429865496,
+        "vaccinated": 0.5827053940076576,
+        "hospitalized": 0.08423416960284688
+      },
+      {
+        "name": "Central",
+        "infected": 0.13140494285343218,
+        "vaccinated": 0.4386438602123258,
+        "hospitalized": 0.07942340654987218
+      }
+    ]
+  },
+  {
+    "step": 7,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.18953381614240672,
+        "vaccinated": 0.5330927261340084,
+        "hospitalized": 0.07079809374792154
+      },
+      {
+        "name": "South",
+        "infected": 0.1697192230131568,
+        "vaccinated": 0.7826009713546936,
+        "hospitalized": 0.06355851742678538
+      },
+      {
+        "name": "East",
+        "infected": 0.17560442959271488,
+        "vaccinated": 0.8157308213265504,
+        "hospitalized": 0.03788570153993323
+      },
+      {
+        "name": "West",
+        "infected": 0.23710476860046537,
+        "vaccinated": 0.6299292580406491,
+        "hospitalized": 0.07603482578797596
+      },
+      {
+        "name": "Central",
+        "infected": 0.27807555983634263,
+        "vaccinated": 0.6032004149065766,
+        "hospitalized": 0.03493164259307634
+      }
+    ]
+  },
+  {
+    "step": 8,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.22299860714695582,
+        "vaccinated": 0.5322284630247893,
+        "hospitalized": 0.09026774495053247
+      },
+      {
+        "name": "South",
+        "infected": 0.20682676655413687,
+        "vaccinated": 0.5634678448687891,
+        "hospitalized": 0.05369360611729817
+      },
+      {
+        "name": "East",
+        "infected": 0.1326436855235152,
+        "vaccinated": 0.5028385961489348,
+        "hospitalized": 0.07400827815888851
+      },
+      {
+        "name": "West",
+        "infected": 0.1671552860514302,
+        "vaccinated": 0.49530890173180603,
+        "hospitalized": 0.06073305505054573
+      },
+      {
+        "name": "Central",
+        "infected": 0.2592852077331499,
+        "vaccinated": 0.6718953310665067,
+        "hospitalized": 0.06992095371611633
+      }
+    ]
+  },
+  {
+    "step": 9,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.16216024557152697,
+        "vaccinated": 0.4578189333258156,
+        "hospitalized": 0.08002667303910974
+      },
+      {
+        "name": "South",
+        "infected": 0.18386600805789322,
+        "vaccinated": 0.5749166983544952,
+        "hospitalized": 0.07656388283698116
+      },
+      {
+        "name": "East",
+        "infected": 0.227811500470033,
+        "vaccinated": 0.6455887772081608,
+        "hospitalized": 0.09330004689802168
+      },
+      {
+        "name": "West",
+        "infected": 0.16782408848099287,
+        "vaccinated": 0.6927840128081237,
+        "hospitalized": 0.051140262497941694
+      },
+      {
+        "name": "Central",
+        "infected": 0.21342961394316284,
+        "vaccinated": 0.7528468426412531,
+        "hospitalized": 0.06015671512579248
+      }
+    ]
+  },
+  {
+    "step": 10,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.22691480395248165,
+        "vaccinated": 0.7072507337309802,
+        "hospitalized": 0.042700945409142294
+      },
+      {
+        "name": "South",
+        "infected": 0.1580395166330497,
+        "vaccinated": 0.4955190805978966,
+        "hospitalized": 0.010672868212479966
+      },
+      {
+        "name": "East",
+        "infected": 0.30281035649701615,
+        "vaccinated": 0.4896791634278317,
+        "hospitalized": 0.04557492752828456
+      },
+      {
+        "name": "West",
+        "infected": 0.18615933500555398,
+        "vaccinated": 0.63074066978091,
+        "hospitalized": 0.06631474425078594
+      },
+      {
+        "name": "Central",
+        "infected": 0.24302367441798728,
+        "vaccinated": 0.5416922561431061,
+        "hospitalized": 0.04665756572427177
+      }
+    ]
+  },
+  {
+    "step": 11,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.214128997524415,
+        "vaccinated": 0.5751308873816453,
+        "hospitalized": 0.08214691152039985
+      },
+      {
+        "name": "South",
+        "infected": 0.22454874758191257,
+        "vaccinated": 0.6734877786049818,
+        "hospitalized": 0.06325762537334825
+      },
+      {
+        "name": "East",
+        "infected": 0.2586736928742663,
+        "vaccinated": 0.6181021558703707,
+        "hospitalized": 0.02406336104088307
+      },
+      {
+        "name": "West",
+        "infected": 0.2199843975876321,
+        "vaccinated": 0.5348643106208171,
+        "hospitalized": 0.03942766636500487
+      },
+      {
+        "name": "Central",
+        "infected": 0.22931820093775468,
+        "vaccinated": 0.7238283071433635,
+        "hospitalized": 0.05042543153472123
+      }
+    ]
+  },
+  {
+    "step": 12,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.2154416506299482,
+        "vaccinated": 0.7702214944635237,
+        "hospitalized": 0.05481506358977137
+      },
+      {
+        "name": "South",
+        "infected": 0.3300841557090197,
+        "vaccinated": 0.6565509645631544,
+        "hospitalized": 0.014784744816883647
+      },
+      {
+        "name": "East",
+        "infected": 0.23766708105522663,
+        "vaccinated": 0.6381158384882778,
+        "hospitalized": 0.07579505508165492
+      },
+      {
+        "name": "West",
+        "infected": 0.23365906756349794,
+        "vaccinated": 0.5861544016016226,
+        "hospitalized": 0.025514035274212688
+      },
+      {
+        "name": "Central",
+        "infected": 0.18954883713569876,
+        "vaccinated": 0.5149479545790699,
+        "hospitalized": 0.03838953100390555
+      }
+    ]
+  },
+  {
+    "step": 13,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.2294289202210305,
+        "vaccinated": 0.7669904504351406,
+        "hospitalized": 0.05789343059645963
+      },
+      {
+        "name": "South",
+        "infected": 0.14020584689824078,
+        "vaccinated": 0.6444602668220141,
+        "hospitalized": 0.07393262973291302
+      },
+      {
+        "name": "East",
+        "infected": 0.16951085478403088,
+        "vaccinated": 0.5865982833327082,
+        "hospitalized": 0.05029376389458395
+      },
+      {
+        "name": "West",
+        "infected": 0.160755084345888,
+        "vaccinated": 0.6648280433843858,
+        "hospitalized": 0.04758103702784437
+      },
+      {
+        "name": "Central",
+        "infected": 0.2209766221953514,
+        "vaccinated": 0.5112507822197899,
+        "hospitalized": 0.04125083399353179
+      }
+    ]
+  },
+  {
+    "step": 14,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.2361190678913886,
+        "vaccinated": 0.5627166847908233,
+        "hospitalized": 0.0845392770246681
+      },
+      {
+        "name": "South",
+        "infected": 0.1800181907192699,
+        "vaccinated": 0.6224684725751886,
+        "hospitalized": 0.0686518166374618
+      },
+      {
+        "name": "East",
+        "infected": 0.12908171335334842,
+        "vaccinated": 0.42391911880192235,
+        "hospitalized": 0.019486873708598106
+      },
+      {
+        "name": "West",
+        "infected": 0.2631292051713591,
+        "vaccinated": 0.5448141854107553,
+        "hospitalized": 0.10116398571336505
+      },
+      {
+        "name": "Central",
+        "infected": 0.17178762006713058,
+        "vaccinated": 0.6184551303197037,
+        "hospitalized": 0.08084219905135752
+      }
+    ]
+  },
+  {
+    "step": 15,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.3003046444079562,
+        "vaccinated": 0.8061503576636397,
+        "hospitalized": 0.07416732461186284
+      },
+      {
+        "name": "South",
+        "infected": 0.2512031262905731,
+        "vaccinated": 0.6592526949201183,
+        "hospitalized": 0.06556722152333276
+      },
+      {
+        "name": "East",
+        "infected": 0.17244071418357335,
+        "vaccinated": 0.5181801116577692,
+        "hospitalized": 0.049932510851780965
+      },
+      {
+        "name": "West",
+        "infected": 0.1914907688737536,
+        "vaccinated": 0.5546771950672724,
+        "hospitalized": 0.0639277489491343
+      },
+      {
+        "name": "Central",
+        "infected": 0.24776526042852554,
+        "vaccinated": 0.6088406886291847,
+        "hospitalized": 0.07955060162110524
+      }
+    ]
+  },
+  {
+    "step": 16,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.14291554429332476,
+        "vaccinated": 0.5806340540720282,
+        "hospitalized": 0.0356635535879439
+      },
+      {
+        "name": "South",
+        "infected": 0.106673169146347,
+        "vaccinated": 0.5917319314157301,
+        "hospitalized": 0.04756504983233433
+      },
+      {
+        "name": "East",
+        "infected": 0.27567248716210657,
+        "vaccinated": 0.6630811684554777,
+        "hospitalized": 0.029516263513415904
+      },
+      {
+        "name": "West",
+        "infected": 0.2927046283167094,
+        "vaccinated": 0.7221033695525353,
+        "hospitalized": 0.06164195406937232
+      },
+      {
+        "name": "Central",
+        "infected": 0.18867579505750842,
+        "vaccinated": 0.504056076327652,
+        "hospitalized": 0.04255586447857894
+      }
+    ]
+  },
+  {
+    "step": 17,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.2544374309852093,
+        "vaccinated": 0.7884586305934609,
+        "hospitalized": 0.08086487056544378
+      },
+      {
+        "name": "South",
+        "infected": 0.1755575289106863,
+        "vaccinated": 0.48803825667109885,
+        "hospitalized": 0.05281772493822408
+      },
+      {
+        "name": "East",
+        "infected": 0.11157803172185743,
+        "vaccinated": 0.6323167714184781,
+        "hospitalized": 0.04704794827402663
+      },
+      {
+        "name": "West",
+        "infected": 0.1766981749065879,
+        "vaccinated": 0.4405296932733204,
+        "hospitalized": 0.06027200213139433
+      },
+      {
+        "name": "Central",
+        "infected": 0.17336495801690444,
+        "vaccinated": 0.4830083164289712,
+        "hospitalized": 0
+      }
+    ]
+  },
+  {
+    "step": 18,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.1986242547474682,
+        "vaccinated": 0.7772251596669744,
+        "hospitalized": 0.0832251842909574
+      },
+      {
+        "name": "South",
+        "infected": 0.17714518717068642,
+        "vaccinated": 0.5397787939638219,
+        "hospitalized": 0.05937548512150048
+      },
+      {
+        "name": "East",
+        "infected": 0.15008072804058542,
+        "vaccinated": 0.6301791899819466,
+        "hospitalized": 0.06532160556769381
+      },
+      {
+        "name": "West",
+        "infected": 0.2613466611942154,
+        "vaccinated": 0.5899845923520047,
+        "hospitalized": 0.04592652499646069
+      },
+      {
+        "name": "Central",
+        "infected": 0.15610087066217196,
+        "vaccinated": 0.517311964596014,
+        "hospitalized": 0.04547042216196947
+      }
+    ]
+  },
+  {
+    "step": 19,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.2183682753408089,
+        "vaccinated": 0.6913584626233249,
+        "hospitalized": 0.0339364209863931
+      },
+      {
+        "name": "South",
+        "infected": 0.2746344284479761,
+        "vaccinated": 0.5728876398957431,
+        "hospitalized": 0.04957265411303128
+      },
+      {
+        "name": "East",
+        "infected": 0.16263941604260884,
+        "vaccinated": 0.3575759739727058,
+        "hospitalized": 0.06768090792722099
+      },
+      {
+        "name": "West",
+        "infected": 0.23684219485462168,
+        "vaccinated": 0.5718672442881786,
+        "hospitalized": 0.05133981434449744
+      },
+      {
+        "name": "Central",
+        "infected": 0.22579696088520498,
+        "vaccinated": 0.44374541431134573,
+        "hospitalized": 0.0394189464530741
+      }
+    ]
+  },
+  {
+    "step": 20,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.23971323398109137,
+        "vaccinated": 0.47457105768307506,
+        "hospitalized": 0.055871158643332586
+      },
+      {
+        "name": "South",
+        "infected": 0.13217090976882975,
+        "vaccinated": 0.6466429982433526,
+        "hospitalized": 0.04928717035405033
+      },
+      {
+        "name": "East",
+        "infected": 0.11924340920472454,
+        "vaccinated": 0.7164739354457171,
+        "hospitalized": 0.035308168464039016
+      },
+      {
+        "name": "West",
+        "infected": 0.15948737814928096,
+        "vaccinated": 0.6200569197230943,
+        "hospitalized": 0.07297274698857431
+      },
+      {
+        "name": "Central",
+        "infected": 0.14920890905108017,
+        "vaccinated": 0.6061679849847972,
+        "hospitalized": 0.058576330006611464
+      }
+    ]
+  },
+  {
+    "step": 21,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.23465528036315722,
+        "vaccinated": 0.6176441555277224,
+        "hospitalized": 0.04265944321833356
+      },
+      {
+        "name": "South",
+        "infected": 0.15862048896756403,
+        "vaccinated": 0.6086143883046374,
+        "hospitalized": 0.028557219760287866
+      },
+      {
+        "name": "East",
+        "infected": 0.05393247582526964,
+        "vaccinated": 0.6436559804157668,
+        "hospitalized": 0.0680786968217239
+      },
+      {
+        "name": "West",
+        "infected": 0.08185337822290809,
+        "vaccinated": 0.49902692952900624,
+        "hospitalized": 0.06238308522010396
+      },
+      {
+        "name": "Central",
+        "infected": 0.30287477348558495,
+        "vaccinated": 0.6020793707675408,
+        "hospitalized": 0.035439941175417315
+      }
+    ]
+  },
+  {
+    "step": 22,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.190855177944758,
+        "vaccinated": 0.7374876419148184,
+        "hospitalized": 0.0370807164175093
+      },
+      {
+        "name": "South",
+        "infected": 0.16004039966748734,
+        "vaccinated": 0.5517256477817968,
+        "hospitalized": 0.030933427834825757
+      },
+      {
+        "name": "East",
+        "infected": 0.2061335157997398,
+        "vaccinated": 0.762467845846956,
+        "hospitalized": 0.056461585462320586
+      },
+      {
+        "name": "West",
+        "infected": 0.18738232489368564,
+        "vaccinated": 0.5708188731084456,
+        "hospitalized": 0.018736183826066864
+      },
+      {
+        "name": "Central",
+        "infected": 0.24415548885735797,
+        "vaccinated": 0.5922162802987198,
+        "hospitalized": 0.04639040172818749
+      }
+    ]
+  },
+  {
+    "step": 23,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.35965537839224304,
+        "vaccinated": 0.6298752908365686,
+        "hospitalized": 0.03496417899809631
+      },
+      {
+        "name": "South",
+        "infected": 0.17868212018972285,
+        "vaccinated": 0.7148445709196755,
+        "hospitalized": 0.052265408210755294
+      },
+      {
+        "name": "East",
+        "infected": 0.12808610108413165,
+        "vaccinated": 0.6919228934575203,
+        "hospitalized": 0.03663711828922012
+      },
+      {
+        "name": "West",
+        "infected": 0.29366488881087727,
+        "vaccinated": 0.7080048065714648,
+        "hospitalized": 0.04105356208682498
+      },
+      {
+        "name": "Central",
+        "infected": 0.2640508180867557,
+        "vaccinated": 0.6067855510527403,
+        "hospitalized": 0.0670554735024444
+      }
+    ]
+  },
+  {
+    "step": 24,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.22423664086472375,
+        "vaccinated": 0.5153643345009127,
+        "hospitalized": 0.03712900335365076
+      },
+      {
+        "name": "South",
+        "infected": 0.2514980408790581,
+        "vaccinated": 0.5665224667893459,
+        "hospitalized": 0.04192703073516007
+      },
+      {
+        "name": "East",
+        "infected": 0.15224387103253237,
+        "vaccinated": 0.642359906559346,
+        "hospitalized": 0.0912504983848629
+      },
+      {
+        "name": "West",
+        "infected": 0.14662335428728637,
+        "vaccinated": 0.6024219456672758,
+        "hospitalized": 0.07824441110830858
+      },
+      {
+        "name": "Central",
+        "infected": 0.19601793043771426,
+        "vaccinated": 0.6452371796249734,
+        "hospitalized": 0.02875212943706241
+      }
+    ]
+  },
+  {
+    "step": 25,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.22141535486038244,
+        "vaccinated": 0.5812855734995451,
+        "hospitalized": 0.06971459991359727
+      },
+      {
+        "name": "South",
+        "infected": 0.2593693025782376,
+        "vaccinated": 0.8589563642018614,
+        "hospitalized": 0.061592663464271516
+      },
+      {
+        "name": "East",
+        "infected": 0.21628981582910833,
+        "vaccinated": 0.6194384301577336,
+        "hospitalized": 0.042936674143786234
+      },
+      {
+        "name": "West",
+        "infected": 0.21692419217308456,
+        "vaccinated": 0.5704598589860971,
+        "hospitalized": 0.05336921952539229
+      },
+      {
+        "name": "Central",
+        "infected": 0.265879876780398,
+        "vaccinated": 0.49934574347203586,
+        "hospitalized": 0.0727975712225809
+      }
+    ]
+  },
+  {
+    "step": 26,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.2658557533669933,
+        "vaccinated": 0.5881931473008921,
+        "hospitalized": 0.007562902019828108
+      },
+      {
+        "name": "South",
+        "infected": 0.1696089006452784,
+        "vaccinated": 0.7296994546561109,
+        "hospitalized": 0.04954263875402236
+      },
+      {
+        "name": "East",
+        "infected": 0.15003488838525447,
+        "vaccinated": 0.5495225078771783,
+        "hospitalized": 0.06681240053009106
+      },
+      {
+        "name": "West",
+        "infected": 0.227336678410069,
+        "vaccinated": 0.5761067900830306,
+        "hospitalized": 0.04266351176370625
+      },
+      {
+        "name": "Central",
+        "infected": 0.1804120925478089,
+        "vaccinated": 0.5077589815501498,
+        "hospitalized": 0.08230751378938883
+      }
+    ]
+  },
+  {
+    "step": 27,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.183883976539433,
+        "vaccinated": 0.7217158520825496,
+        "hospitalized": 0.08042632103844903
+      },
+      {
+        "name": "South",
+        "infected": 0.24991554490739804,
+        "vaccinated": 0.5568379687281951,
+        "hospitalized": 0.05807460180673219
+      },
+      {
+        "name": "East",
+        "infected": 0.1987902196804542,
+        "vaccinated": 0.5096298139269871,
+        "hospitalized": 0.056487185634432065
+      },
+      {
+        "name": "West",
+        "infected": 0.14104801044200987,
+        "vaccinated": 0.7187679388461563,
+        "hospitalized": 0.04070765405403214
+      },
+      {
+        "name": "Central",
+        "infected": 0.21005798279364196,
+        "vaccinated": 0.6283287871546142,
+        "hospitalized": 0.04482190052591846
+      }
+    ]
+  },
+  {
+    "step": 28,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.22933469007376375,
+        "vaccinated": 0.5525096343377476,
+        "hospitalized": 0.06742594594914489
+      },
+      {
+        "name": "South",
+        "infected": 0.1327010159876626,
+        "vaccinated": 0.6126379579546412,
+        "hospitalized": 0.0887785799811657
+      },
+      {
+        "name": "East",
+        "infected": 0.14998343376972129,
+        "vaccinated": 0.5322255029475148,
+        "hospitalized": 0.0602781569931783
+      },
+      {
+        "name": "West",
+        "infected": 0.2089790890969799,
+        "vaccinated": 0.6350630099273559,
+        "hospitalized": 0.05978374260295327
+      },
+      {
+        "name": "Central",
+        "infected": 0.2317360734280885,
+        "vaccinated": 0.7109699841956223,
+        "hospitalized": 0.058196373138570255
+      }
+    ]
+  },
+  {
+    "step": 29,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.1879371172690729,
+        "vaccinated": 0.6672573701202731,
+        "hospitalized": 0.0879976386979043
+      },
+      {
+        "name": "South",
+        "infected": 0.19336831268087135,
+        "vaccinated": 0.5025470695329358,
+        "hospitalized": 0.07214161338573946
+      },
+      {
+        "name": "East",
+        "infected": 0.1939809418023201,
+        "vaccinated": 0.3827330453985963,
+        "hospitalized": 0.06694843354300843
+      },
+      {
+        "name": "West",
+        "infected": 0.17323359070230387,
+        "vaccinated": 0.5909466717695839,
+        "hospitalized": 0.056639606611380296
+      },
+      {
+        "name": "Central",
+        "infected": 0.20952498398895333,
+        "vaccinated": 0.6709451817139039,
+        "hospitalized": 0.041290272588603134
+      }
+    ]
+  },
+  {
+    "step": 30,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.22565528990880415,
+        "vaccinated": 0.5740453322416083,
+        "hospitalized": 0.06477620961775006
+      },
+      {
+        "name": "South",
+        "infected": 0.2307683742006527,
+        "vaccinated": 0.5064561297955404,
+        "hospitalized": 0.07171964232350064
+      },
+      {
+        "name": "East",
+        "infected": 0.1732018277442976,
+        "vaccinated": 0.6808057798281145,
+        "hospitalized": 0.05734574626802681
+      },
+      {
+        "name": "West",
+        "infected": 0.29190918383975617,
+        "vaccinated": 0.5776534017628148,
+        "hospitalized": 0.04301366407763605
+      },
+      {
+        "name": "Central",
+        "infected": 0.19902901970561337,
+        "vaccinated": 0.5696820217165725,
+        "hospitalized": 0.065998838038841
+      }
+    ]
+  },
+  {
+    "step": 31,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.11918446957817061,
+        "vaccinated": 0.4946317580853646,
+        "hospitalized": 0.02864394156841614
+      },
+      {
+        "name": "South",
+        "infected": 0.2475153795986788,
+        "vaccinated": 0.7710613372581925,
+        "hospitalized": 0.04791101562925057
+      },
+      {
+        "name": "East",
+        "infected": 0.19155891384049947,
+        "vaccinated": 0.6070052163113181,
+        "hospitalized": 0.0732375660521638
+      },
+      {
+        "name": "West",
+        "infected": 0.15363234329047132,
+        "vaccinated": 0.6238368982734785,
+        "hospitalized": 0.0695039525956486
+      },
+      {
+        "name": "Central",
+        "infected": 0.22505470849699227,
+        "vaccinated": 0.6189581616598743,
+        "hospitalized": 0.07002092185134283
+      }
+    ]
+  },
+  {
+    "step": 32,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.06483838535003814,
+        "vaccinated": 0.6677875319530907,
+        "hospitalized": 0.036918486337451525
+      },
+      {
+        "name": "South",
+        "infected": 0.10846835515717716,
+        "vaccinated": 0.651120259952498,
+        "hospitalized": 0.07747317090325916
+      },
+      {
+        "name": "East",
+        "infected": 0.19312757426861543,
+        "vaccinated": 0.6952874547202939,
+        "hospitalized": 0.08224556515977291
+      },
+      {
+        "name": "West",
+        "infected": 0.2657457226792024,
+        "vaccinated": 0.7639964529371392,
+        "hospitalized": 0.06484254982143785
+      },
+      {
+        "name": "Central",
+        "infected": 0.20377168194507966,
+        "vaccinated": 0.4398034188102831,
+        "hospitalized": 0.04507875023740103
+      }
+    ]
+  },
+  {
+    "step": 33,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.15783767023419043,
+        "vaccinated": 0.8170942717497813,
+        "hospitalized": 0.04648228375135327
+      },
+      {
+        "name": "South",
+        "infected": 0.20616024033922428,
+        "vaccinated": 0.6551485376040467,
+        "hospitalized": 0.05087204892744908
+      },
+      {
+        "name": "East",
+        "infected": 0.28475255202153765,
+        "vaccinated": 0.5377350638265548,
+        "hospitalized": 0.05389214910474486
+      },
+      {
+        "name": "West",
+        "infected": 0.1628764707150976,
+        "vaccinated": 0.4679977488779294,
+        "hospitalized": 0.03776461818189429
+      },
+      {
+        "name": "Central",
+        "infected": 0.1981481601475794,
+        "vaccinated": 0.557069777548274,
+        "hospitalized": 0.03615158040252288
+      }
+    ]
+  },
+  {
+    "step": 34,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.1296841268164083,
+        "vaccinated": 0.5916894427371305,
+        "hospitalized": 0.01990559251937996
+      },
+      {
+        "name": "South",
+        "infected": 0.23800279818448014,
+        "vaccinated": 0.6082439752934503,
+        "hospitalized": 0.020848970010701393
+      },
+      {
+        "name": "East",
+        "infected": 0.18453954614750684,
+        "vaccinated": 0.5247843594409416,
+        "hospitalized": 0.05638349020838361
+      },
+      {
+        "name": "West",
+        "infected": 0.26702252230115725,
+        "vaccinated": 0.4124827530354255,
+        "hospitalized": 0.052300521582948345
+      },
+      {
+        "name": "Central",
+        "infected": 0.191993360221668,
+        "vaccinated": 0.6671340076450465,
+        "hospitalized": 0.054263932564753786
+      }
+    ]
+  },
+  {
+    "step": 35,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.16240153341305905,
+        "vaccinated": 0.5680946064333382,
+        "hospitalized": 0.03407948286393022
+      },
+      {
+        "name": "South",
+        "infected": 0.2538003569299299,
+        "vaccinated": 0.6021311648671942,
+        "hospitalized": 0.08802381371506016
+      },
+      {
+        "name": "East",
+        "infected": 0.19696695930926897,
+        "vaccinated": 0.5291593233089537,
+        "hospitalized": 0.01972571214774346
+      },
+      {
+        "name": "West",
+        "infected": 0.10984301618720275,
+        "vaccinated": 0.44158640569945096,
+        "hospitalized": 0.05534253302022967
+      },
+      {
+        "name": "Central",
+        "infected": 0.2254362511614967,
+        "vaccinated": 0.4418809297967866,
+        "hospitalized": 0.0679007662815223
+      }
+    ]
+  },
+  {
+    "step": 36,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.17584694741582804,
+        "vaccinated": 0.614679301198555,
+        "hospitalized": 0.08224441256510849
+      },
+      {
+        "name": "South",
+        "infected": 0.2448419657932766,
+        "vaccinated": 0.5731469352094167,
+        "hospitalized": 0.03217615549169425
+      },
+      {
+        "name": "East",
+        "infected": 0.09240922993353476,
+        "vaccinated": 0.5280846680757579,
+        "hospitalized": 0.045777395223446114
+      },
+      {
+        "name": "West",
+        "infected": 0.1506410236424408,
+        "vaccinated": 0.5868743032907695,
+        "hospitalized": 0.05153703765917537
+      },
+      {
+        "name": "Central",
+        "infected": 0.18875720090959608,
+        "vaccinated": 0.534999741917654,
+        "hospitalized": 0.05337309343933456
+      }
+    ]
+  },
+  {
+    "step": 37,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.22209703247847046,
+        "vaccinated": 0.49096009225571535,
+        "hospitalized": 0.0782186475949254
+      },
+      {
+        "name": "South",
+        "infected": 0.19507059338578692,
+        "vaccinated": 0.6018849622944847,
+        "hospitalized": 0.06416428846513114
+      },
+      {
+        "name": "East",
+        "infected": 0.2116608065631751,
+        "vaccinated": 0.6953136633913245,
+        "hospitalized": 0.055742483304036486
+      },
+      {
+        "name": "West",
+        "infected": 0.16937813126797813,
+        "vaccinated": 0.6361503525206101,
+        "hospitalized": 0.027125475853586767
+      },
+      {
+        "name": "Central",
+        "infected": 0.20542798528882616,
+        "vaccinated": 0.5966770009355539,
+        "hospitalized": 0.04583766285454921
+      }
+    ]
+  },
+  {
+    "step": 38,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.19357312442805347,
+        "vaccinated": 0.4118150954502361,
+        "hospitalized": 0.03902550184518078
+      },
+      {
+        "name": "South",
+        "infected": 0.20464224505705575,
+        "vaccinated": 0.61598563919974,
+        "hospitalized": 0.02944649718148084
+      },
+      {
+        "name": "East",
+        "infected": 0.26328539204323503,
+        "vaccinated": 0.5133825151785498,
+        "hospitalized": 0.06938914401053474
+      },
+      {
+        "name": "West",
+        "infected": 0.22135971809358426,
+        "vaccinated": 0.5353772690156197,
+        "hospitalized": 0.08550621785219024
+      },
+      {
+        "name": "Central",
+        "infected": 0.14031815841217601,
+        "vaccinated": 0.6919154173610002,
+        "hospitalized": 0.07001164636085958
+      }
+    ]
+  },
+  {
+    "step": 39,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.16646898954616776,
+        "vaccinated": 0.7392465300064328,
+        "hospitalized": 0.04499906970802095
+      },
+      {
+        "name": "South",
+        "infected": 0.21443468146399286,
+        "vaccinated": 0.626032183877122,
+        "hospitalized": 0.04731382517058905
+      },
+      {
+        "name": "East",
+        "infected": 0.24054041365798912,
+        "vaccinated": 0.6793488720552213,
+        "hospitalized": 0.015029360535236388
+      },
+      {
+        "name": "West",
+        "infected": 0.26521701214390764,
+        "vaccinated": 0.4337508011964325,
+        "hospitalized": 0.07065092408683316
+      },
+      {
+        "name": "Central",
+        "infected": 0.2563352568413792,
+        "vaccinated": 0.49090335697848014,
+        "hospitalized": 0.04178371424090831
+      }
+    ]
+  },
+  {
+    "step": 40,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.14471476657570323,
+        "vaccinated": 0.5785078969711265,
+        "hospitalized": 0.043839314316285176
+      },
+      {
+        "name": "South",
+        "infected": 0.23898302661346701,
+        "vaccinated": 0.7310308746119608,
+        "hospitalized": 0.07791367621579913
+      },
+      {
+        "name": "East",
+        "infected": 0.1718915986710849,
+        "vaccinated": 0.5790778126255473,
+        "hospitalized": 0.016331236155581
+      },
+      {
+        "name": "West",
+        "infected": 0.15970649667519057,
+        "vaccinated": 0.6964851633097457,
+        "hospitalized": 0.08231165647096464
+      },
+      {
+        "name": "Central",
+        "infected": 0.1382825564060039,
+        "vaccinated": 0.5407535740847106,
+        "hospitalized": 0.04947188486082146
+      }
+    ]
+  },
+  {
+    "step": 41,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.21400805794098035,
+        "vaccinated": 0.5190396480078354,
+        "hospitalized": 0.0584812208892818
+      },
+      {
+        "name": "South",
+        "infected": 0.1763080326464542,
+        "vaccinated": 0.5985547729121721,
+        "hospitalized": 0.06092568496007399
+      },
+      {
+        "name": "East",
+        "infected": 0.2003211134905469,
+        "vaccinated": 0.5563614109473431,
+        "hospitalized": 0.047807803921483386
+      },
+      {
+        "name": "West",
+        "infected": 0.19558185203973324,
+        "vaccinated": 0.5629988970117872,
+        "hospitalized": 0.044824078746657954
+      },
+      {
+        "name": "Central",
+        "infected": 0.27993235852523585,
+        "vaccinated": 0.6560919447941238,
+        "hospitalized": 0.044090393639416796
+      }
+    ]
+  },
+  {
+    "step": 42,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.2348477202255368,
+        "vaccinated": 0.566618051024399,
+        "hospitalized": 0.07346249275173283
+      },
+      {
+        "name": "South",
+        "infected": 0.21848210960990472,
+        "vaccinated": 0.5892697855995771,
+        "hospitalized": 0.05895433851620556
+      },
+      {
+        "name": "East",
+        "infected": 0.12145619239657504,
+        "vaccinated": 0.48732325310901947,
+        "hospitalized": 0.026121499872018894
+      },
+      {
+        "name": "West",
+        "infected": 0.20714715473818535,
+        "vaccinated": 0.7732514999485092,
+        "hospitalized": 0.09462600292385265
+      },
+      {
+        "name": "Central",
+        "infected": 0.23190255507203789,
+        "vaccinated": 0.6500844474944457,
+        "hospitalized": 0.013978845316945224
+      }
+    ]
+  },
+  {
+    "step": 43,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.1728663100132989,
+        "vaccinated": 0.5212216248091761,
+        "hospitalized": 0.03758304803497768
+      },
+      {
+        "name": "South",
+        "infected": 0.19159280907076054,
+        "vaccinated": 0.5527909422302872,
+        "hospitalized": 0.01041400379248425
+      },
+      {
+        "name": "East",
+        "infected": 0.2373955128058767,
+        "vaccinated": 0.49272569742601935,
+        "hospitalized": 0.054784937282222994
+      },
+      {
+        "name": "West",
+        "infected": 0.3037041334874987,
+        "vaccinated": 0.5080615408413576,
+        "hospitalized": 0
+      },
+      {
+        "name": "Central",
+        "infected": 0.18569978890599448,
+        "vaccinated": 0.7100959634998572,
+        "hospitalized": 0.08916694908441189
+      }
+    ]
+  },
+  {
+    "step": 44,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.13852252027737916,
+        "vaccinated": 0.6496699223236522,
+        "hospitalized": 0.040693790864398935
+      },
+      {
+        "name": "South",
+        "infected": 0.19470258228479323,
+        "vaccinated": 0.8644343347017034,
+        "hospitalized": 0.019940593432096938
+      },
+      {
+        "name": "East",
+        "infected": 0.2126869830747287,
+        "vaccinated": 0.6467693171765433,
+        "hospitalized": 0.07171572649878695
+      },
+      {
+        "name": "West",
+        "infected": 0.20489915767354477,
+        "vaccinated": 0.6308050539504102,
+        "hospitalized": 0.04216702865156418
+      },
+      {
+        "name": "Central",
+        "infected": 0.21345634706225539,
+        "vaccinated": 0.5656807724502589,
+        "hospitalized": 0.06243143779712102
+      }
+    ]
+  },
+  {
+    "step": 45,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.1815194831978183,
+        "vaccinated": 0.6377100393902186,
+        "hospitalized": 0.049414743726300434
+      },
+      {
+        "name": "South",
+        "infected": 0.2563025125386084,
+        "vaccinated": 0.5948606276411513,
+        "hospitalized": 0.014539350635862376
+      },
+      {
+        "name": "East",
+        "infected": 0.2630960750356996,
+        "vaccinated": 0.509426769913738,
+        "hospitalized": 0.036924673227023606
+      },
+      {
+        "name": "West",
+        "infected": 0.1702169352978254,
+        "vaccinated": 0.7374438093170818,
+        "hospitalized": 0.007286515720426094
+      },
+      {
+        "name": "Central",
+        "infected": 0.3568874266829997,
+        "vaccinated": 0.7056056809066051,
+        "hospitalized": 0.0544647782825832
+      }
+    ]
+  },
+  {
+    "step": 46,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.1972552999691857,
+        "vaccinated": 0.6285554074857657,
+        "hospitalized": 0.06042244856758677
+      },
+      {
+        "name": "South",
+        "infected": 0.23226077929750286,
+        "vaccinated": 0.6555604466003448,
+        "hospitalized": 0.05179161362510498
+      },
+      {
+        "name": "East",
+        "infected": 0.19013307898463372,
+        "vaccinated": 0.5848726716346488,
+        "hospitalized": 0.046101834392946385
+      },
+      {
+        "name": "West",
+        "infected": 0.25668850484335326,
+        "vaccinated": 0.6593556722280862,
+        "hospitalized": 0
+      },
+      {
+        "name": "Central",
+        "infected": 0.23279503882648805,
+        "vaccinated": 0.6194736194718775,
+        "hospitalized": 0.04962582487108205
+      }
+    ]
+  },
+  {
+    "step": 47,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.18057407734555572,
+        "vaccinated": 0.7124112719986013,
+        "hospitalized": 0.06895052924245716
+      },
+      {
+        "name": "South",
+        "infected": 0.16135611660881954,
+        "vaccinated": 0.6407052287124535,
+        "hospitalized": 0.030566865309174282
+      },
+      {
+        "name": "East",
+        "infected": 0.13101909176055349,
+        "vaccinated": 0.5373282775410034,
+        "hospitalized": 0.06724786944765518
+      },
+      {
+        "name": "West",
+        "infected": 0.24765625226880433,
+        "vaccinated": 0.6513085420097293,
+        "hospitalized": 0.06450191573695994
+      },
+      {
+        "name": "Central",
+        "infected": 0.22580891435574793,
+        "vaccinated": 0.5358518404777047,
+        "hospitalized": 0.05863845089347881
+      }
+    ]
+  },
+  {
+    "step": 48,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.24002047626138412,
+        "vaccinated": 0.6754291329813574,
+        "hospitalized": 0.07377826742949287
+      },
+      {
+        "name": "South",
+        "infected": 0.2354151923600532,
+        "vaccinated": 0.6351448207541582,
+        "hospitalized": 0.07140300476632855
+      },
+      {
+        "name": "East",
+        "infected": 0.19867393703754702,
+        "vaccinated": 0.5118125348772282,
+        "hospitalized": 0.046738660721124724
+      },
+      {
+        "name": "West",
+        "infected": 0.16275486775967757,
+        "vaccinated": 0.5324821725025618,
+        "hospitalized": 0.047109626585689644
+      },
+      {
+        "name": "Central",
+        "infected": 0.16037900395000193,
+        "vaccinated": 0.569203847036096,
+        "hospitalized": 0.01212770666092429
+      }
+    ]
+  },
+  {
+    "step": 49,
+    "regions": [
+      {
+        "name": "North",
+        "infected": 0.21066468536864694,
+        "vaccinated": 0.6001205475362223,
+        "hospitalized": 0.03365822737863619
+      },
+      {
+        "name": "South",
+        "infected": 0.23296228342162026,
+        "vaccinated": 0.6937570137626559,
+        "hospitalized": 0.017848802712620522
+      },
+      {
+        "name": "East",
+        "infected": 0.1618637610716893,
+        "vaccinated": 0.5230857650212701,
+        "hospitalized": 0.03120193797782271
+      },
+      {
+        "name": "West",
+        "infected": 0.24147374209658745,
+        "vaccinated": 0.5806173861227196,
+        "hospitalized": 0.044709703173787786
+      },
+      {
+        "name": "Central",
+        "infected": 0.09980688177966233,
+        "vaccinated": 0.6635418030209226,
+        "hospitalized": 0.025214832102930552
+      }
+    ]
+  }
+]
